@@ -1,99 +1,50 @@
 
 <!DOCTYPE html>
-<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#" itemscope itemtype="http://schema.org/Article">
-
-<!-- head -->
-<head>
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MT7TQKD');</script>
-<!-- End Google Tag Manager -->
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-99039457-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-99039457-1');
-</script>
-
-<!-- adsense-->
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-1309288289002475",
-          enable_page_level_ads: true
-     });
-</script>
-
-<!-- Conversion tracking from contact form for analytic
-<script>
-document.addEventListener( 'wpcf7mailsent', function( event ) {
-    ga('send', 'event', 'DM Conversion', 'submit');
-    gtag_report_conversion();
-}, false );
-</script>
- -->
-
-<!-- meta -->
+<html lang="id-ID">
+<head >
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>66 Cara Menambah Followers Instagram &amp; Twitter (18x Lipat)</title>
+<link rel="alternate" hreflang="id-id" href="http://panduanim.com/menambah-followers/" />
 
-<link rel="shortcut icon" href="http://www.digitalmarketer.co.id/wp-content/uploads/2017/06/favicon.png" />	
-	
-
-<!-- wp_head() -->
-<title>Strategi Meningkatkan Penjualan Melalui Media Sosial</title>
-<!-- script | dynamic -->
-<script id="mfn-dnmc-config-js">
-//<![CDATA[
-window.mfn_ajax = "http://www.digitalmarketer.co.id/wp-admin/admin-ajax.php";
-window.mfn = {mobile_init:1240,nicescroll:40,parallax:"translate3d",responsive:1,retina_js:0};
-window.mfn_prettyphoto = {disable:false,disableMobile:false,title:false,style:"pp_default",width:0,height:0};
-window.mfn_sliders = {blog:0,clients:0,offer:0,portfolio:0,shop:0,slider:0,testimonials:0};
-//]]>
-</script>
-
-<!-- This site is optimized with the Yoast SEO Premium plugin v5.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Social Media sudah menjadi media untuk promosi atau memperkenalkan produk bisnis. Perannya dalam bisnis makin menunjukkan performa mengagumkan."/>
-<link rel="canonical" href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/" />
-<meta property="og:locale" content="en_US" />
+<!-- This site is optimized with the Yoast SEO plugin v12.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Ingin meningkatkan followers di Instagram dan Twitter? Ingin mendapatkan banyak like di Facebook? Inilah satu-satunya panduan yang anda butuhkan."/>
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
+<link rel="canonical" href="http://panduanim.com/menambah-followers/" />
+<meta property="og:locale" content="id_ID" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Strategi Meningkatkan Penjualan Melalui Media Sosial" />
-<meta property="og:description" content="Social Media sudah menjadi media untuk promosi atau memperkenalkan produk bisnis. Perannya dalam bisnis makin menunjukkan performa mengagumkan." />
-<meta property="og:url" content="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/" />
-<meta property="og:site_name" content="Digital Marketer" />
-<meta property="article:publisher" content="https://www.facebook.com/Digitalmarketer.co.id/" />
-<meta property="article:tag" content="Bisnis Online" />
-<meta property="article:tag" content="sosial media" />
-<meta property="article:section" content="Semua" />
-<meta property="article:published_time" content="2018-02-05T11:51:18+00:00" />
-<meta property="article:modified_time" content="2018-06-21T23:57:22+00:00" />
-<meta property="og:updated_time" content="2018-06-21T23:57:22+00:00" />
-<meta property="og:image" content="http://www.digitalmarketer.co.id/wp-content/uploads/2018/02/Strategi-Meningkatkan-Penjualan-Melalui-Media-Sosial.jpg" />
-<meta property="og:image:width" content="797" />
-<meta property="og:image:height" content="480" />
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="Social Media sudah menjadi media untuk promosi atau memperkenalkan produk bisnis. Perannya dalam bisnis makin menunjukkan performa mengagumkan." />
-<meta name="twitter:title" content="Strategi Meningkatkan Penjualan Melalui Media Sosial" />
-<meta name="twitter:image" content="http://www.digitalmarketer.co.id/wp-content/uploads/2018/02/Strategi-Meningkatkan-Penjualan-Melalui-Media-Sosial.jpg" />
-<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.digitalmarketer.co.id\/","name":"Digital Marketer","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.digitalmarketer.co.id\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<!-- / Yoast SEO Premium plugin. -->
+<meta property="og:title" content="66+ Strategi yang Bisa Anda Lakukan untuk Mendapatkan Followers dan Like di Instagram, Twitter, dan Facebook" />
+<meta property="og:description" content="Ingin meningkatkan followers di Instagram dan Twitter? Ingin mendapatkan banyak like di Facebook? Inilah satu-satunya panduan yang anda butuhkan." />
+<meta property="og:url" content="http://panduanim.com/menambah-followers/" />
+<meta property="og:site_name" content="PanduanIM" />
+<meta property="article:publisher" content="https://www.facebook.com/PanduanIM" />
+<meta property="article:author" content="https://facebook.com/PanduanIM" />
+<meta property="article:section" content="Social Media Marketing" />
+<meta property="article:published_time" content="2015-10-21T03:55:55+00:00" />
+<meta property="article:modified_time" content="2016-03-16T08:11:00+00:00" />
+<meta property="og:updated_time" content="2016-03-16T08:11:00+00:00" />
+<meta property="og:image" content="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Mendapatkan-Followers.png?fit=750%2C390&#038;quality=100&#038;strip=all" />
+<meta property="og:image:secure_url" content="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Mendapatkan-Followers.png?fit=750%2C390&#038;quality=100&#038;strip=all" />
+<meta property="og:image:width" content="750" />
+<meta property="og:image:height" content="390" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Ingin meningkatkan followers di Instagram dan Twitter? Ingin mendapatkan banyak like di Facebook? Inilah satu-satunya panduan yang anda butuhkan." />
+<meta name="twitter:title" content="66+ Strategi yang Bisa Anda Lakukan untuk Mendapatkan Followers dan Like di Instagram, Twitter, dan Facebook" />
+<meta name="twitter:site" content="@Panduan_IM" />
+<meta name="twitter:image" content="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Mendapatkan-Followers.png?fit=750%2C390&#038;quality=100&#038;strip=all" />
+<meta name="twitter:creator" content="@Panduan_IM" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://panduanim.com/#website","url":"http://panduanim.com/","name":"PanduanIM","publisher":{"@id":"http://panduanim.com/#/schema/person/"},"potentialAction":{"@type":"SearchAction","target":"http://panduanim.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"http://panduanim.com/menambah-followers/#primaryimage","url":"https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Mendapatkan-Followers.png?fit=750%2C390&quality=100&strip=all","width":750,"height":390},{"@type":"WebPage","@id":"http://panduanim.com/menambah-followers/#webpage","url":"http://panduanim.com/menambah-followers/","inLanguage":"id-ID","name":"66 Cara Menambah Followers Instagram &amp; Twitter (18x Lipat)","isPartOf":{"@id":"http://panduanim.com/#website"},"primaryImageOfPage":{"@id":"http://panduanim.com/menambah-followers/#primaryimage"},"datePublished":"2015-10-21T03:55:55+00:00","dateModified":"2016-03-16T08:11:00+00:00","description":"Ingin meningkatkan followers di Instagram dan Twitter? Ingin mendapatkan banyak like di Facebook? Inilah satu-satunya panduan yang anda butuhkan."},{"@type":"Article","@id":"http://panduanim.com/menambah-followers/#article","isPartOf":{"@id":"http://panduanim.com/menambah-followers/#webpage"},"author":{"@id":"http://panduanim.com/#/schema/person/e7f135d0f8dcfdabeaae9d31529dc095"},"headline":"66+ Strategi yang Bisa Anda Lakukan untuk Mendapatkan Followers  dan Like di Instagram, Twitter, dan Facebook","datePublished":"2015-10-21T03:55:55+00:00","dateModified":"2016-03-16T08:11:00+00:00","commentCount":"15","mainEntityOfPage":{"@id":"http://panduanim.com/menambah-followers/#webpage"},"publisher":{"@id":"http://panduanim.com/#/schema/person/"},"image":{"@id":"http://panduanim.com/menambah-followers/#primaryimage"},"articleSection":"Social Media Marketing"},{"@type":["Person"],"@id":"http://panduanim.com/#/schema/person/e7f135d0f8dcfdabeaae9d31529dc095","name":"Darmawan","image":{"@type":"ImageObject","@id":"http://panduanim.com/#authorlogo","url":"http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=96&d=identicon&r=g","caption":"Darmawan"},"sameAs":["https://facebook.com/PanduanIM","https://twitter.com/Panduan_IM"]}]}</script>
+<!-- / Yoast SEO plugin. -->
 
-<script type='text/javascript'>console.log('PixelYourSite PRO version 7.3.8');</script>
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Digital Marketer &raquo; Feed" href="http://www.digitalmarketer.co.id/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Digital Marketer &raquo; Comments Feed" href="http://www.digitalmarketer.co.id/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Digital Marketer &raquo; Strategi Meningkatkan Penjualan Melalui Media Sosial Comments Feed" href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PanduanIM &raquo; Feed" href="http://panduanim.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PanduanIM &raquo; Umpan Komentar" href="http://panduanim.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PanduanIM &raquo; 66+ Strategi yang Bisa Anda Lakukan untuk Mendapatkan Followers  dan Like di Instagram, Twitter, dan Facebook Umpan Komentar" href="http://panduanim.com/menambah-followers/feed/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.digitalmarketer.co.id\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.21"}};
-			!function(t,a,e){var r,n,i,o=a.createElement("canvas"),l=o.getContext&&o.getContext("2d");function c(t){var e=a.createElement("script");e.src=t,e.defer=e.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(e)}for(i=Array("flag","emoji4"),e.supports={everything:!0,everythingExceptFlag:!0},n=0;n<i.length;n++)e.supports[i[n]]=function(t){var e,a=String.fromCharCode;if(!l||!l.fillText)return!1;switch(l.clearRect(0,0,o.width,o.height),l.textBaseline="top",l.font="600 32px Arial",t){case"flag":return(l.fillText(a(55356,56826,55356,56819),0,0),o.toDataURL().length<3e3)?!1:(l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,65039,8205,55356,57096),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55356,57331,55356,57096),0,0),e!==o.toDataURL());case"emoji4":return l.fillText(a(55357,56425,55356,57341,8205,55357,56507),0,0),e=o.toDataURL(),l.clearRect(0,0,o.width,o.height),l.fillText(a(55357,56425,55356,57341,55357,56507),0,0),e!==o.toDataURL()}return!1}(i[n]),e.supports.everything=e.supports.everything&&e.supports[i[n]],"flag"!==i[n]&&(e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&e.supports[i[n]]);e.supports.everythingExceptFlag=e.supports.everythingExceptFlag&&!e.supports.flag,e.DOMReady=!1,e.readyCallback=function(){e.DOMReady=!0},e.supports.everything||(r=function(){e.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",r,!1),t.addEventListener("load",r,!1)):(t.attachEvent("onload",r),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&e.readyCallback()})),(r=e.source||{}).concatemoji?c(r.concatemoji):r.wpemoji&&r.twemoji&&(c(r.twemoji),c(r.wpemoji)))}(window,document,window._wpemojiSettings);
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/panduanim.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.18"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
 img.wp-smiley,
@@ -109,1217 +60,1384 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='contact-form-7-css'  href='http://www.digitalmarketer.co.id/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9' type='text/css' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.digitalmarketer.co.id/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.1' type='text/css' media='all' />
-<style id='rs-plugin-settings-inline-css' type='text/css'>
-#rs-demo-id {}
+<link rel='stylesheet' id='genesis-sample-theme-css'  href='http://panduanim.com/wp-content/themes/genesis-sample/style.css?ver=2.1.320160213' type='text/css' media='all' />
+<link rel='stylesheet' id='tm_clicktotweet-css'  href='http://panduanim.com/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css?ver=4.9.18' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_style_family_tve_flt-css'  href='http://panduanim.com/wp-content/plugins/thrive-leads/tcb/editor/css/thrive_flat.css?ver=1.500.18' type='text/css' media='all' />
+<link rel='stylesheet' id='tve_leads_forms-css'  href='//panduanim.com/wp-content/plugins/thrive-leads/editor-layouts/css/frontend.css?ver=1.95.19' type='text/css' media='all' />
+<link rel='stylesheet' id='tve-leads-blank_set-css'  href='//panduanim.com/wp-content/plugins/thrive-leads/editor-templates/_form_css/blank_set.css?ver=1.95.19' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-legacy-dropdown-0-css'  href='http://panduanim.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/style.css?ver=1' type='text/css' media='all' />
+<style id='wpml-legacy-dropdown-0-inline-css' type='text/css'>
+.wpml-ls-statics-shortcode_actions{background-color:#ffffff;}.wpml-ls-statics-shortcode_actions, .wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu, .wpml-ls-statics-shortcode_actions a {border-color:#cdcdcd;}.wpml-ls-statics-shortcode_actions a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions a:hover,.wpml-ls-statics-shortcode_actions a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language:hover>a, .wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}
 </style>
-<link rel='stylesheet' id='uwac-css'  href='http://www.digitalmarketer.co.id/wp-content/plugins/uwac/public/css/uwac-public.css?ver=1.1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='uwac_dynamic-themes-css'  href='http://www.digitalmarketer.co.id/wp-admin/admin-ajax.php?action=uwac_dynamic_themes&#038;ver=1.1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-rest-filter-css'  href='http://www.digitalmarketer.co.id/wp-content/plugins/wp-rest-filter/public/css/wp-rest-filter-public.css?ver=1.2.5' type='text/css' media='all' />
-<link rel='stylesheet' id='style-css'  href='http://www.digitalmarketer.co.id/wp-content/themes/betheme/style.css?ver=17.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-base-css'  href='http://www.digitalmarketer.co.id/wp-content/themes/betheme/css/base.css?ver=17.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-layout-css'  href='http://www.digitalmarketer.co.id/wp-content/themes/betheme/css/layout.css?ver=17.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-shortcodes-css'  href='http://www.digitalmarketer.co.id/wp-content/themes/betheme/css/shortcodes.css?ver=17.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-animations-css'  href='http://www.digitalmarketer.co.id/wp-content/themes/betheme/assets/animations/animations.min.css?ver=17.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-jquery-ui-css'  href='http://www.digitalmarketer.co.id/wp-content/themes/betheme/assets/ui/jquery.ui.all.css?ver=17.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-prettyPhoto-css'  href='http://www.digitalmarketer.co.id/wp-content/themes/betheme/assets/prettyPhoto/prettyPhoto.css?ver=17.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-jplayer-css'  href='http://www.digitalmarketer.co.id/wp-content/themes/betheme/assets/jplayer/css/jplayer.blue.monday.css?ver=17.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='mfn-responsive-css'  href='http://www.digitalmarketer.co.id/wp-content/themes/betheme/css/responsive.css?ver=17.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='Lato-css'  href='http://fonts.googleapis.com/css?family=Lato%3A1%2C300%2C400%2C400italic%2C700%2C700italic&#038;ver=4.7.21' type='text/css' media='all' />
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.1'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.1'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/uwac/public/js/uwac-public.js?ver=1.1.0'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/wp-rest-filter/public/js/wp-rest-filter-public.js?ver=1.2.5'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/pixelyoursite-pro/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/pixelyoursite-pro/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=4.7.21'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/pixelyoursite-pro/dist/scripts/vimeo.min.js?ver=4.7.21'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var pysOptions = {"staticEvents":{"facebook":{"PageView":[{"params":[],"delay":0,"ids":[],"hasTimeWindow":false,"timeWindow":0}],"GeneralEvent":[{"params":{"post_type":"post","post_id":"2103","content_name":"Strategi Meningkatkan Penjualan Melalui Media Sosial","categories":"Semua, Sosial Media","tags":"Bisnis Online, sosial media"},"delay":0,"ids":[],"hasTimeWindow":false,"timeWindow":0}],"ViewContent":[{"params":[],"delay":0,"ids":[],"hasTimeWindow":false,"timeWindow":24}]},"google_ads":{"page_view":[{"params":{"items":[{"id":"2103","google_business_vertical":"custom"}]},"delay":0,"ids":[],"hasTimeWindow":false,"timeWindow":0}],"GeneralEvent":[{"params":{"post_type":"post","post_id":"2103","content_name":"Strategi Meningkatkan Penjualan Melalui Media Sosial","categories":"Semua, Sosial Media","tags":"Bisnis Online, sosial media"},"delay":0,"ids":[],"hasTimeWindow":false,"timeWindow":0}]}},"dynamicEventsParams":{"28782":{"facebook":{"name":"Contact","params":[],"hasTimeWindow":false,"timeWindow":24}},"28779":{"facebook":{"name":"Lead","params":[],"hasTimeWindow":false,"timeWindow":24}},"28771":{"facebook":{"name":"InitiateCheckout","params":[],"hasTimeWindow":false,"timeWindow":24}}},"dynamicEventsTriggers":{"css_click":{"28782":[".fb-contact"],"28779":[".fb-lead"],"28771":[".fb-initiatecheckout"]}},"facebook":{"pixelIds":["121570805154663"],"advancedMatching":[],"removeMetadata":false,"contentParams":{"post_type":"post","post_id":2103,"content_name":"Strategi Meningkatkan Penjualan Melalui Media Sosial","categories":"Semua, Sosial Media","tags":"Bisnis Online, sosial media"},"clickEventEnabled":true,"watchVideoEnabled":true,"adSenseEventEnabled":true,"commentEventEnabled":true,"formEventEnabled":true,"downloadEnabled":true,"wooVariableAsSimple":false},"google_ads":{"conversion_ids":[""],"clickEventEnabled":true,"watchVideoEnabled":true,"commentEventEnabled":true,"formEventEnabled":true,"downloadEnabled":true},"debug":"","siteUrl":"http:\/\/www.digitalmarketer.co.id","ajaxUrl":"http:\/\/www.digitalmarketer.co.id\/wp-admin\/admin-ajax.php","commonEventParams":{"domain":"www.digitalmarketer.co.id","user_roles":"guest","plugin":"PixelYourSite"},"clickEventEnabled":"1","adSenseEventEnabled":"1","watchVideoEnabled":"1","commentEventEnabled":"1","formEventEnabled":"1","downloadEventEnabled":"1","downloadExtensions":["","doc","exe","js","pdf","ppt","tgz","zip","xls"],"trackUTMs":"1","trackTrafficSource":"1","postType":"post","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":true,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":"marketing","cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","ginger_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false},"woo":{"enabled":false,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","singleProductId":null,"removeFromCartEnabled":true,"affiliateEnabled":true,"payPalEnabled":true,"removeFromCartSelector":".cart .product-remove .remove","checkoutProgressEnabled":false,"affiliateEventName":"Lead","paypalEventName":"AddPaymentInfo"},"edd":{"enabled":false,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":true,"addToCartOnButtonValueOption":"price","removeFromCartEnabled":true}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/pixelyoursite-pro/dist/scripts/public.js?ver=7.3.8'></script>
-<link rel='https://api.w.org/' href='http://www.digitalmarketer.co.id/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.digitalmarketer.co.id/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.digitalmarketer.co.id/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 4.7.21" />
-<link rel='shortlink' href='http://www.digitalmarketer.co.id/?p=2103' />
-<link rel="alternate" type="application/json+oembed" href="http://www.digitalmarketer.co.id/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.digitalmarketer.co.id%2Fstrategi-meningkatkan-penjualan-melalui-media-sosial%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://www.digitalmarketer.co.id/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.digitalmarketer.co.id%2Fstrategi-meningkatkan-penjualan-melalui-media-sosial%2F&#038;format=xml" />
-<!-- style | background -->
-<style id="mfn-dnmc-bg-css">
-#Subheader{background-image:url(http://www.digitalmarketer.co.id/wp-content/uploads/2016/03/home_vpn_subheader.jpg);background-repeat:no-repeat;background-position:center bottom}
-</style>
-<!-- style | dynamic -->
-<style id="mfn-dnmc-style-css">
-@media only screen and (min-width: 1240px) {body:not(.header-simple) #Top_bar #menu{display:block!important}.tr-menu #Top_bar #menu{background:none!important}#Top_bar .menu > li > ul.mfn-megamenu{width:984px}#Top_bar .menu > li > ul.mfn-megamenu > li{float:left}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-1{width:100%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-2{width:50%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-3{width:33.33%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-4{width:25%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-5{width:20%}#Top_bar .menu > li > ul.mfn-megamenu > li.mfn-megamenu-cols-6{width:16.66%}#Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto;border-width:0 1px 0 0}#Top_bar .menu > li > ul.mfn-megamenu > li:last-child > ul{border:0}#Top_bar .menu > li > ul.mfn-megamenu > li > ul li{width:auto}#Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400;background:none}#Top_bar .menu > li > ul.mfn-megamenu a .menu-arrow{display:none}.menuo-right #Top_bar .menu > li > ul.mfn-megamenu{left:auto;right:0}.menuo-right #Top_bar .menu > li > ul.mfn-megamenu-bg{box-sizing:border-box}#Top_bar .menu > li > ul.mfn-megamenu-bg{padding:20px 166px 20px 20px;background-repeat:no-repeat;background-position:right bottom}.rtl #Top_bar .menu > li > ul.mfn-megamenu-bg{padding-left:166px;padding-right:20px;background-position:left bottom}#Top_bar .menu > li > ul.mfn-megamenu-bg > li{background:none}#Top_bar .menu > li > ul.mfn-megamenu-bg > li a{border:none}#Top_bar .menu > li > ul.mfn-megamenu-bg > li > ul{background:none!important;-webkit-box-shadow:0 0 0 0;-moz-box-shadow:0 0 0 0;box-shadow:0 0 0 0}.mm-vertical #Top_bar .container{position:relative;}.mm-vertical #Top_bar .top_bar_left{position:static;}.mm-vertical #Top_bar .menu > li ul{box-shadow:0 0 0 0 transparent!important;background-image:none;}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu{width:98%!important;margin:0 1%;padding:20px 0;}.mm-vertical.header-plain #Top_bar .menu > li > ul.mfn-megamenu{width:100%!important;margin:0;}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li{display:table-cell;float:none!important;width:10%;padding:0 15px;border-right:1px solid rgba(0, 0, 0, 0.05);}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li:last-child{border-right-width:0}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li.hide-border{border-right-width:0}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li a{border-bottom-width:0;padding:9px 15px;line-height:120%;}.mm-vertical #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{font-weight:700;}.rtl .mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li:first-child{border-right-width:0}.rtl .mm-vertical #Top_bar .menu > li > ul.mfn-megamenu > li:last-child{border-right-width:1px}#Header_creative #Top_bar .menu > li > ul.mfn-megamenu{width:980px!important;margin:0;}.header-plain:not(.menuo-right) #Header .top_bar_left{width:auto!important}.header-stack.header-center #Top_bar #menu{display:inline-block!important}.header-simple #Top_bar #menu{display:none;height:auto;width:300px;bottom:auto;top:100%;right:1px;position:absolute;margin:0}.header-simple #Header a.responsive-menu-toggle{display:block;right:10px}.header-simple #Top_bar #menu > ul{width:100%;float:left}.header-simple #Top_bar #menu ul li{width:100%;padding-bottom:0;border-right:0;position:relative}.header-simple #Top_bar #menu ul li a{padding:0 20px;margin:0;display:block;height:auto;line-height:normal;border:none}.header-simple #Top_bar #menu ul li a:after{display:none}.header-simple #Top_bar #menu ul li a span{border:none;line-height:44px;display:inline;padding:0}.header-simple #Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:0;top:0;width:44px;height:44px;line-height:44px;font-size:30px;font-weight:300;text-align:center;cursor:pointer;color:#444;opacity:0.33;}.header-simple #Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}.header-simple #Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}.header-simple #Top_bar #menu ul li.hover a{border-bottom:0}.header-simple #Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}.header-simple #Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin:0!important;width:auto!important;background-image:none}.header-simple #Top_bar #menu ul li ul li{width:100%!important;display:block;padding:0;}.header-simple #Top_bar #menu ul li ul li a{padding:0 20px 0 30px}.header-simple #Top_bar #menu ul li ul li a .menu-arrow{display:none}.header-simple #Top_bar #menu ul li ul li a span{padding:0}.header-simple #Top_bar #menu ul li ul li a span:after{display:none!important}.header-simple #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}.header-simple #Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}.header-simple #Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}.header-simple #Top_bar #menu ul li ul li ul li a{padding:0 20px 0 40px}.rtl.header-simple #Top_bar #menu{left:1px;right:auto}.rtl.header-simple #Top_bar a.responsive-menu-toggle{left:10px;right:auto}.rtl.header-simple #Top_bar #menu ul li.submenu .menu-toggle{left:0;right:auto}.rtl.header-simple #Top_bar #menu ul li ul{left:auto!important;right:0!important}.rtl.header-simple #Top_bar #menu ul li ul li a{padding:0 30px 0 20px}.rtl.header-simple #Top_bar #menu ul li ul li ul li a{padding:0 40px 0 20px}.menu-highlight #Top_bar .menu > li{margin:0 2px}.menu-highlight:not(.header-creative) #Top_bar .menu > li > a{margin:20px 0;padding:0;-webkit-border-radius:5px;border-radius:5px}.menu-highlight #Top_bar .menu > li > a:after{display:none}.menu-highlight #Top_bar .menu > li > a span:not(.description){line-height:50px}.menu-highlight #Top_bar .menu > li > a span.description{display:none}.menu-highlight.header-stack #Top_bar .menu > li > a{margin:10px 0!important}.menu-highlight.header-stack #Top_bar .menu > li > a span:not(.description){line-height:40px}.menu-highlight.header-transparent #Top_bar .menu > li > a{margin:5px 0}.menu-highlight.header-simple #Top_bar #menu ul li,.menu-highlight.header-creative #Top_bar #menu ul li{margin:0}.menu-highlight.header-simple #Top_bar #menu ul li > a,.menu-highlight.header-creative #Top_bar #menu ul li > a{-webkit-border-radius:0;border-radius:0}.menu-highlight:not(.header-fixed):not(.header-simple) #Top_bar.is-sticky .menu > li > a{margin:10px 0!important;padding:5px 0!important}.menu-highlight:not(.header-fixed):not(.header-simple) #Top_bar.is-sticky .menu > li > a span{line-height:30px!important}.header-modern.menu-highlight.menuo-right .menu_wrapper{margin-right:20px}.menu-line-below #Top_bar .menu > li > a:after{top:auto;bottom:-4px}.menu-line-below #Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:-4px}.menu-line-below-80 #Top_bar:not(.is-sticky) .menu > li > a:after{height:4px;left:10%;top:50%;margin-top:20px;width:80%}.menu-line-below-80-1 #Top_bar:not(.is-sticky) .menu > li > a:after{height:1px;left:10%;top:50%;margin-top:20px;width:80%}.menu-link-color #Top_bar .menu > li > a:after{display:none!important}.menu-arrow-top #Top_bar .menu > li > a:after{background:none repeat scroll 0 0 rgba(0,0,0,0)!important;border-color:#ccc transparent transparent;border-style:solid;border-width:7px 7px 0;display:block;height:0;left:50%;margin-left:-7px;top:0!important;width:0}.menu-arrow-top.header-transparent #Top_bar .menu > li > a:after,.menu-arrow-top.header-plain #Top_bar .menu > li > a:after{display:none}.menu-arrow-top #Top_bar.is-sticky .menu > li > a:after{top:0!important}.menu-arrow-bottom #Top_bar .menu > li > a:after{background:none!important;border-color:transparent transparent #ccc;border-style:solid;border-width:0 7px 7px;display:block;height:0;left:50%;margin-left:-7px;top:auto;bottom:0;width:0}.menu-arrow-bottom.header-transparent #Top_bar .menu > li > a:after,.menu-arrow-bottom.header-plain #Top_bar .menu > li > a:after{display:none}.menu-arrow-bottom #Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:0}.menuo-no-borders #Top_bar .menu > li > a span:not(.description){border-right-width:0}.menuo-no-borders #Header_creative #Top_bar .menu > li > a span{border-bottom-width:0}.menuo-right #Top_bar .menu_wrapper{float:right}.menuo-right.header-stack:not(.header-center) #Top_bar .menu_wrapper{margin-right:150px}body.header-creative{padding-left:50px}body.header-creative.header-open{padding-left:250px}body.error404,body.under-construction,body.template-blank{padding-left:0!important}.header-creative.footer-fixed #Footer,.header-creative.footer-sliding #Footer,.header-creative.footer-stick #Footer.is-sticky{box-sizing:border-box;padding-left:50px;}.header-open.footer-fixed #Footer,.header-open.footer-sliding #Footer,.header-creative.footer-stick #Footer.is-sticky{padding-left:250px;}.header-rtl.header-creative.footer-fixed #Footer,.header-rtl.header-creative.footer-sliding #Footer,.header-rtl.header-creative.footer-stick #Footer.is-sticky{padding-left:0;padding-right:50px;}.header-rtl.header-open.footer-fixed #Footer,.header-rtl.header-open.footer-sliding #Footer,.header-rtl.header-creative.footer-stick #Footer.is-sticky{padding-right:250px;}#Header_creative{background:#fff;position:fixed;width:250px;height:100%;left:-200px;top:0;z-index:9002;-webkit-box-shadow:2px 0 4px 2px rgba(0,0,0,.15);box-shadow:2px 0 4px 2px rgba(0,0,0,.15)}#Header_creative .container{width:100%}#Header_creative .creative-wrapper{opacity:0;margin-right:50px}#Header_creative a.creative-menu-toggle{display:block;width:34px;height:34px;line-height:34px;font-size:22px;text-align:center;position:absolute;top:10px;right:8px;border-radius:3px}.admin-bar #Header_creative a.creative-menu-toggle{top:42px}#Header_creative #Top_bar{position:static;width:100%}#Header_creative #Top_bar .top_bar_left{width:100%!important;float:none}#Header_creative #Top_bar .top_bar_right{width:100%!important;float:none;height:auto;margin-bottom:35px;text-align:center;padding:0 20px;top:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}#Header_creative #Top_bar .top_bar_right:before{display:none}#Header_creative #Top_bar .top_bar_right_wrapper{top:0}#Header_creative #Top_bar .logo{float:none;text-align:center;margin:15px 0}#Header_creative #Top_bar .menu_wrapper{float:none;margin:0 0 30px}#Header_creative #Top_bar .menu > li{width:100%;float:none;position:relative}#Header_creative #Top_bar .menu > li > a{padding:0;text-align:center}#Header_creative #Top_bar .menu > li > a:after{display:none}#Header_creative #Top_bar .menu > li > a span{border-right:0;border-bottom-width:1px;line-height:38px}#Header_creative #Top_bar .menu li ul{left:100%;right:auto;top:0;box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03);-webkit-box-shadow:2px 2px 2px 0 rgba(0,0,0,0.03)}#Header_creative #Top_bar .menu > li > ul.mfn-megamenu{width:700px!important;}#Header_creative #Top_bar .menu > li > ul.mfn-megamenu > li > ul{left:0}#Header_creative #Top_bar .menu li ul li a{padding-top:9px;padding-bottom:8px}#Header_creative #Top_bar .menu li ul li ul{top:0!important}#Header_creative #Top_bar .menu > li > a span.description{display:block;font-size:13px;line-height:28px!important;clear:both}#Header_creative #Top_bar .search_wrapper{left:100%;top:auto;bottom:0}#Header_creative #Top_bar a#header_cart{display:inline-block;float:none;top:3px}#Header_creative #Top_bar a#search_button{display:inline-block;float:none;top:3px}#Header_creative #Top_bar .wpml-languages{display:inline-block;float:none;top:0}#Header_creative #Top_bar .wpml-languages.enabled:hover a.active{padding-bottom:9px}#Header_creative #Top_bar a.button.action_button{display:inline-block;float:none;top:16px;margin:0}#Header_creative #Top_bar .banner_wrapper{display:block;text-align:center}#Header_creative #Top_bar .banner_wrapper img{max-width:100%;height:auto;display:inline-block}#Header_creative #Action_bar{position:absolute;bottom:0;top:auto;clear:both;padding:0 20px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}#Header_creative #Action_bar .social{float:none;text-align:center;padding:5px 0 15px}#Header_creative #Action_bar .social li{margin-bottom:2px}#Header_creative .social li a{color:rgba(0,0,0,.5)}#Header_creative .social li a:hover{color:#000}#Header_creative .creative-social{position:absolute;bottom:10px;right:0;width:50px}#Header_creative .creative-social li{display:block;float:none;width:100%;text-align:center;margin-bottom:5px}.header-creative .fixed-nav.fixed-nav-prev{margin-left:50px}.header-creative.header-open .fixed-nav.fixed-nav-prev{margin-left:250px}.menuo-last #Header_creative #Top_bar .menu li.last ul{top:auto;bottom:0}.header-open #Header_creative{left:0}.header-open #Header_creative .creative-wrapper{opacity:1;margin:0!important;}.header-open #Header_creative .creative-menu-toggle,.header-open #Header_creative .creative-social{display:none}body.header-rtl.header-creative{padding-left:0;padding-right:50px}.header-rtl #Header_creative{left:auto;right:-200px}.header-rtl.nice-scroll #Header_creative{margin-right:10px}.header-rtl #Header_creative .creative-wrapper{margin-left:50px;margin-right:0}.header-rtl #Header_creative a.creative-menu-toggle{left:8px;right:auto}.header-rtl #Header_creative .creative-social{left:0;right:auto}.header-rtl #Footer #back_to_top.sticky{right:125px}.header-rtl #popup_contact{right:70px}.header-rtl #Header_creative #Top_bar .menu li ul{left:auto;right:100%}.header-rtl #Header_creative #Top_bar .search_wrapper{left:auto;right:100%;}.header-rtl .fixed-nav.fixed-nav-prev{margin-left:0!important}.header-rtl .fixed-nav.fixed-nav-next{margin-right:50px}body.header-rtl.header-creative.header-open{padding-left:0;padding-right:250px!important}.header-rtl.header-open #Header_creative{left:auto;right:0}.header-rtl.header-open #Footer #back_to_top.sticky{right:325px}.header-rtl.header-open #popup_contact{right:270px}.header-rtl.header-open .fixed-nav.fixed-nav-next{margin-right:250px}#Header_creative.active{left:-1px;}.header-rtl #Header_creative.active{left:auto;right:-1px;}#Header_creative.active .creative-wrapper{opacity:1;margin:0}.header-creative .vc_row[data-vc-full-width]{padding-left:50px}.header-creative.header-open .vc_row[data-vc-full-width]{padding-left:250px}.header-open .vc_parallax .vc_parallax-inner { left:auto; width: calc(100% - 250px); }.header-open.header-rtl .vc_parallax .vc_parallax-inner { left:0; right:auto; }#Header_creative.scroll{height:100%;overflow-y:auto}#Header_creative.scroll:not(.dropdown) .menu li ul{display:none!important}#Header_creative.scroll #Action_bar{position:static}#Header_creative.dropdown{outline:none}#Header_creative.dropdown #Top_bar .menu_wrapper{float:left}#Header_creative.dropdown #Top_bar #menu ul li{position:relative;float:left}#Header_creative.dropdown #Top_bar #menu ul li a:after{display:none}#Header_creative.dropdown #Top_bar #menu ul li a span{line-height:38px;padding:0}#Header_creative.dropdown #Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:0;top:0;width:38px;height:38px;line-height:38px;font-size:26px;font-weight:300;text-align:center;cursor:pointer;color:#444;opacity:0.33;}#Header_creative.dropdown #Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}#Header_creative.dropdown #Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}#Header_creative.dropdown #Top_bar #menu ul li.hover a{border-bottom:0}#Header_creative.dropdown #Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}#Header_creative.dropdown #Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin-left:0!important;width:auto!important;background-image:none}#Header_creative.dropdown #Top_bar #menu ul li ul li{width:100%!important}#Header_creative.dropdown #Top_bar #menu ul li ul li a{padding:0 10px;text-align:center}#Header_creative.dropdown #Top_bar #menu ul li ul li a .menu-arrow{display:none}#Header_creative.dropdown #Top_bar #menu ul li ul li a span{padding:0}#Header_creative.dropdown #Top_bar #menu ul li ul li a span:after{display:none!important}#Header_creative.dropdown #Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}#Header_creative.dropdown #Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}#Header_creative.dropdown #Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}#Header_creative{transition: left .5s ease-in-out, right .5s ease-in-out;}#Header_creative .creative-wrapper{transition: opacity .5s ease-in-out, margin 0s ease-in-out .5s;}#Header_creative.active .creative-wrapper{transition: opacity .5s ease-in-out, margin 0s ease-in-out;}}@media only screen and (min-width: 1240px) {#Top_bar.is-sticky{position:fixed!important;width:100%;left:0;top:-60px;height:60px;z-index:701;background:#fff;opacity:.97;filter:alpha(opacity = 97);-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,0.1);-moz-box-shadow:0 2px 5px 0 rgba(0,0,0,0.1);box-shadow:0 2px 5px 0 rgba(0,0,0,0.1)}.layout-boxed.header-boxed #Top_bar.is-sticky{max-width:1240px;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}.layout-boxed.header-boxed.nice-scroll #Top_bar.is-sticky{margin-left:-5px}#Top_bar.is-sticky .top_bar_left,#Top_bar.is-sticky .top_bar_right,#Top_bar.is-sticky .top_bar_right:before{background:none}#Top_bar.is-sticky .top_bar_right{top:-4px;height:auto;}#Top_bar.is-sticky .top_bar_right_wrapper{top:15px}.header-plain #Top_bar.is-sticky .top_bar_right_wrapper{top:0}#Top_bar.is-sticky .logo{width:auto;margin:0 30px 0 20px;padding:0}#Top_bar.is-sticky #logo{padding:5px 0!important;height:50px!important;line-height:50px!important}#Top_bar.is-sticky #logo img:not(.svg){max-height:35px;width:auto!important}#Top_bar.is-sticky #logo img.logo-main{display:none}#Top_bar.is-sticky #logo img.logo-sticky{display:inline}#Top_bar.is-sticky .menu_wrapper{clear:none}#Top_bar.is-sticky .menu_wrapper .menu > li > a{padding:15px 0}#Top_bar.is-sticky .menu > li > a,#Top_bar.is-sticky .menu > li > a span{line-height:30px}#Top_bar.is-sticky .menu > li > a:after{top:auto;bottom:-4px}#Top_bar.is-sticky .menu > li > a span.description{display:none}#Top_bar.is-sticky .secondary_menu_wrapper,#Top_bar.is-sticky .banner_wrapper{display:none}.header-overlay #Top_bar.is-sticky{display:none}.sticky-dark #Top_bar.is-sticky{background:rgba(0,0,0,.8)}.sticky-dark #Top_bar.is-sticky #menu{background:rgba(0,0,0,.8)}.sticky-dark #Top_bar.is-sticky .menu > li > a{color:#fff}.sticky-dark #Top_bar.is-sticky .top_bar_right a{color:rgba(255,255,255,.5)}.sticky-dark #Top_bar.is-sticky .wpml-languages a.active,.sticky-dark #Top_bar.is-sticky .wpml-languages ul.wpml-lang-dropdown{background:rgba(0,0,0,0.3);border-color:rgba(0,0,0,0.1)}}@media only screen and (min-width: 768px) and (max-width: 1240px){.header_placeholder{height:0!important}}@media only screen and (max-width: 1239px){#Top_bar #menu{display:none;height:auto;width:300px;bottom:auto;top:100%;right:1px;position:absolute;margin:0}#Top_bar a.responsive-menu-toggle{display:block}#Top_bar #menu > ul{width:100%;float:left}#Top_bar #menu ul li{width:100%;padding-bottom:0;border-right:0;position:relative}#Top_bar #menu ul li a{padding:0 25px;margin:0;display:block;height:auto;line-height:normal;border:none}#Top_bar #menu ul li a:after{display:none}#Top_bar #menu ul li a span{border:none;line-height:44px;display:inline;padding:0}#Top_bar #menu ul li a span.description{margin:0 0 0 5px}#Top_bar #menu ul li.submenu .menu-toggle{display:block;position:absolute;right:15px;top:0;width:44px;height:44px;line-height:44px;font-size:30px;font-weight:300;text-align:center;cursor:pointer;color:#444;opacity:0.33;}#Top_bar #menu ul li.submenu .menu-toggle:after{content:"+"}#Top_bar #menu ul li.hover > .menu-toggle:after{content:"-"}#Top_bar #menu ul li.hover a{border-bottom:0}#Top_bar #menu ul li a span:after{display:none!important}#Top_bar #menu ul.mfn-megamenu li .menu-toggle{display:none}#Top_bar #menu ul li ul{position:relative!important;left:0!important;top:0;padding:0;margin-left:0!important;width:auto!important;background-image:none!important;box-shadow:0 0 0 0 transparent!important;-webkit-box-shadow:0 0 0 0 transparent!important}#Top_bar #menu ul li ul li{width:100%!important}#Top_bar #menu ul li ul li a{padding:0 20px 0 35px}#Top_bar #menu ul li ul li a .menu-arrow{display:none}#Top_bar #menu ul li ul li a span{padding:0}#Top_bar #menu ul li ul li a span:after{display:none!important}#Top_bar .menu > li > ul.mfn-megamenu a.mfn-megamenu-title{text-transform:uppercase;font-weight:400}#Top_bar .menu > li > ul.mfn-megamenu > li > ul{display:block!important;position:inherit;left:auto;top:auto}#Top_bar #menu ul li ul li ul{border-left:0!important;padding:0;top:0}#Top_bar #menu ul li ul li ul li a{padding:0 20px 0 45px}.rtl #Top_bar #menu{left:1px;right:auto}.rtl #Top_bar a.responsive-menu-toggle{left:20px;right:auto}.rtl #Top_bar #menu ul li.submenu .menu-toggle{left:15px;right:auto;border-left:none;border-right:1px solid #eee}.rtl #Top_bar #menu ul li ul{left:auto!important;right:0!important}.rtl #Top_bar #menu ul li ul li a{padding:0 30px 0 20px}.rtl #Top_bar #menu ul li ul li ul li a{padding:0 40px 0 20px}.header-stack .menu_wrapper a.responsive-menu-toggle{position:static!important;margin:11px 0!important}.header-stack .menu_wrapper #menu{left:0;right:auto}.rtl.header-stack #Top_bar #menu{left:auto;right:0}.admin-bar #Header_creative{top:32px}.header-creative.layout-boxed{padding-top:85px}.header-creative.layout-full-width #Wrapper{padding-top:60px}#Header_creative{position:fixed;width:100%;left:0!important;top:0;z-index:1001}#Header_creative .creative-wrapper{display:block!important;opacity:1!important}#Header_creative .creative-menu-toggle,#Header_creative .creative-social{display:none!important;opacity:1!important;filter:alpha(opacity=100)!important}#Header_creative #Top_bar{position:static;width:100%}#Header_creative #Top_bar #logo{height:50px;line-height:50px;padding:5px 0}#Header_creative #Top_bar #logo img{max-height:40px}#Header_creative #logo img.logo-main{display:none}#Header_creative #logo img.logo-sticky{display:inline-block}.logo-no-sticky-padding #Header_creative #Top_bar #logo{height:60px;line-height:60px;padding:0}.logo-no-sticky-padding #Header_creative #Top_bar #logo img{max-height:60px}#Header_creative #Top_bar #header_cart{top:21px}#Header_creative #Top_bar #search_button{top:20px}#Header_creative #Top_bar .wpml-languages{top:11px}#Header_creative #Top_bar .action_button{top:9px}#Header_creative #Top_bar .top_bar_right{height:60px;top:0}#Header_creative #Top_bar .top_bar_right:before{display:none}#Header_creative #Top_bar .top_bar_right_wrapper{top:0}#Header_creative #Action_bar{display:none}#Header_creative.scroll{overflow:visible!important}}#Header_wrapper, #Intro {background-color: #8a7fc3;}#Subheader {background-color: rgba(107, 97, 162, 1);}.header-classic #Action_bar, .header-fixed #Action_bar, .header-plain #Action_bar, .header-split #Action_bar, .header-stack #Action_bar {background-color: #000000;}#Sliding-top {background-color: #150d3f;}#Sliding-top a.sliding-top-control {border-right-color: #150d3f;}#Sliding-top.st-center a.sliding-top-control,#Sliding-top.st-left a.sliding-top-control {border-top-color: #150d3f;}#Footer {background-color: #150d3f;}body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_list ul li a, .list_item a, .list_item a:hover,.widget_recent_entries ul li a, .flat_box a, .flat_box a:hover, .story_box .desc, .content_slider.carouselul li a .title,.content_slider.flat.description ul li .desc, .content_slider.flat.description ul li a .desc, .post-nav.minimal a i {color: #000000;}.post-nav.minimal a svg {fill: #000000;}.themecolor, .opening_hours .opening_hours_wrapper li span, .fancy_heading_icon .icon_top,.fancy_heading_arrows .icon-right-dir, .fancy_heading_arrows .icon-left-dir, .fancy_heading_line .title,.button-love a.mfn-love, .format-link .post-title .icon-link, .pager-single > span, .pager-single a:hover,.widget_meta ul, .widget_pages ul, .widget_rss ul, .widget_mfn_recent_comments ul li:after, .widget_archive ul, .widget_recent_comments ul li:after, .widget_nav_menu ul, .woocommerce ul.products li.product .price, .shop_slider .shop_slider_ul li .item_wrapper .price, .woocommerce-page ul.products li.product .price, .widget_price_filter .price_label .from, .widget_price_filter .price_label .to,.woocommerce ul.product_list_widget li .quantity .amount, .woocommerce .product div.entry-summary .price, .woocommerce .star-rating span,#Error_404 .error_pic i, .style-simple #Filters .filters_wrapper ul li a:hover, .style-simple #Filters .filters_wrapper ul li.current-cat a,.style-simple .quick_fact .title {color: #6b61a2;}.themebg,#comments .commentlist > li .reply a.comment-reply-link,div.jp-interface,#Filters .filters_wrapper ul li a:hover,#Filters .filters_wrapper ul li.current-cat a,.fixed-nav .arrow,.offer_thumb .slider_pagination a:before,.offer_thumb .slider_pagination a.selected:after,.pager .pages a:hover,.pager .pages a.active,.pager .pages span.page-numbers.current,.pager-single span:after,.portfolio_group.exposure .portfolio-item .desc-inner .line,.Recent_posts ul li .desc:after,.Recent_posts ul li .photo .c,.slider_pagination a.selected,.slider_pagination .slick-active a,.slider_pagination a.selected:after,.slider_pagination .slick-active a:after,.testimonials_slider .slider_images,.testimonials_slider .slider_images a:after,.testimonials_slider .slider_images:before,#Top_bar a#header_cart span,.widget_categories ul,.widget_mfn_menu ul li a:hover,.widget_mfn_menu ul li.current-menu-item:not(.current-menu-ancestor) > a,.widget_mfn_menu ul li.current_page_item:not(.current_page_ancestor) > a,.widget_product_categories ul,.widget_recent_entries ul li:after,.woocommerce-account table.my_account_orders .order-number a,.woocommerce-MyAccount-navigation ul li.is-active a, .style-simple .accordion .question:after,.style-simple .faq .question:after,.style-simple .icon_box .desc_wrapper .title:before,.style-simple #Filters .filters_wrapper ul li a:after,.style-simple .article_box .desc_wrapper p:after,.style-simple .sliding_box .desc_wrapper:after,.style-simple .trailer_box:hover .desc,.tp-bullets.simplebullets.round .bullet.selected,.tp-bullets.simplebullets.round .bullet.selected:after,.tparrows.default,.tp-bullets.tp-thumbs .bullet.selected:after{background-color: #6b61a2;}.Latest_news ul li .photo, .style-simple .opening_hours .opening_hours_wrapper li label,.style-simple .timeline_items li:hover h3, .style-simple .timeline_items li:nth-child(even):hover h3, .style-simple .timeline_items li:hover .desc, .style-simple .timeline_items li:nth-child(even):hover,.style-simple .offer_thumb .slider_pagination a.selected {border-color: #6b61a2;}a {color: #6b61a2;}a:hover {color: #4c4285;}*::-moz-selection {background-color: #6b61a2;}*::selection {background-color: #6b61a2;}.blockquote p.author span, .counter .desc_wrapper .title, .article_box .desc_wrapper p, .team .desc_wrapper p.subtitle, .pricing-box .plan-header p.subtitle, .pricing-box .plan-header .price sup.period, .chart_box p, .fancy_heading .inside,.fancy_heading_line .slogan, .post-meta, .post-meta a, .post-footer, .post-footer a span.label, .pager .pages a, .button-love a .label,.pager-single a, #comments .commentlist > li .comment-author .says, .fixed-nav .desc .date, .filters_buttons li.label, .Recent_posts ul li a .desc .date,.widget_recent_entries ul li .post-date, .tp_recent_tweets .twitter_time, .widget_price_filter .price_label, .shop-filters .woocommerce-result-count,.woocommerce ul.product_list_widget li .quantity, .widget_shopping_cart ul.product_list_widget li dl, .product_meta .posted_in,.woocommerce .shop_table .product-name .variation > dd, .shipping-calculator-button:after,.shop_slider .shop_slider_ul li .item_wrapper .price del,.testimonials_slider .testimonials_slider_ul li .author span, .testimonials_slider .testimonials_slider_ul li .author span a, .Latest_news ul li .desc_footer {color: #a8a8a8;}h1, h1 a, h1 a:hover, .text-logo #logo { color: #090037; }h2, h2 a, h2 a:hover { color: #090037; }h3, h3 a, h3 a:hover { color: #090037; }h4, h4 a, h4 a:hover, .style-simple .sliding_box .desc_wrapper h4 { color: #596573; }h5, h5 a, h5 a:hover { color: #090037; }h6, h6 a, h6 a:hover, a.content_link .title { color: #090037; }.dropcap, .highlight:not(.highlight_image) {background-color: #6b61a2;}a.button, a.tp-button {background-color: #ffc000;color: #744910;}.button-stroke a.button, .button-stroke a.button.action_button, .button-stroke a.button .button_icon i, .button-stroke a.tp-button {border-color: #ffc000;color: #744910;}.button-stroke a:hover.button, .button-stroke a:hover.tp-button {background-color: #ffc000 !important;color: #fff;}a.button_theme, a.tp-button.button_theme,button, input[type="submit"], input[type="reset"], input[type="button"] {background-color: #6b61a2;color: #fff;}.button-stroke a.button.button_theme:not(.action_button),.button-stroke a.button.button_theme .button_icon i, .button-stroke a.tp-button.button_theme,.button-stroke button, .button-stroke input[type="submit"], .button-stroke input[type="reset"], .button-stroke input[type="button"] {border-color: #6b61a2;color: #6b61a2 !important;}.button-stroke a.button.button_theme:hover, .button-stroke a.tp-button.button_theme:hover,.button-stroke button:hover, .button-stroke input[type="submit"]:hover, .button-stroke input[type="reset"]:hover, .button-stroke input[type="button"]:hover {background-color: #6b61a2 !important;color: #fff !important;}a.mfn-link { color: #656B6F; }a.mfn-link-2 span, a:hover.mfn-link-2 span:before, a.hover.mfn-link-2 span:before, a.mfn-link-5 span, a.mfn-link-8:after, a.mfn-link-8:before { background: #6b61a2; }a:hover.mfn-link { color: #6b61a2;}a.mfn-link-2 span:before, a:hover.mfn-link-4:before, a:hover.mfn-link-4:after, a.hover.mfn-link-4:before, a.hover.mfn-link-4:after, a.mfn-link-5:before, a.mfn-link-7:after, a.mfn-link-7:before { background: #4c4285; }a.mfn-link-6:before {border-bottom-color: #4c4285;}.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce #respond input#submit:hover,.woocommerce a.button:hover,.woocommerce button.button:hover,.woocommerce input.button:hover{background-color: #6b61a2;color: #fff;}.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce #respond input#submit.alt:hover,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover{background-color: #6b61a2;color: #fff;}.woocommerce #respond input#submit.disabled,.woocommerce #respond input#submit:disabled,.woocommerce #respond input#submit[disabled]:disabled,.woocommerce a.button.disabled,.woocommerce a.button:disabled,.woocommerce a.button[disabled]:disabled,.woocommerce button.button.disabled,.woocommerce button.button:disabled,.woocommerce button.button[disabled]:disabled,.woocommerce input.button.disabled,.woocommerce input.button:disabled,.woocommerce input.button[disabled]:disabled{background-color: #6b61a2;color: #fff;}.woocommerce #respond input#submit.disabled:hover,.woocommerce #respond input#submit:disabled:hover,.woocommerce #respond input#submit[disabled]:disabled:hover,.woocommerce a.button.disabled:hover,.woocommerce a.button:disabled:hover,.woocommerce a.button[disabled]:disabled:hover,.woocommerce button.button.disabled:hover,.woocommerce button.button:disabled:hover,.woocommerce button.button[disabled]:disabled:hover,.woocommerce input.button.disabled:hover,.woocommerce input.button:disabled:hover,.woocommerce input.button[disabled]:disabled:hover{background-color: #6b61a2;color: #fff;}.button-stroke.woocommerce-page #respond input#submit,.button-stroke.woocommerce-page a.button:not(.action_button),.button-stroke.woocommerce-page button.button,.button-stroke.woocommerce-page input.button{border: 2px solid #6b61a2 !important;color: #6b61a2 !important;}.button-stroke.woocommerce-page #respond input#submit:hover,.button-stroke.woocommerce-page a.button:not(.action_button):hover,.button-stroke.woocommerce-page button.button:hover,.button-stroke.woocommerce-page input.button:hover{background-color: #6b61a2 !important;color: #fff !important;}.column_column ul, .column_column ol, .the_content_wrapper ul, .the_content_wrapper ol {color: #000000;}.hr_color, .hr_color hr, .hr_dots span {color: #6b61a2;background: #6b61a2;}.hr_zigzag i {color: #6b61a2;} .highlight-left:after,.highlight-right:after {background: #6b61a2;}@media only screen and (max-width: 767px) {.highlight-left .wrap:first-child,.highlight-right .wrap:last-child {background: #6b61a2;}}#Header .top_bar_left, .header-classic #Top_bar, .header-plain #Top_bar, .header-stack #Top_bar, .header-split #Top_bar,.header-fixed #Top_bar, .header-below #Top_bar, #Header_creative, #Top_bar #menu, .sticky-tb-color #Top_bar.is-sticky {background-color: #150d3f;}#Top_bar .wpml-languages a.active, #Top_bar .wpml-languages ul.wpml-lang-dropdown {background-color: #150d3f;}#Top_bar .top_bar_right:before {background-color: #e3e3e3;}#Header .top_bar_right {background-color: #f5f5f5;}#Top_bar .top_bar_right a:not(.action_button) { color: #444444;}#Top_bar .menu > li > a,#Top_bar #menu ul li.submenu .menu-toggle { color: #ffffff;}#Top_bar .menu > li.current-menu-item > a,#Top_bar .menu > li.current_page_item > a,#Top_bar .menu > li.current-menu-parent > a,#Top_bar .menu > li.current-page-parent > a,#Top_bar .menu > li.current-menu-ancestor > a,#Top_bar .menu > li.current-page-ancestor > a,#Top_bar .menu > li.current_page_ancestor > a,#Top_bar .menu > li.hover > a { color: #ffc106; }#Top_bar .menu > li a:after { background: #ffc106; }.menuo-arrows #Top_bar .menu > li.submenu > a > span:not(.description)::after { border-top-color: #ffffff;}#Top_bar .menu > li.current-menu-item.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current_page_item.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-menu-parent.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-page-parent.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-menu-ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current-page-ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.current_page_ancestor.submenu > a > span:not(.description)::after,#Top_bar .menu > li.hover.submenu > a > span:not(.description)::after { border-top-color: #ffc106; }.menu-highlight #Top_bar #menu > ul > li.current-menu-item > a,.menu-highlight #Top_bar #menu > ul > li.current_page_item > a,.menu-highlight #Top_bar #menu > ul > li.current-menu-parent > a,.menu-highlight #Top_bar #menu > ul > li.current-page-parent > a,.menu-highlight #Top_bar #menu > ul > li.current-menu-ancestor > a,.menu-highlight #Top_bar #menu > ul > li.current-page-ancestor > a,.menu-highlight #Top_bar #menu > ul > li.current_page_ancestor > a,.menu-highlight #Top_bar #menu > ul > li.hover > a { background: #F2F2F2; }.menu-arrow-bottom #Top_bar .menu > li > a:after { border-bottom-color: #ffc106;}.menu-arrow-top #Top_bar .menu > li > a:after {border-top-color: #ffc106;}.header-plain #Top_bar .menu > li.current-menu-item > a,.header-plain #Top_bar .menu > li.current_page_item > a,.header-plain #Top_bar .menu > li.current-menu-parent > a,.header-plain #Top_bar .menu > li.current-page-parent > a,.header-plain #Top_bar .menu > li.current-menu-ancestor > a,.header-plain #Top_bar .menu > li.current-page-ancestor > a,.header-plain #Top_bar .menu > li.current_page_ancestor > a,.header-plain #Top_bar .menu > li.hover > a,.header-plain #Top_bar a:hover#header_cart,.header-plain #Top_bar a:hover#search_button,.header-plain #Top_bar .wpml-languages:hover,.header-plain #Top_bar .wpml-languages ul.wpml-lang-dropdown {background: #F2F2F2; color: #ffc106;}.header-plain #Top_bar,.header-plain #Top_bar .menu > li > a span:not(.description),.header-plain #Top_bar a#header_cart,.header-plain #Top_bar a#search_button,.header-plain #Top_bar .wpml-languages,.header-plain #Top_bar a.button.action_button {border-color: #F2F2F2;}#Top_bar .menu > li ul {background-color: #F2F2F2;}#Top_bar .menu > li ul li a {color: #5f5f5f;}#Top_bar .menu > li ul li a:hover,#Top_bar .menu > li ul li.hover > a {color: #2e2e2e;}#Top_bar .search_wrapper { background: #6b61a2; }.overlay-menu-toggle {color: #6b61a2 !important; background: transparent; }#Overlay {background: rgba(107, 97, 162, 0.95);}#overlay-menu ul li a, .header-overlay .overlay-menu-toggle.focus {color: #ffffff;}#overlay-menu ul li.current-menu-item > a,#overlay-menu ul li.current_page_item > a,#overlay-menu ul li.current-menu-parent > a,#overlay-menu ul li.current-page-parent > a,#overlay-menu ul li.current-menu-ancestor > a,#overlay-menu ul li.current-page-ancestor > a,#overlay-menu ul li.current_page_ancestor > a { color: #B1DCFB; }#Top_bar .responsive-menu-toggle,#Header_creative .creative-menu-toggle,#Header_creative .responsive-menu-toggle {color: #6b61a2; background: transparent;}#Side_slide{background-color: #191919;border-color: #191919; }#Side_slide,#Side_slide .search-wrapper input.field,#Side_slide a:not(.button),#Side_slide #menu ul li.submenu .menu-toggle{color: #A6A6A6;}#Side_slide a:not(.button):hover,#Side_slide a.active,#Side_slide #menu ul li.hover > .menu-toggle{color: #FFFFFF;}#Side_slide #menu ul li.current-menu-item > a,#Side_slide #menu ul li.current_page_item > a,#Side_slide #menu ul li.current-menu-parent > a,#Side_slide #menu ul li.current-page-parent > a,#Side_slide #menu ul li.current-menu-ancestor > a,#Side_slide #menu ul li.current-page-ancestor > a,#Side_slide #menu ul li.current_page_ancestor > a,#Side_slide #menu ul li.hover > a,#Side_slide #menu ul li:hover > a{color: #FFFFFF;}#Action_bar .contact_details{color: #ffffff}#Action_bar .contact_details a{color: #61b2f9}#Action_bar .contact_details a:hover{color: #007cc3}#Action_bar .social li a,#Action_bar .social-menu a{color: #ffffff}#Action_bar .social li a:hover,#Action_bar .social-menu a:hover{color: #FFFFFF}#Subheader .title{color: #ffffff;}#Subheader ul.breadcrumbs li, #Subheader ul.breadcrumbs li a{color: rgba(255, 255, 255, 0.6);}#Footer, #Footer .widget_recent_entries ul li a {color: #ffffff;}#Footer a {color: #B4AEC9;}#Footer a:hover {color: #edecf1;}#Footer h1, #Footer h1 a, #Footer h1 a:hover,#Footer h2, #Footer h2 a, #Footer h2 a:hover,#Footer h3, #Footer h3 a, #Footer h3 a:hover,#Footer h4, #Footer h4 a, #Footer h4 a:hover,#Footer h5, #Footer h5 a, #Footer h5 a:hover,#Footer h6, #Footer h6 a, #Footer h6 a:hover {color: #ffffff;}/#Footer .themecolor, #Footer .widget_meta ul, #Footer .widget_pages ul, #Footer .widget_rss ul, #Footer .widget_mfn_recent_comments ul li:after, #Footer .widget_archive ul, #Footer .widget_recent_comments ul li:after, #Footer .widget_nav_menu ul, #Footer .widget_price_filter .price_label .from, #Footer .widget_price_filter .price_label .to,#Footer .star-rating span {color: #ffea00;}#Footer .themebg, #Footer .widget_categories ul, #Footer .Recent_posts ul li .desc:after, #Footer .Recent_posts ul li .photo .c,#Footer .widget_recent_entries ul li:after, #Footer .widget_mfn_menu ul li a:hover, #Footer .widget_product_categories ul {background-color: #ffea00;}#Footer .Recent_posts ul li a .desc .date, #Footer .widget_recent_entries ul li .post-date, #Footer .tp_recent_tweets .twitter_time, #Footer .widget_price_filter .price_label, #Footer .shop-filters .woocommerce-result-count, #Footer ul.product_list_widget li .quantity, #Footer .widget_shopping_cart ul.product_list_widget li dl {color: #bfbfbf;}#Footer .footer_copy .social li a,#Footer .footer_copy .social-menu a{color: #65666C;}#Footer .footer_copy .social li a:hover,#Footer .footer_copy .social-menu a:hover{color: #FFFFFF;}a#back_to_top.button.button_js{color: #65666C;background:transparent;-webkit-box-shadow:0 0 0 0 transparent;box-shadow:0 0 0 0 transparent;}a#back_to_top.button.button_js:after{display:none;}#Sliding-top, #Sliding-top .widget_recent_entries ul li a {color: #ffffff;}#Sliding-top a {color: #B4AEC9;}#Sliding-top a:hover {color: #edecf1;}#Sliding-top h1, #Sliding-top h1 a, #Sliding-top h1 a:hover,#Sliding-top h2, #Sliding-top h2 a, #Sliding-top h2 a:hover,#Sliding-top h3, #Sliding-top h3 a, #Sliding-top h3 a:hover,#Sliding-top h4, #Sliding-top h4 a, #Sliding-top h4 a:hover,#Sliding-top h5, #Sliding-top h5 a, #Sliding-top h5 a:hover,#Sliding-top h6, #Sliding-top h6 a, #Sliding-top h6 a:hover {color: #ffffff;}#Sliding-top .themecolor, #Sliding-top .widget_meta ul, #Sliding-top .widget_pages ul, #Sliding-top .widget_rss ul, #Sliding-top .widget_mfn_recent_comments ul li:after, #Sliding-top .widget_archive ul, #Sliding-top .widget_recent_comments ul li:after, #Sliding-top .widget_nav_menu ul, #Sliding-top .widget_price_filter .price_label .from, #Sliding-top .widget_price_filter .price_label .to,#Sliding-top .star-rating span {color: #ffea00;}#Sliding-top .themebg, #Sliding-top .widget_categories ul, #Sliding-top .Recent_posts ul li .desc:after, #Sliding-top .Recent_posts ul li .photo .c,#Sliding-top .widget_recent_entries ul li:after, #Sliding-top .widget_mfn_menu ul li a:hover, #Sliding-top .widget_product_categories ul {background-color: #ffea00;}#Sliding-top .Recent_posts ul li a .desc .date, #Sliding-top .widget_recent_entries ul li .post-date, #Sliding-top .tp_recent_tweets .twitter_time, #Sliding-top .widget_price_filter .price_label, #Sliding-top .shop-filters .woocommerce-result-count, #Sliding-top ul.product_list_widget li .quantity, #Sliding-top .widget_shopping_cart ul.product_list_widget li dl {color: #bfbfbf;}blockquote, blockquote a, blockquote a:hover {color: #444444;}.image_frame .image_wrapper .image_links,.portfolio_group.masonry-hover .portfolio-item .masonry-hover-wrapper .hover-desc { background: rgba(107, 97, 162, 0.8);}.masonry.tiles .post-item .post-desc-wrapper .post-desc .post-title:after,.masonry.tiles .post-item.no-img,.masonry.tiles .post-item.format-quote,.blog-teaser li .desc-wrapper .desc .post-title:after,.blog-teaser li.no-img,.blog-teaser li.format-quote {background: #6b61a2;} .image_frame .image_wrapper .image_links a {color: #ffffff;}.image_frame .image_wrapper .image_links a:hover {background: #ffffff;color: #6b61a2;}.image_frame {border-color: #f8f8f8;}.image_frame .image_wrapper .mask::after {background: rgba(255, 255, 255, 0.4);}.sliding_box .desc_wrapper {background: #6b61a2;}.sliding_box .desc_wrapper:after {border-bottom-color: #6b61a2;}.counter .icon_wrapper i {color: #6b61a2;}.quick_fact .number-wrapper {color: #6b61a2;}.progress_bars .bars_list li .bar .progress { background-color: #6b61a2;}a:hover.icon_bar {color: #6b61a2 !important;}a.content_link, a:hover.content_link {color: #6b61a2;}a.content_link:before {border-bottom-color: #6b61a2;}a.content_link:after {border-color: #6b61a2;}.get_in_touch, .infobox {background-color: #6b61a2;}.google-map-contact-wrapper .get_in_touch:after {border-top-color: #6b61a2;}.timeline_items li h3:before,.timeline_items:after,.timeline .post-item:before { border-color: #6b61a2;}.how_it_works .image .number { background: #6b61a2;}.trailer_box .desc .subtitle {background-color: #6b61a2;}.icon_box .icon_wrapper, .icon_box a .icon_wrapper,.style-simple .icon_box:hover .icon_wrapper {color: #6b61a2;}.icon_box:hover .icon_wrapper:before, .icon_box a:hover .icon_wrapper:before { background-color: #6b61a2;}ul.clients.clients_tiles li .client_wrapper:hover:before { background: #6b61a2;}ul.clients.clients_tiles li .client_wrapper:after { border-bottom-color: #6b61a2;}.list_item.lists_1 .list_left {background-color: #6b61a2;}.list_item .list_left {color: #6b61a2;}.feature_list ul li .icon i { color: #6b61a2;}.feature_list ul li:hover,.feature_list ul li:hover a {background: #6b61a2;}.ui-tabs .ui-tabs-nav li.ui-state-active a,.accordion .question.active .title > .acc-icon-plus,.accordion .question.active .title > .acc-icon-minus,.faq .question.active .title > .acc-icon-plus,.faq .question.active .title,.accordion .question.active .title {color: #6b61a2;}.ui-tabs .ui-tabs-nav li.ui-state-active a:after {background: #6b61a2;}body.table-hover:not(.woocommerce-page) table tr:hover td {background: #6b61a2;}.pricing-box .plan-header .price sup.currency,.pricing-box .plan-header .price > span {color: #6b61a2;}.pricing-box .plan-inside ul li .yes { background: #6b61a2;}.pricing-box-box.pricing-box-featured {background: #6b61a2;}input[type="date"], input[type="email"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="url"],select, textarea, .woocommerce .quantity input.qty {color: #8F99A0;background-color: rgba(240, 243, 245, 1);border-color: #b0b8bc;}input[type="date"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="text"]:focus, input[type="url"]:focus, select:focus, textarea:focus {color: #6b61a2;background-color: rgba(255, 255, 255, 1) !important;border-color: #6b61a2;}.woocommerce span.onsale, .shop_slider .shop_slider_ul li .item_wrapper span.onsale {border-top-color: #6b61a2 !important;}.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {border-color: #6b61a2 !important;}@media only screen and ( min-width: 768px ){.header-semi #Top_bar:not(.is-sticky) {background-color: rgba(21, 13, 63, 0.8);}}@media only screen and ( max-width: 767px ){#Top_bar{ background: #150d3f !important;}#Action_bar{background: #FFFFFF !important;}#Action_bar .contact_details{color: #222222}#Action_bar .contact_details a{color: #0095eb}#Action_bar .contact_details a:hover{color: #007cc3}#Action_bar .social li a,#Action_bar .social-menu a{color: #bbbbbb}#Action_bar .social li a:hover,#Action_bar .social-menu a:hover{color: #777777}}html { background-color: #ffffff;}#Wrapper, #Content { background-color: #ffffff;}body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"],input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {font-family: "Lato", Arial, Tahoma, sans-serif;}#menu > ul > li > a, .action_button, #overlay-menu ul li a {font-family: "Lato", Arial, Tahoma, sans-serif;}#Subheader .title {font-family: "Lato", Arial, Tahoma, sans-serif;}h1, h2, h3, h4, .text-logo #logo {font-family: "Lato", Arial, Tahoma, sans-serif;}h5, h6 {font-family: "Lato", Arial, Tahoma, sans-serif;}blockquote {font-family: "Lato", Arial, Tahoma, sans-serif;}.chart_box .chart .num, .counter .desc_wrapper .number-wrapper, .how_it_works .image .number,.pricing-box .plan-header .price, .quick_fact .number-wrapper, .woocommerce .product div.entry-summary .price {font-family: "Lato", Arial, Tahoma, sans-serif;}body {font-size: 16px;line-height: 21px;font-weight: 400;letter-spacing: 0px;}big,.big {font-size: 17px;line-height: 28px;font-weight: 400;letter-spacing: 0px;}#menu > ul > li > a, a.button.action_button {font-size: 18px;font-weight: 400;letter-spacing: 0px;}#Subheader .title {font-size: 70px;line-height: 70px;font-weight: 700;letter-spacing: 0px;}h1, .text-logo #logo { font-size: 25px;line-height: 25px;font-weight: 700;letter-spacing: 0px;}h2 { font-size: 48px;line-height: 48px;font-weight: 700;letter-spacing: 0px;}h3 {font-size: 34px;line-height: 36px;font-weight: 700;letter-spacing: 0px;}h4 {font-size: 24px;line-height: 28px;font-weight: 300;letter-spacing: 0px;}h5 {font-size: 18px;line-height: 22px;font-weight: 400;letter-spacing: 0px;}h6 {font-size: 14px;line-height: 19px;font-weight: 400;letter-spacing: 0px;}#Intro .intro-title { font-size: 70px;line-height: 70px;font-weight: 400;letter-spacing: 0px;}@media only screen and (min-width: 768px) and (max-width: 959px){body {font-size: 14px;line-height: 19px;}big,.big {font-size: 14px;line-height: 24px;}#menu > ul > li > a, a.button.action_button {font-size: 15px;}#Subheader .title {font-size: 60px;line-height: 60px;}h1, .text-logo #logo { font-size: 21px;line-height: 21px;}h2 { font-size: 41px;line-height: 41px;}h3 {font-size: 29px;line-height: 31px;}h4 {font-size: 20px;line-height: 24px;}h5 {font-size: 15px;line-height: 19px;}h6 {font-size: 13px;line-height: 19px;}#Intro .intro-title { font-size: 60px;line-height: 60px;}blockquote { font-size: 15px;}.chart_box .chart .num { font-size: 45px; line-height: 45px; }.counter .desc_wrapper .number-wrapper { font-size: 45px; line-height: 45px;}.counter .desc_wrapper .title { font-size: 14px; line-height: 18px;}.faq .question .title { font-size: 14px; }.fancy_heading .title { font-size: 38px; line-height: 38px; }.offer .offer_li .desc_wrapper .title h3 { font-size: 32px; line-height: 32px; }.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3 {font-size: 32px; line-height: 32px; }.pricing-box .plan-header h2 { font-size: 27px; line-height: 27px; }.pricing-box .plan-header .price > span { font-size: 40px; line-height: 40px; }.pricing-box .plan-header .price sup.currency { font-size: 18px; line-height: 18px; }.pricing-box .plan-header .price sup.period { font-size: 14px; line-height: 14px;}.quick_fact .number { font-size: 80px; line-height: 80px;}.trailer_box .desc h2 { font-size: 27px; line-height: 27px; }}@media only screen and (min-width: 480px) and (max-width: 767px){body {font-size: 13px;line-height: 19px;}big,.big {font-size: 13px;line-height: 21px;}#menu > ul > li > a, a.button.action_button {font-size: 14px;}#Subheader .title {font-size: 53px;line-height: 53px;}h1, .text-logo #logo { font-size: 19px;line-height: 19px;}h2 { font-size: 36px;line-height: 36px;}h3 {font-size: 26px;line-height: 27px;}h4 {font-size: 18px;line-height: 21px;}h5 {font-size: 14px;line-height: 19px;}h6 {font-size: 13px;line-height: 19px;}#Intro .intro-title { font-size: 53px;line-height: 53px;}blockquote { font-size: 14px;}.chart_box .chart .num { font-size: 40px; line-height: 40px; }.counter .desc_wrapper .number-wrapper { font-size: 40px; line-height: 40px;}.counter .desc_wrapper .title { font-size: 13px; line-height: 16px;}.faq .question .title { font-size: 13px; }.fancy_heading .title { font-size: 34px; line-height: 34px; }.offer .offer_li .desc_wrapper .title h3 { font-size: 28px; line-height: 28px; }.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3 {font-size: 28px; line-height: 28px; }.pricing-box .plan-header h2 { font-size: 24px; line-height: 24px; }.pricing-box .plan-header .price > span { font-size: 34px; line-height: 34px; }.pricing-box .plan-header .price sup.currency { font-size: 16px; line-height: 16px; }.pricing-box .plan-header .price sup.period { font-size: 13px; line-height: 13px;}.quick_fact .number { font-size: 70px; line-height: 70px;}.trailer_box .desc h2 { font-size: 24px; line-height: 24px; }}@media only screen and (max-width: 479px){body {font-size: 13px;line-height: 19px;}big,.big {font-size: 13px;line-height: 19px;}#menu > ul > li > a, a.button.action_button {font-size: 13px;}#Subheader .title {font-size: 42px;line-height: 42px;}h1, .text-logo #logo { font-size: 15px;line-height: 19px;}h2 { font-size: 29px;line-height: 29px;}h3 {font-size: 20px;line-height: 22px;}h4 {font-size: 14px;line-height: 19px;}h5 {font-size: 13px;line-height: 19px;}h6 {font-size: 13px;line-height: 19px;}#Intro .intro-title { font-size: 42px;line-height: 42px;}blockquote { font-size: 13px;}.chart_box .chart .num { font-size: 35px; line-height: 35px; }.counter .desc_wrapper .number-wrapper { font-size: 35px; line-height: 35px;}.counter .desc_wrapper .title { font-size: 13px; line-height: 26px;}.faq .question .title { font-size: 13px; }.fancy_heading .title { font-size: 30px; line-height: 30px; }.offer .offer_li .desc_wrapper .title h3 { font-size: 26px; line-height: 26px; }.offer_thumb_ul li.offer_thumb_li .desc_wrapper .title h3 {font-size: 26px; line-height: 26px; }.pricing-box .plan-header h2 { font-size: 21px; line-height: 21px; }.pricing-box .plan-header .price > span { font-size: 32px; line-height: 32px; }.pricing-box .plan-header .price sup.currency { font-size: 14px; line-height: 14px; }.pricing-box .plan-header .price sup.period { font-size: 13px; line-height: 13px;}.quick_fact .number { font-size: 60px; line-height: 60px;}.trailer_box .desc h2 { font-size: 21px; line-height: 21px; }}.with_aside .sidebar.columns {width: 23%;}.with_aside .sections_group {width: 77%;}.aside_both .sidebar.columns {width: 18%;}.aside_both .sidebar.sidebar-1{ margin-left: -82%;}.aside_both .sections_group {width: 64%;margin-left: 18%;}@media only screen and (min-width:1240px){#Wrapper, .with_aside .content_wrapper {max-width: 1200px;}.section_wrapper, .container {max-width: 1180px;}.layout-boxed.header-boxed #Top_bar.is-sticky{max-width: 1200px;}}@media only screen and (max-width: 767px){.section_wrapper,.container,.four.columns .widget-area { max-width: 700px !important; }}#Top_bar #logo,.header-fixed #Top_bar #logo,.header-plain #Top_bar #logo,.header-transparent #Top_bar #logo {height: 60px;line-height: 60px;padding: 15px 0;}.logo-overflow #Top_bar:not(.is-sticky) .logo {height: 90px;}#Top_bar .menu > li > a {padding: 15px 0;}.menu-highlight:not(.header-creative) #Top_bar .menu > li > a {margin: 20px 0;}.header-plain:not(.menu-highlight) #Top_bar .menu > li > a span:not(.description) {line-height: 90px;}.header-fixed #Top_bar .menu > li > a {padding: 30px 0;}#Top_bar .top_bar_right,.header-plain #Top_bar .top_bar_right {height: 90px;}#Top_bar .top_bar_right_wrapper { top: 25px;}.header-plain #Top_bar a#header_cart, .header-plain #Top_bar a#search_button,.header-plain #Top_bar .wpml-languages,.header-plain #Top_bar a.button.action_button {line-height: 90px;}.header-plain #Top_bar .wpml-languages,.header-plain #Top_bar a.button.action_button {height: 90px;}@media only screen and (max-width: 767px){#Top_bar a.responsive-menu-toggle { top: 40px;}.mobile-header-mini #Top_bar #logo{height:50px!important;line-height:50px!important;margin:5px 0!important;}.mobile-sticky #Top_bar.is-sticky #logo{height:50px!important;line-height:50px!important;margin:5px 50px;}}.twentytwenty-before-label::before { content: "Before";}.twentytwenty-after-label::before { content: "After";}.blog-teaser li .desc-wrapper .desc{background-position-y:-1px;}
-</style>
-<!-- style | custom css | theme options -->
-<style id="mfn-dnmc-theme-css">
-h1, h1 a, h1 a:hover, .text-logo #logo {
-    color: #ffffff;
-}
-
-#Action_bar {
-    line-height: 10px;
-}
-
-p {
-     line-height: 2;
-}
-
-/*
-#Top_bar .menu li ul li {
-    padding: 0;
-    width: 240px;
-    position: relative;
-    font-weight: 400;
-}
-*/
-.post-title .entry-title
-{
-font-size: 30px;
-line-height: 38px;
-}
-
-.fa-whatsapp::before {
-  content: url("http://www.digitalmarketer.co.id/wp-content/uploads/2018/09/icon-whatsapp.png");
-}
-
-iframe#ifrm{display:none;}
-
-li {line-height: 2}
-</style>
-
+<link rel='stylesheet' id='dashicons-css'  href='http://panduanim.com/wp-includes/css/dashicons.min.css?ver=4.9.18' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://panduanim.com/wp-content/plugins/jetpack/css/jetpack.css?ver=7.1.2' type='text/css' media='all' />
+<script type='text/javascript' src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=1.11.1"></script>
+<script type='text/javascript' src='http://panduanim.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-content/plugins/thrive-leads/tcb/editor/js/compat.min.js?ver=1.500.18'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/script.js?ver=1'></script>
 <!--[if lt IE 9]>
-<script id="mfn-html5" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script type='text/javascript' src='http://panduanim.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
 <![endif]-->
-<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.digitalmarketer.co.id/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel='https://api.w.org/' href='http://panduanim.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://panduanim.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://panduanim.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.18" />
+<link rel='shortlink' href='https://wp.me/p5AFCv-xP' />
+<link rel="alternate" type="application/json+oembed" href="http://panduanim.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpanduanim.com%2Fmenambah-followers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://panduanim.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpanduanim.com%2Fmenambah-followers%2F&#038;format=xml" />
+<style type="text/css"> .enews .screenread {
+	height: 1px;
+    left: -1000em;
+    overflow: hidden;
+    position: absolute;
+    top: -1000em;
+    width: 1px; } </style><meta name="generator" content="WPML ver:3.8.4 stt:1,25;" />
 
-<!-- BEGIN GADWP v5.3.2 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-54491604-2"></script>
 <script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-99039457-1', 'auto');
-  ga('send', 'pageview');
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-54491604-2');
 </script>
-<!-- END GADWP Universal Analytics -->
-<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
-<script src='https://www.google.com/recaptcha/api.js'></script>
+			<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<link rel="icon" href="https://i2.wp.com/panduanim.com/wp-content/uploads/2016/03/cropped-favicon.png?fit=32%2C32&#038;quality=100&#038;strip=all" sizes="32x32" />
+<link rel="icon" href="https://i2.wp.com/panduanim.com/wp-content/uploads/2016/03/cropped-favicon.png?fit=192%2C192&#038;quality=100&#038;strip=all" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i2.wp.com/panduanim.com/wp-content/uploads/2016/03/cropped-favicon.png?fit=180%2C180&#038;quality=100&#038;strip=all" />
+<meta name="msapplication-TileImage" content="https://i2.wp.com/panduanim.com/wp-content/uploads/2016/03/cropped-favicon.png?fit=270%2C270&#038;quality=100&#038;strip=all" />
 </head>
-
-<!-- body -->
-<body class="post-template-default single single-post postid-2103 single-format-standard  with_aside aside_right color-custom style-simple button-default layout-full-width nice-scroll-on if-zoom header-below header-fw minimalist-header sticky-header sticky-white ab-hide subheader-both-center menu-line-below-80-1 menuo-right mm-vertical footer-sliding footer-copy-center mobile-tb-center mobile-side-slide mobile-mini-mr-ll be-1771 wpb-js-composer js-comp-ver-5.1.1 vc_responsive">
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MT7TQKD"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
-	<!-- mfn_hook_top --><!-- mfn_hook_top -->
-		
-		
-	<!-- #Wrapper -->
-	<div id="Wrapper">
-	
-				
-		
-		<!-- #Header_bg -->
-		<div id="Header_wrapper" >
-	
-			<!-- #Header -->
-			<header id="Header">
-				
-
-
-<!-- .header_placeholder 4sticky  -->
-<div class="header_placeholder"></div>
-
-<div id="Top_bar" class="loading">
-
-	<div class="container">
-		<div class="column one">
-		
-			<div class="top_bar_left clearfix">
-			
-				<!-- Logo -->
-				<div class="logo"><a id="logo" href="http://www.digitalmarketer.co.id" title="Digital Marketer"><img class="logo-main scale-with-grid" src="http://www.digitalmarketer.co.id/wp-content/uploads/2017/05/logo-putih.png" alt="logo-putih" /><img class="logo-sticky scale-with-grid" src="http://www.digitalmarketer.co.id/wp-content/uploads/2017/05/logo-putih.png" alt="logo-putih" /><img class="logo-mobile scale-with-grid" src="http://www.digitalmarketer.co.id/wp-content/uploads/2017/05/logo-putih.png" alt="logo-putih" /><img class="logo-mobile-sticky scale-with-grid" src="http://www.digitalmarketer.co.id/wp-content/uploads/2017/05/logo-putih.png" alt="logo-putih" /></a></div>			
-				<div class="menu_wrapper">
-					<nav id="menu" class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="http://www.digitalmarketer.co.id/"><span>Home</span></a></li>
-<li id="menu-item-5415" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/promo-digital-marketer/"><span>Promo Bulan ini</span></a></li>
-<li id="menu-item-686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Service</span></a>
-<ul class="sub-menu">
-	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www.digitalmarketer.co.id/iklan-online/"><span>Iklan Online</span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/iklan-online/jasa-iklan-facebook/"><span>Jasa Iklan Facebook</span></a></li>
-		<li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/iklan-online/jasa-iklan-instagram/"><span>Jasa Iklan Instagram</span></a></li>
-		<li id="menu-item-12679" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/iklan-online/jasa-iklan-twitter/"><span>Jasa Iklan Twitter</span></a></li>
-		<li id="menu-item-26475" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/iklan-online/jasa-iklan-tiktok/"><span>Jasa Iklan TikTok</span></a></li>
-		<li id="menu-item-764" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/iklan-online/jasa-iklan-linkedin/"><span>Jasa Iklan Linkedin</span></a></li>
-		<li id="menu-item-5152" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/iklan-online/jasa-iklan-youtube/"><span>Jasa Iklan Youtube</span></a></li>
-		<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/iklan-online/jasa-iklan-google-adwords/"><span>Jasa Iklan Google Adwords</span></a></li>
-		<li id="menu-item-12678" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/iklan-online/jasa-iklan-google-display-network/"><span>Jasa Iklan Google Display Network</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-727" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/jasa-sosial-media-all-in/"><span>Sosial Media All in</span></a></li>
-	<li id="menu-item-21369" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/pelanggan-potensial/"><span>Pelanggan Potensial Fokus</span></a></li>
-	<li id="menu-item-32139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Web &#038; SEO</span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-173" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/jasa-pembuatan-website/"><span>Website</span></a></li>
-		<li id="menu-item-29198" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/jasa-seo-profesional/"><span>Jasa SEO Profesional</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-32145" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/marketing-activation/"><span>Marketing Activation</span></a></li>
-	<li id="menu-item-15517" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Training</span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-564" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/training/"><span>Training Digital Marketing</span></a></li>
-		<li id="menu-item-15518" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/kursus-wordpress/"><span>Kursus Website</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-32138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Desain &#038; Kreatif</span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-28544" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/jasa-foto-produk/"><span>Jasa Foto Produk</span></a></li>
-		<li id="menu-item-16060" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/jasa-pembuatan-video-profesional/"><span>Video Profesional</span></a></li>
-		<li id="menu-item-28241" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/jasa-video-animasi/"><span>Jasa Video Animasi</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-20701" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/paket-endorse-influencer-instagram/"><span>Paket Influencer</span></a></li>
-	<li id="menu-item-21544" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/jasa-promosi-apps/"><span>Promosi Apps</span></a></li>
-	<li id="menu-item-13824" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/jasa-manajemen-marketplace/"><span>Manajemen Marketplace</span></a></li>
-	<li id="menu-item-35563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#"><span>Iklan Mainstream</span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-35564" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/jasa-iklan-tv-radio/"><span>Jasa Iklan TV &#038; Radio</span></a></li>
-		<li id="menu-item-35565" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/jasa-iklan-ooh/"><span>Jasa Iklan OOH</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-36409" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/paket-tiktok/"><span>Paket Tiktok</span></a></li>
+<body class="post-template-default single single-post postid-2097 single-format-standard header-image full-width-content no-sidebar" itemscope itemtype="https://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://panduanim.com/">PanduanIM</a></p></div><div class="widget-area header-widget-area"><section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><nav class="nav-header" itemscope itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-top-nav" class="menu genesis-nav-menu"><li id="menu-item-2277" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2277"><a href="http://panduanim.com/blog/" itemprop="url"><span itemprop="name">Blog</span></a></li>
+<li id="menu-item-217" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-217"><a href="http://panduanim.com/panduan/" itemprop="url"><span itemprop="name">Panduan</span></a></li>
+<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="http://panduanim.com/kontak/" itemprop="url"><span itemprop="name">Kontak</span></a></li>
+<li id="menu-item-962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-962"><a href="http://panduanim.com/daftar/" itemprop="url"><span itemprop="name">Daftar</span></a></li>
+</ul></nav></div></section>
+</div></div></header><div class="horizontal-opt-in widget-area"><div class="wrap"><section id="text-10" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><p class="horizontal-bar-title">Dapatkan strategi marketing untuk meningkatkan traffic dan penjualan</p>
+<form action="//darmawan.us9.list-manage.com/subscribe/post?u=b9e21c7479e163b32f7cf9fab&amp;id=a911e4c81d" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div class="ck_control_group ck_email_field_group">
+        <label class="ck_label" for="ck_emailField" style="display: none">Email Address</label>
+          <input type="email" name="EMAIL" class="ck_email_address horizontal-bar-email" id="mce-EMAIL" placeholder="Masukkan alamat email..." required>
+      </div>
+<button class="button horizontal-bar-button subscribe_button ck_subscribe_button btn fields" id='ck_subscribe_button'>
+        Daftar
+      </button>
+    </form></div>
+		</div></section>
+</div></div><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><div class="breadcrumb"><span class="breadcrumb-link-wrap" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="http://panduanim.com/" itemprop="item"><span itemprop="name">Home</span></a></span> / <span class="breadcrumb-link-wrap" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="http://panduanim.com/category/social-media-marketing/" itemprop="item"><span itemprop="name">Social Media Marketing</span></a></span> / 66+ Strategi yang Bisa Anda Lakukan untuk Mendapatkan Followers  dan Like di Instagram, Twitter, dan Facebook</div><article class="post-2097 post type-post status-publish format-standard has-post-thumbnail category-social-media-marketing entry" itemscope itemtype="https://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">66+ Strategi yang Bisa Anda Lakukan untuk Mendapatkan Followers  dan Like di Instagram, Twitter, dan Facebook</h1>
+<p class="entry-meta"><em>oleh</em> <span class="entry-author" itemprop="author" itemscope itemtype="https://schema.org/Person"><a href="http://panduanim.com/author/darmawan/" class="entry-author-link" itemprop="url" rel="author"><span class="entry-author-name" itemprop="name">Darmawan</span></a></span> <a class="post-meta-twitter" rel="external nofollow" target="blank_" href="https://twitter.com/intent/follow?screen_name=Panduan_IM"><span class="dashicons dashicons-twitter"></span> Follow</a> <a class="post-meta-facebook" rel="external nofollow" target="blank_" href="https://www.facebook.com/PanduanIM"><span class="dashicons dashicons-facebook"></span> Like</a></p></header><img width="750" height="390" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Mendapatkan-Followers.png?fit=750%2C390&amp;quality=100&amp;strip=all" class="post-image jetpack-lazy-image" alt="" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Mendapatkan-Followers.png?w=750&amp;quality=100&amp;strip=all 750w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Mendapatkan-Followers.png?resize=300%2C156&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 750px) 100vw, 750px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Mendapatkan-Followers.png?fit=750%2C390&amp;quality=100&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /><div class="entry-content" itemprop="text"><p>Anda pasti pernah melihat orang/perusahaan yang aktif di Instagram, Twitter, atau Facebook dan punya banyak follower.</p>
+<p>Setiap kali membuat post baru, puluhan ribu like. Gila.</p>
+<p>Lalu anda merasa kagum dengan mereka, sehingga anda juga ingin mendapatkan banyak follower.</p>
+<p>Sekarang memang jamannya seperti itu. Semakin banyak jumlah follower-nya, semakin bangga pula rasanya.</p>
+<p>Tapi bukan hanya kebanggaan&#8230;</p>
+<p>&#8230;meskipun untuk hepi-hepi atau tujuan bisnis, memiliki banyak follower di social media bisa memberikan 3 manfaat besar:</p>
+<ol>
+<li>Otoritas &#8211; kita dipercaya sebagai orang yang ahli</li>
+<li>Pengaruh &#8211; ide yang kita tanamkan menyebar luas</li>
+<li>Penjualan &#8211; jelas, banyak orang = banyak pembeli</li>
+</ol>
+<p>Pertanyaannya, caranya gimana biar banyak follower?</p>
+<p>Padahal sudah buat banyak post yang bagus, lucu, menarik, tapi tiap hari cuma bertambah 1-2 followers.</p>
+<p>Dalam artikel ini, anda akan mempelajari 50 hal yang harus dilakukan dan tidak boleh dilakukan untuk mendapatkan follower di Instagram, Twitter, dan like di Facebook.</p>
+<p>Dan semuanya sudah terbukti.</p>
+<p><span id="more-2097"></span></p>
+<div class="content-box-blue">Di artikel ini ada lebih dari 60 tips untuk 3 social media: Twitter, Facebook, dan Instagram. Silahkan gunakan filter di bawah untuk memunculkan tips dalam kategori yang anda inginkan saja, supaya tidak terlalu banyak.</div>
+<form class="controls" id="filter-buttons"><br />
+<fieldset><h4 class="filter-title">Perlihatkan hanya tips yang berlaku di:</h4><div class="checkbox"><input type="checkbox" value=".Twitter" /><label>Twitter</label></div><div class="checkbox"><input type="checkbox" value=".Facebook" /><label>Facebook</label></div><div class="checkbox"><input type="checkbox" value=".Instagram" /><label>Instagram</label></div></fieldset><br />
+<fieldset><h4 class="filter-title">Perlihatkan hanya tips dalam kategori:</h4><div class="checkbox"><input type="checkbox" value=".Konten" /><label>Konten</label></div><div class="checkbox"><input type="checkbox" value=".Strategi" /><label>Strategi</label></div><div class="checkbox"><input type="checkbox" value=".Relasi" /><label>Relasi</label></div><div class="checkbox"><input type="checkbox" value=".Etika" /><label>Etika</label></div><div class="checkbox"><input type="checkbox" value=".Visibilitas" /><label>Visibilitas</label></div></fieldset><br />
+</form><div style="clear:both"></div>
+<div id="content-container" class="content-container"><div class="fail-message"><span>No items were found matching the selected filters</span></div><br />
+<div class="mix Twitter Facebook Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Buat konten yang bermanfaat</h3>
+<p>Apapun teknik yang anda terapkan, kalau kontennya tidak bermanfaat maka tidak akan bisa berhasil.</p>
+<p>Setiap kali ngepost di social media, tanyakan pada diri anda: &#8220;Apakah orang selain keluarga dan teman-teman dekat saya akan merasa ini bermanfaat?&#8221;</p>
+<p>Kesalahan utama, bahkan yang dilakukan oleh para selebriti, yaitu mereka membuat post yang terlalu fokus dengan diri sendiri. Curhatan-curhatan, misalnya.</p>
+<p>Kalau anda orang terkenal, tidak masalah&#8230;</p>
+<p>&#8230;tapi kalau anda baru mulai, pastikan bermanfaat bagi semua orang.</p>
+<p>Entah itu bermanfaat dalam arti berguna, menghibur, lucu, informatif, dan lain-lain. Intinya, orang lain harus mendapatkan &#8216;nilai&#8217; dari post anda.<br />
+</div><br />
+<div class="mix Twitter Facebook Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Buat konten yang bisa dibawa pulang</h3>
+<p>Atau dengan kata lain, file.</p>
+<p>Ebook, presentasi, dokumen, audio, video. Apapun, file yang bisa di-download oleh orang lain secara gratis dan bermanfaat bagi mereka.</p>
+<p>File punya nilai lebih tinggi dibandingkan teks biasa, sehingga akan mengundang banyak orang untuk datang kepada anda.<br />
+</div><br />
+<div class="mix Twitter Facebook Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Berikan opini terhadap berita/tren yang sedang hangat</h3>
+<p>Salah satu alasan utama seseorang menggunakan social media adalah karena mereka ingin mendapatkan kabar-kabar terbaru dengan lebih cepat.</p>
+<p>Tapi anda pasti akan kalah oleh jurnalis dalam urusan mendapatkan berita.</p>
+<p>Solusinya, berikan opini.</p>
+<p>Jangan hanya menulis informasi, tuangkan pendapat anda. Lebih bagus lagi apabila pendapat ini bisa membantu orang lain dalam berpikir atau bertindak.<br />
+</div><br />
+<div class="mix Twitter Konten Relasi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Retweet konten yang menarik dan relevan</h3>
+<p>Ada 2 manfaat dari retweet:</p>
+<ul>
+<li>Memberikan konten yang bagus kepada follower</li>
+<li>Mendapatkan reaksi positif dari pemilik tweet</li>
 </ul>
-</li>
-<li id="menu-item-841" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/portfolio/"><span>Portfolio</span></a></li>
-<li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/pemesanan/"><span>Pemesanan</span></a></li>
-<li id="menu-item-685" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/tentang-digital-marketer/"><span>Tentang</span></a></li>
-<li id="menu-item-646" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/kontak-digital-marketer/"><span>Kontak</span></a></li>
-<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.digitalmarketer.co.id/syarat-dan-ketentuan/"><span>S &#038; K</span></a></li>
-<li id="menu-item-18125" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent current-menu-item"><a href="http://www.digitalmarketer.co.id/blog/"><span>Blog</span></a></li>
-</ul></nav><a class="responsive-menu-toggle " href="#"><i class="icon-menu-fine"></i></a>					
-				</div>			
-				
-				<div class="secondary_menu_wrapper">
-					<!-- #secondary-menu -->
-					<nav id="secondary-menu" class="menu-footer-menu-container"><ul id="menu-footer-menu" class="secondary-menu"><li id="menu-item-618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-618"><a href="http://www.digitalmarketer.co.id/syarat-dan-ketentuan/">Syarat dan Ketentuan</a></li>
-<li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="http://www.digitalmarketer.co.id/tentang-digital-marketer/">Tentang</a></li>
-<li id="menu-item-617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-617"><a href="http://www.digitalmarketer.co.id/kontak-digital-marketer/">Kontak</a></li>
-<li id="menu-item-620" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-620"><a href="http://www.digitalmarketer.co.id/category/semua/">Semua</a></li>
-</ul></nav>				</div>
-				
-				<div class="banner_wrapper">
-									</div>
-				
-				<div class="search_wrapper">
-					<!-- #searchform -->
-					
-					
-<form method="get" id="searchform" action="http://www.digitalmarketer.co.id/">
-						
+<p>Keduanya akan bermanfaat bagi anda.</p>
+<p>Ketika menemukan tweet yang menarik dari orang lain, jangan ragu untuk me-retweet. Tidak ada ruginya sama sekali, justru kedua pihak akan berterima kasih.</p>
+<p>Asalkan jangan retweet yang bidangnya berbeda jauh dari anda sendiri.<br />
+</div><br />
+<div class="mix Twitter Facebook Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Gunakan lebih dari sekedar tulisan</h3>
+<p>Dilihat dari datanya, post di social media yang berupa teks mendapatkan jumlah interaksi paling kecil dibandingkan jenis lain.</p>
+<p>Foto, video, link, hashtag, semuanya lebih bagus.</p>
+<p>Lihat data resmi dari Twitter ini:</p>
+<p><img class="aligncenter size-full wp-image-2058 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Retweet-terbanyak.png?resize=561%2C277&#038;quality=100&#038;strip=all" alt="Retweet terbanyak" width="561" height="277" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Retweet-terbanyak.png?w=561&amp;quality=100&amp;strip=all 561w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Retweet-terbanyak.png?resize=300%2C148&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 561px) 100vw, 561px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Retweet-terbanyak.png?resize=561%2C277&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2058" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Retweet-terbanyak.png?resize=561%2C277&#038;quality=100&#038;strip=all" alt="Retweet terbanyak" width="561" height="277" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Retweet-terbanyak.png?w=561&amp;quality=100&amp;strip=all 561w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Retweet-terbanyak.png?resize=300%2C148&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 561px) 100vw, 561px" data-recalc-dims="1" /></noscript></p>
+<p>Tweet yang mengandung URL (foto dan video) mendapatkan jumlah retweet hingga 35% lebih banyak dibandingkan teks biasa.</p>
+<p>Bahkan sekedar hashtag pun lebih populer.</p>
+<p>Sementara ini hasil penelitian untuk Facebook:</p>
+<p><img class="aligncenter size-full wp-image-2059 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Facebook-organic-reach.png?resize=677%2C319&#038;quality=100&#038;strip=all" alt="Facebook organic reach" width="677" height="319" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Facebook-organic-reach.png?w=677&amp;quality=100&amp;strip=all 677w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Facebook-organic-reach.png?resize=300%2C141&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 677px) 100vw, 677px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Facebook-organic-reach.png?resize=677%2C319&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2059" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Facebook-organic-reach.png?resize=677%2C319&#038;quality=100&#038;strip=all" alt="Facebook organic reach" width="677" height="319" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Facebook-organic-reach.png?w=677&amp;quality=100&amp;strip=all 677w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Facebook-organic-reach.png?resize=300%2C141&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 677px) 100vw, 677px" data-recalc-dims="1" /></noscript></p>
+<p>Link merajai.</p>
+<p>Jadi, daripada sekedar menulis teks, carilah link. Bisa berupa bacaan, video, foto, apapun. Yang penting lebih dari sekedar teks.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Jadwalkan post pada jam-jam optimal</h3>
+<p>Beda jam, beda hasilnya.</p>
+<p>Jam optimal itu maksudnya waktu ketika jumlah follower yang aktif tinggi dan jumlah post dari orang lain sedikit. Sehingga post dari kita lah yang paling banyak dilihat.</p>
+<p>Jam berapa?</p>
+<p>Jawabannya berbeda-beda, tapi ini beberapa gambar untuk patokan.</p>
+<p><strong>Twitter:</strong></p>
+<p><img class="aligncenter size-full wp-image-2061 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-yang-optimal-untuk-tweet.png?resize=797%2C971&#038;quality=100&#038;strip=all" alt="Waktu yang optimal untuk tweet" width="797" height="971" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-yang-optimal-untuk-tweet.png?w=797&amp;quality=100&amp;strip=all 797w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-yang-optimal-untuk-tweet.png?resize=246%2C300&amp;quality=100&amp;strip=all 246w" data-lazy-sizes="(max-width: 797px) 100vw, 797px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-yang-optimal-untuk-tweet.png?resize=797%2C971&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2061" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-yang-optimal-untuk-tweet.png?resize=797%2C971&#038;quality=100&#038;strip=all" alt="Waktu yang optimal untuk tweet" width="797" height="971" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-yang-optimal-untuk-tweet.png?w=797&amp;quality=100&amp;strip=all 797w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-yang-optimal-untuk-tweet.png?resize=246%2C300&amp;quality=100&amp;strip=all 246w" sizes="(max-width: 797px) 100vw, 797px" data-recalc-dims="1" /></noscript></p>
+<p>Tidak ada waktu Indonesia, tapi mungkin di bagian Asia &amp; Australia lainnya bisa jadi pedoman.</p>
+<p><strong>Facebook:</strong></p>
+<p><img class="aligncenter size-full wp-image-2099 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Facebook.png?resize=770%2C654&#038;quality=100&#038;strip=all" alt="Waktu terbaik untuk post di Facebook" width="770" height="654" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Facebook.png?w=770&amp;quality=100&amp;strip=all 770w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Facebook.png?resize=300%2C255&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 770px) 100vw, 770px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Facebook.png?resize=770%2C654&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2099" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Facebook.png?resize=770%2C654&#038;quality=100&#038;strip=all" alt="Waktu terbaik untuk post di Facebook" width="770" height="654" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Facebook.png?w=770&amp;quality=100&amp;strip=all 770w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Facebook.png?resize=300%2C255&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 770px) 100vw, 770px" data-recalc-dims="1" /></noscript></p>
+<p>Di Facebook sebetulnya tidak ada 1 waktu yang benar-benar optimal.</p>
+<p>Beda kategorinya, beda waktunya. Misalnya orang yang biasa menggunakan Facebook untuk hiburan mungkin akan aktif akhir minggu. Tapi orang yang menggunakan Facebook untuk urusan bisnis akan aktif hari kerja.</p>
+<p>Maka dari itu, cara terbaik adalah mencoba sendiri. Kemudian lihat datanya di Facebook Page anda.</p>
+<p><strong>Instagram:</strong></p>
+<p><img class="aligncenter size-full wp-image-2100 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Instagram.png?resize=586%2C418&#038;quality=100&#038;strip=all" alt="Waktu terbaik untuk post di Instagram" width="586" height="418" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Instagram.png?w=586&amp;quality=100&amp;strip=all 586w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Instagram.png?resize=300%2C214&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 586px) 100vw, 586px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Instagram.png?resize=586%2C418&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2100" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Instagram.png?resize=586%2C418&#038;quality=100&#038;strip=all" alt="Waktu terbaik untuk post di Instagram" width="586" height="418" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Instagram.png?w=586&amp;quality=100&amp;strip=all 586w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-di-Instagram.png?resize=300%2C214&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 586px) 100vw, 586px" data-recalc-dims="1" /></noscript></p>
+<p>Sore dan tengah malam ternyata waktu paling optimal untuk membuat post di Instagram.<br />
+</div><br />
+<div class="mix Twitter Instagram Relasi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Follow orang yang bakal tertarik dengan post anda</h3>
+<p>Mem-follow orang lain merupakan cara tercepat untuk mendapatkan follower.</p>
+<p>Alasannya, karena setiap kali di-follow kita akan mendapatkan notifikasi seperi ini:</p>
+<p><img class="aligncenter size-full wp-image-2101 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Notifikasi-follow.png?resize=599%2C152&#038;quality=100&#038;strip=all" alt="Notifikasi follow" width="599" height="152" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Notifikasi-follow.png?w=599&amp;quality=100&amp;strip=all 599w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Notifikasi-follow.png?resize=300%2C76&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 599px) 100vw, 599px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Notifikasi-follow.png?resize=599%2C152&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2101" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Notifikasi-follow.png?resize=599%2C152&#038;quality=100&#038;strip=all" alt="Notifikasi follow" width="599" height="152" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Notifikasi-follow.png?w=599&amp;quality=100&amp;strip=all 599w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Notifikasi-follow.png?resize=300%2C76&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 599px) 100vw, 599px" data-recalc-dims="1" /></noscript></p>
+<p>Bahkan, <a href="https://www.quicksprout.com/2014/10/17/how-to-get-your-first-100-twitter-followers/" target="_blank">dikutip dari Quicksprout</a>, persentase follow-back di Twitter mencapai 20%:</p>
+<p><img class="aligncenter size-full wp-image-2102 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Persentase-follow-back.png?resize=475%2C285&#038;quality=100&#038;strip=all" alt="Persentase follow back" width="475" height="285" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Persentase-follow-back.png?w=475&amp;quality=100&amp;strip=all 475w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Persentase-follow-back.png?resize=300%2C180&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 475px) 100vw, 475px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Persentase-follow-back.png?resize=475%2C285&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2102" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Persentase-follow-back.png?resize=475%2C285&#038;quality=100&#038;strip=all" alt="Persentase follow back" width="475" height="285" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Persentase-follow-back.png?w=475&amp;quality=100&amp;strip=all 475w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Persentase-follow-back.png?resize=300%2C180&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 475px) 100vw, 475px" data-recalc-dims="1" /></noscript></p>
+<p>Karena sifatnya mirip, hal yang sama juga berlaku di Instagram.</p>
+<p>Gunakan fitur search di Twitter dan Instagram untuk menemukan orang-orang yang kira-kira bakal tertarik dengan konten anda, lalu follow mereka.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Pahami jenis-jenis post di social media</h3>
+<p>Ada 2 jenis orang yang aktif di social media:</p>
+<ul>
+<li><strong>Informers</strong>: orang yang senang berbagi informasi</li>
+<li><strong>Meformers</strong>: orang yang senang berbagi informasi, tentang dirinya sendiri</li>
+</ul>
+<p>Tipe pertama lebih banyak mendapatkan follower daripada tipe kedua.</p>
+<p>Padahal secara keseluruhan hanya ada 20% informer dan 80% meformer. Artinya sebagian besar orang lebih suka curhat.</p>
+<p>Ini jenis-jenis post di social media beserta contohnya:</p>
+<ul>
+<li>Sharing informasi: &#8220;Ini bacaan bagus tentang kasus korupsi pemerintah [link]&#8221;</li>
+<li>Promosi: &#8220;Ini artikel yang saya buat tentang HP Android [link]&#8221;</li>
+<li>Opini/komplain: &#8220;Lagunya si [artis] yang baru ini bagus ya&#8221;</li>
+<li>Pernyataan: &#8220;Lebih enak tinggal di Bali daripada Jakarta&#8221;</li>
+<li>Lagi apa: &#8220;Huff, capeknya abis pulang kerja&#8221;</li>
+<li>Pertanyaan ke follower: &#8220;Nanti sore enaknya share apa ya tweeps?&#8221;</li>
+<li>Muncul: &#8220;Akhirnya balik lagi ke Jakarta&#8221;, &#8220;Morning Tweeps!&#8221;</li>
+<li>Kisah sendiri: &#8220;Lupa bawa payung, kehujanan deh&#8221;</li>
+<li>Kisah orang lain: &#8220;Gila, ada orang berkelahi di depan SD 4. Yang satu meninggal&#8221;</li>
+</ul>
+<p>Kategorikan konten yang anda buat ke social media, pastikan apakah murni tentang diri sendiri atau orang lain juga bakal merasa bermanfaat.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Lengkapi profil, buat profil yang asik</h3>
+<p>Ada 2 hal yang ingin saya sampaikan terkait profil.</p>
+<p>Pertama, kalau anda ingin mendapatkan banyak follower, lengkapi semua profil. Tidak ada orang yang akan mem-follow akun dengan foto profil kosongan.</p>
+<p>Kedua, jangan jadi pribadi yang membosankan.</p>
+<p>Kita mem-follow orang lain di social media dengan tujuan mendapatkan sesuatu yang menarik dan tidak membosankan. Makanya profil, sebagai hal pertama yang dilihat harus menarik.</p>
+<p>Buat deskripsi/bio yang menarik. Kalau memang bisa dibuat lucu, buatlah jadi lucu.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Gunakan kata kunci yang relevan di profil</h3>
+<p>Jaman sekarang, banyak orang yang mencari orang lain lewat social media.</p>
+<p>Jadi, sertakan kata kunci yang relevan di profil anda.</p>
+<p>Siapa tahu, misalnya anda seorang penulis lalu ada yang ingin mencari penulis. Maka dengan menyertakan kata &#8220;penulis&#8221; di profil, mereka akan menemukan anda.</p>
+<p>Seperti ini:</p>
+<p><img class="aligncenter size-full wp-image-2103 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Profil-dengan-keyword.png?resize=318%2C475&#038;quality=100&#038;strip=all" alt="Profil dengan keyword" width="318" height="475" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Profil-dengan-keyword.png?w=318&amp;quality=100&amp;strip=all 318w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Profil-dengan-keyword.png?resize=201%2C300&amp;quality=100&amp;strip=all 201w" data-lazy-sizes="(max-width: 318px) 100vw, 318px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Profil-dengan-keyword.png?resize=318%2C475&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2103" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Profil-dengan-keyword.png?resize=318%2C475&#038;quality=100&#038;strip=all" alt="Profil dengan keyword" width="318" height="475" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Profil-dengan-keyword.png?w=318&amp;quality=100&amp;strip=all 318w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Profil-dengan-keyword.png?resize=201%2C300&amp;quality=100&amp;strip=all 201w" sizes="(max-width: 318px) 100vw, 318px" data-recalc-dims="1" /></noscript></p>
+<p>Jangan cuma dipenuhi dengan hal-hal konyol. Profil ini bisa jadi tempat paling strategis di akun anda.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Minta retweet/like/share</h3>
+<p>Sepertinya konyol, tapi ini efeknya luar biasa.</p>
+<p>Dengan meminta para follower untuk melakukan retweet/like/share, maka akan lebih banyak yang melakukan dibandingkan kalau tidak sama sekali.</p>
+<p>Perbedaannya sekitar 4x lipat!</p>
+<p><img class="aligncenter size-full wp-image-2104 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Minta-retweet.png?resize=576%2C314&#038;quality=100&#038;strip=all" alt="Minta retweet" width="576" height="314" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Minta-retweet.png?w=576&amp;quality=100&amp;strip=all 576w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Minta-retweet.png?resize=280%2C153&amp;quality=100&amp;strip=all 280w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Minta-retweet.png?resize=300%2C164&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 576px) 100vw, 576px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Minta-retweet.png?resize=576%2C314&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2104" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Minta-retweet.png?resize=576%2C314&#038;quality=100&#038;strip=all" alt="Minta retweet" width="576" height="314" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Minta-retweet.png?w=576&amp;quality=100&amp;strip=all 576w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Minta-retweet.png?resize=280%2C153&amp;quality=100&amp;strip=all 280w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Minta-retweet.png?resize=300%2C164&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 576px) 100vw, 576px" data-recalc-dims="1" /></noscript></p>
+<p>Tips sederhana tapi hasilnya luar biasa.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Taruh link ke akun social media di semua tempat yang terlihat orang lain</h3>
+<p>Ini hal paling mendasar yang selalu dilupakan.</p>
+<p>Kalau anda ingin mendapatkan follower di Twitter, Instagram, Facebook, atau yang lainnya, taruhlah link menuju akun anda di semua tempat yang terlihat oleh orang lain.</p>
+<p>Di email misalnya.</p>
+<p>Atau kalau anda aktif di forum komunitas online, taruh di signature atau tulis setiap kali membuat post baru di sana.</p>
+<p>Ini sepele tapi logis.</p>
+<p>Mustahil follower bisa bertambah kalau bukan anda yang aktif mempromosikan.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Relasi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Minta teman-teman sendiri untuk share/like/retweet</h3>
+<p>Anggaplah anda punya 100 teman/follower.</p>
+<p>Dari 100 itu, 20 di antaranya kenal baik dan bisa dimintai pertolongan.</p>
+<p>Masing-masing dari 20 orang itu punya 20 teman lain.</p>
+<p>Artinya setiap kali post anda di-share oleh 20 orang teman ini, di belakangnya ada 400 orang lain yang melihat.</p>
+<p>Bayangkan, dari 20 jadi 400.</p>
+<p>Kalau konten anda memang menarik, maka ada kemungkinan dari 400 itu sebagian kecil akan mem-follow. Anggaplah 5%, atau 20 orang.</p>
+<p>Kemudian 5% ini share lagi ke 20 orang yang lain.</p>
+<p>Dari sekedar sebuah permintaan kecil ke teman-teman terdekat, hasilnya akan jadi besar.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Etika" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Sebisa mungkin hindari logo sebagai foto profil</h3>
+<p>Kecuali kalau akun ini memang akun perusahaan.</p>
+<p>Kita sering tertipu melihat akun-akun dengan logo perusahaan yang punya ratusan ribu follower. Padahal mereka punya banyak follower justru karena mereka sudah terkenal.</p>
+<p>Lalu kita ikut-ikutan memakai logo&#8230;</p>
+<p>&#8230;akhirnya tidak ada yang mem-follow.</p>
+<p>Ini alasannya:</p>
+<p>Di social media, kita lebih suka mem-follow manusia dengan kepribadian daripada bisnis yang kerjaannya promosi. Maka rata-rata akun dengan foto manusia punya lebih banyak follower.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Relasi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Mention orang yang punya banyak follower</h3>
+<p>Saya paham, me-mention orang terkenal itu menyeramkan.</p>
+<p>Mereka punya ribuan follower&#8230;kita, cuma 100.</p>
+<p>Tapi percaya tidak percaya, ini salah satu cara terbaik untuk mendapatkan follower secara instan.</p>
+<p>Sekali kena retweet, favorite, reply, follower bakal langsung bertambah.</p>
+<p>Apa yang kita mention?</p>
+<p>Ini dia:</p>
+<ol>
+<li>Link bacaan yang kira-kira menarik bagi mereka</li>
+<li>Bertanya tentang pendapat mereka</li>
+<li>Kisah tentang mereka yang baru anda ketahui</li>
+<li>Pendapat anda tentang post mereka (bukan cuma respon)</li>
+<li>Konten dari website mereka + pendapat anda</li>
+</ol>
+<p></div><br />
+<div class="mix Twitter Facebook Instagram Relasi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Bicara 2 arah dengan para follower</h3>
+<p>Apa yang membuat orang lain melakukan retweet/like/share terhadap post anda?</p>
+<p>Karena bagus, sudah jelas.</p>
+<p>Tapi ada 1 alasan lagi.</p>
+<p>Karena mereka merasa punya hubungan dengan anda.</p>
+<p>Coba dibayangkan. Ada mem-follow 2 orang, keduanya menulis tentang suatu hal yang hampir sama. Intinya sama.</p>
+<p>Tapi anda lebih dekat dengan orang kedua.</p>
+<p>Nah, kalau anda ingin me-retweet/like/share salah satunya. Pilih mana?</p>
+<p>Ya.</p>
+<p>Itulah pentingnya berbicara 2 arah dengan follower.</p>
+<p>Jangan hanya ngepost 1 arah. Meskipun bermanfaat. Dengan menjalin hubungan dengan follower sendiri, mereka akan lebih interaktif dengan anda.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Buat blog anda sendiri</h3>
+<p>Rata-rata blogger punya lebih banyak follower.</p>
+<p>Alasannya:</p>
+<ol>
+<li>Mereka punya konten yang lebih bagus untuk dishare dari blognya</li>
+<li>Blog lebih mudah untuk mendapatkan pengunjung daripada akun social media</li>
+<li>Social media dan blog bisa saling membantu</li>
+</ol>
+<p>Maka dari itu, buatlah blog anda sendiri.</p>
+<p>Tidak sulit, tidak butuh biaya. Bahkan orang-orang yang tadinya ingin jadi populer di social media banyak yang akhirnya bakal lebih suka blogging.</p>
+<p>Silahkan <a href="http://panduanim.com/membuat-blog/" target="_blank">baca panduan ini untuk membuat blog</a>.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Post kata-kata mutiara dan motivasi</h3>
+<p>Tipe konten seperti ini yang biasanya paling mendapatkan banyak share.</p>
+<p>Tapi hati-hati&#8230;</p>
+<p>&#8230;kata mutiara yang saya maksud bukan sekedar copy paste dari orang terkenal. Justru hindari yang sudah terlalu umum dan sering digunakan.</p>
+<p>Sering-seringlah membaca artikel/buku.</p>
+<p>Kemudian ketika ada kalimat yang keren, post ke social media.</p>
+<p>Lebih bagus lagi, gunakan kalimat anda sendiri supaya jadinya jauh lebih mudah dipahami oleh  para follower.</p>
+<p>Kata mutiara yang bagus biasanya yang bisa memotivasi orang lain, atau yang isinya relevan dengan permasalahan hidup mereka.<br />
+</div><br />
+<div class="mix Twitter Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Monitor percakapan yang sesuai keyword</h3>
+<p>Misalnya anda punya akun Twitter yang berisi tips diet.</p>
+<p>Suatu hari Di suatu penjuru Twitter, ada 2 orang yang sedang berbincang tentang cara menurunkan berat badan.</p>
+<p>Kemudian anda merekomendasikan akun anda sendiri.</p>
+<p>Karena anda datang di saat yang tepat sesuai kebutuhan mereka, maka kemungkinan besar mereka akan datang menjadi follower.</p>
+<p>Inilah yang kita lakukan, memonitor keyword.</p>
+<p>Pertama-tama, daftar akun di tool gratis bernama <a href="https://warble.co/" target="_blank">Warble</a>.</p>
+<p>Setelah itu masukkan keyword yang anda ingin dapatkan pemberitahuannya. Misalnya kalau akun tentang tips diet tadi, keywordnya seperti ini:</p>
+<ol>
+<li>berat badan</li>
+<li>cara diet</li>
+<li>banyak lemak</li>
+<li>kegemukan</li>
+</ol>
+<p>Dan lain-lain.</p>
+<p>Setelah itu, anda akan dikirimkan email sekali sehari setiap kali ada yang menyebutkan keyword tersebut di Twitter.<br />
+</div><br />
+<div class="mix Twitter Konten Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Sesi kultwit, tapi hati-hati</h3>
+<p>Saya sering melihat akun-akun besar yang melakukan kultwit.</p>
+<p>Kepanjangannya &#8216;kuliah twit&#8217;, maksudnya dalam suatu  sesi itu si pemilik akun akan membahas suatu topik dalam beberapa tweet yang isinya berhubungan.</p>
+<p>Misalnya kultwit tips blogging, maka isinya seputar topik itu.</p>
+<p>Cara ini bisa jadi efektif.</p>
+<p>Tapi bisa justru membuat follower anda kabur.</p>
+<p>Yang harus anda perhatikan, apakah follower anda memang butuh informasi tentang kultwit tersebut? Apakah mereka akan tertarik?</p>
+<p>Kedua, pastikan isinya tidak terlalu panjang.</p>
+<p>Biasanya 10 tweet. Kalau jauh melebihi itu, anda justru akan dianggap pengganggu.</p>
+<p>Ketiga, ajak follower berpartisipasi.</p>
+<p>Bisa dengan mengajak mereka berpendapat tentang tweet anda, atau dengan mengajak mereka memberikan tips/ilmu/cerita sesuai topiknya.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Etika" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Jangan terlalu banyak promosi, dalam bentuk apapun</h3>
+<p>Sebagian besar orang menggunakan social media untuk mengetahui kabar dari keluarga dan teman-teman mereka. Atau mengikuti tren yang hangat.</p>
+<p>Bukan untuk melihat anda promosi.</p>
+<p>Meskipun ada juga orang yang mem-follow akun-akun perusahaan, tapi tujuan mereka tetap untuk mengikuti kabar terbaru dari perusahaan tersebut.</p>
+<p>Inilah alasan mereka mem-follow akun brand:</p>
+<p><img class="aligncenter size-full wp-image-2105 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Tujuan-memfollow-brand.png?resize=520%2C267&#038;quality=100&#038;strip=all" alt="Tujuan memfollow brand" width="520" height="267" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Tujuan-memfollow-brand.png?w=520&amp;quality=100&amp;strip=all 520w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Tujuan-memfollow-brand.png?resize=300%2C154&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 520px) 100vw, 520px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Tujuan-memfollow-brand.png?resize=520%2C267&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2105" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Tujuan-memfollow-brand.png?resize=520%2C267&#038;quality=100&#038;strip=all" alt="Tujuan memfollow brand" width="520" height="267" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Tujuan-memfollow-brand.png?w=520&amp;quality=100&amp;strip=all 520w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Tujuan-memfollow-brand.png?resize=300%2C154&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 520px) 100vw, 520px" data-recalc-dims="1" /></noscript></p>
+<p>Mereka ingin mendapatkan sesuatu.</p>
+<p>Maka kalau anda ingin promosi, berikanlah sesuatu kepada mereka.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Berikan solusi atas permasalahan orang lain</h3>
+<p>Sudah kita bahas bahwa post terbaik adalah yang memberikan manfaat.</p>
+<p>Inilah jenis manfaat yang terbaik.</p>
+<p>Kalau kita berhasil memberikan solusi atas permasalahan orang lain, dalam seketika mereka akan jadi loyal kepada kita.</p>
+<p>Dibandingkan post yang berisi motivasi atau hiburan, mungkin jumlah share-nya lebih sedikit. Tapi manfaatnya di balik layar jauh lebih besar.</p>
+<p>Ini cara mencari konten solusi:</p>
+<ol>
+<li>Tentukan satu permasalahan utama dari follower anda</li>
+<li>Cari di Google, solusi yang populer</li>
+<li>Buat versi sederhana yang bisa langsung dilakukan sekarang juga oleh mereka</li>
+<li>Post</li>
+</ol>
+<p>Perhatikan tahap ketiga.</p>
+<p>Solusi yang anda berikan harus dalam bentuk paling sederhana dan bisa diterapkan langsung oleh orang lain.</p>
+<p>Mengapa?</p>
+<p>Karena orang-orang di social media itu tidak dalam kondisi aktif. Mereka adalah orang-orang yang sedang berdiam diri, sedang bosan.</p>
+<p>Mereka membuka Twitter atau FB bukan untuk memecahkan masalah.</p>
+<p>Maka dari itu, kalau anda memberikan solusi yang rumit maka justru akan diabaikan.<br />
+</div><br />
+<div class="mix Twitter Facebook Relasi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Share konten milik orang lain</h3>
+<p>Mendapatkan ide untuk post di social media itu sulit.</p>
+<p>Padahal kita harus membuat banyak&#8230;tambah sulit.</p>
+<p>Maka dari itu, solusi terbaiknya adalah dengan membagikan konten milik orang lain.</p>
+<p>Saat anda browsing di internet dan menemukan konten yang bagus, bookmark atau simpan link-nya.</p>
+<p>Saat kekurangan ide, post link tersebut ke akun anda.</p>
+<p>Dengan demikian follower anda akan tetap bisa mendapatkan bacaan yang bagus.</p>
+<p>Ada manfaat lain,</p>
+<p>Dengan membagikan konten milik orang lain yang anda temukan, maka anda secara tidak langsung menjalin hubungan dengan mereka.</p>
+<p>Kedepannya, ada kemungkinan mereka akan balik membagikan konten anda.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Pancing kontroversi, buat pendapat yang bertentangan</h3>
+<p>Kontroversi dan pendapat yang bertentangan dengan umum cenderung lebih banyak mendapatkan share/retweet.</p>
+<p>Tapi bukan yang sembarangan.</p>
+<p>Kontroversi yang dibuat harus masuk akal dan memang bisa diterima oleh sebagian kalangan, besar atau kecil.</p>
+<p>Kalau kontroversi yang anda buat jelas-jelas salah besar, reputasi yang jadi taruhannya.<br />
+</div><br />
+<div class="mix Twitter Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Tweet lebih dari 9x sehari</h3>
+<p>9 kali sehari adalah jumlah minimum kalau anda ingin mendapatkan banyak follower.</p>
+<p>Makin banyak makin baik.</p>
+<p>Lihat saja grafik ini:</p>
+<p><img class="aligncenter size-full wp-image-2106 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/frekuensi-tweet.jpg?resize=480%2C308&#038;quality=100&#038;strip=all" alt="frekuensi tweet" width="480" height="308" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/frekuensi-tweet.jpg?w=480&amp;quality=100&amp;strip=all 480w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/frekuensi-tweet.jpg?resize=300%2C193&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 480px) 100vw, 480px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/frekuensi-tweet.jpg?resize=480%2C308&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2106" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/frekuensi-tweet.jpg?resize=480%2C308&#038;quality=100&#038;strip=all" alt="frekuensi tweet" width="480" height="308" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/frekuensi-tweet.jpg?w=480&amp;quality=100&amp;strip=all 480w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/frekuensi-tweet.jpg?resize=300%2C193&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 480px) 100vw, 480px" data-recalc-dims="1" /></noscript></p>
+<p>Semakin banyak tweet per harinya, semakin tinggi followernya.</p>
+<p>Yang perlu anda perhatikan, jangan tweet terlalu banyak dalam rentang waktu yang singkat. Sebarkan secara merata, beri porsi lebih saat jam optimal.<br />
+</div><br />
+<div class="mix Facebook Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Post 1-2x sehari di Facebook, atau 10x seminggu</h3>
+<p>Berbeda dengan Twitter dan Instagram, di Facebook kita tidak boleh terlalu banyak membuat post baru.</p>
+<p>Facebook punya filter algoritma.</p>
+<p>Tidak semua post yang anda buat akan masuk ke News Feed para follower. Hanya 1-2 per hari yang akan masuk.</p>
+<p>Maka dari itu, lebih baik fokus di 1 post ini.</p>
+<p>Maksimalkan kualitas 1 post daripada membuat banyak post yang tidak berkualitas.</p>
+<p>Lihat frekuensi akun milik brand besar di FB:</p>
+<p><img class="aligncenter size-full wp-image-2107 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Frekuensi-posting-FB.jpg?resize=530%2C214&#038;quality=100&#038;strip=all" alt="Frekuensi posting FB" width="530" height="214" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Frekuensi-posting-FB.jpg?w=530&amp;quality=100&amp;strip=all 530w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Frekuensi-posting-FB.jpg?resize=300%2C121&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 530px) 100vw, 530px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Frekuensi-posting-FB.jpg?resize=530%2C214&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2107" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Frekuensi-posting-FB.jpg?resize=530%2C214&#038;quality=100&#038;strip=all" alt="Frekuensi posting FB" width="530" height="214" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Frekuensi-posting-FB.jpg?w=530&amp;quality=100&amp;strip=all 530w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Frekuensi-posting-FB.jpg?resize=300%2C121&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 530px) 100vw, 530px" data-recalc-dims="1" /></noscript></p>
+<p>Rata-rata 1-2 per hari. Bahkan ada yang hanya 2 hari sekali.<br />
+</div><br />
+<div class="mix Instagram Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Post 1-2x sehari atau lebih di Instagram</h3>
+<p>Sebenarnya anda bisa saja membuat banyak post di Instagram&#8230;</p>
+<p>&#8230;asalkan kontennya bagus.</p>
+<p>Masalahnya, konten di Instagram itu kualitasnya harus tinggi. Kalau tidak, maka follower anda akan segera pergi.</p>
+<p>Berdasarkan <a href="https://blog.bufferapp.com/how-often-post-social-media" target="_blank">Buffer</a>, akun milik brand-brand besar menerbitkan 1-2 post per hari di Instagram. Lebih dari itu, tidak ada efek negatif.<br />
+</div><br />
+<div class="mix Twitter Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Buat tweet sepanjang 71-100 huruf</h3>
+<p>Panjang optimal sebuah tweet adalah 71-100 huruf, tidak termasuk link.</p>
+<p><img class="aligncenter size-full wp-image-2108 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Twitter.png?resize=880%2C259&#038;quality=100&#038;strip=all" alt="Panjang post optimal di Twitter" width="880" height="259" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Twitter.png?w=880&amp;quality=100&amp;strip=all 880w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Twitter.png?resize=300%2C88&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 880px) 100vw, 880px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Twitter.png?resize=880%2C259&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2108" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Twitter.png?resize=880%2C259&#038;quality=100&#038;strip=all" alt="Panjang post optimal di Twitter" width="880" height="259" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Twitter.png?w=880&amp;quality=100&amp;strip=all 880w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Twitter.png?resize=300%2C88&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 880px) 100vw, 880px" data-recalc-dims="1" /></noscript><br />
+</div><br />
+<div class="mix Facebook Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Buat post di Facebook sepanjang 40 huruf</h3>
+<p>Panjang optimal sebuah post di Facebook adalah 40 huruf, tidak termasuk link.</p>
+<p><img class="aligncenter size-full wp-image-2109 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Facebook.png?resize=871%2C242&#038;quality=100&#038;strip=all" alt="Panjang post optimal di Facebook" width="871" height="242" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Facebook.png?w=871&amp;quality=100&amp;strip=all 871w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Facebook.png?resize=300%2C83&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 871px) 100vw, 871px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Facebook.png?resize=871%2C242&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2109" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Facebook.png?resize=871%2C242&#038;quality=100&#038;strip=all" alt="Panjang post optimal di Facebook" width="871" height="242" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Facebook.png?w=871&amp;quality=100&amp;strip=all 871w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Panjang-post-optimal-di-Facebook.png?resize=300%2C83&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 871px) 100vw, 871px" data-recalc-dims="1" /></noscript></p>
+<p>Data di atas berdasarkan Buffer.</p>
+<p>Meskipun begitu secara logika sebetulnya tidak ada panjang post optimal di Facebook, karena tergantung dari apa isinya.</p>
+<p>Kalau isinya memang panjang, maka buatlah panjang.</p>
+<p>Tapi kalau isinya pendek, jangan dibuat panjang.<br />
+</div><br />
+<div class="mix Twitter Relasi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Buat sesi tanya jawab dengan follower</h3>
+<p>Twitter punya fitur rekomendasi akun seperti gambar berikut:</p>
+<p><img class="aligncenter size-full wp-image-2110 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Rekomendasi-akun-Twitter.png?resize=311%2C298&#038;quality=100&#038;strip=all" alt="Rekomendasi akun Twitter" width="311" height="298" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Rekomendasi-akun-Twitter.png?w=311&amp;quality=100&amp;strip=all 311w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Rekomendasi-akun-Twitter.png?resize=300%2C287&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 311px) 100vw, 311px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Rekomendasi-akun-Twitter.png?resize=311%2C298&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2110" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Rekomendasi-akun-Twitter.png?resize=311%2C298&#038;quality=100&#038;strip=all" alt="Rekomendasi akun Twitter" width="311" height="298" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Rekomendasi-akun-Twitter.png?w=311&amp;quality=100&amp;strip=all 311w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Rekomendasi-akun-Twitter.png?resize=300%2C287&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 311px) 100vw, 311px" data-recalc-dims="1" /></noscript></p>
+<p>Cara kerjanya begini&#8230;</p>
+<p>&#8230;apabila follower anda sering berinteraksi dengan sebuah akun di Twitter, maka anda akan mendapatkan rekomendasi untuk mem-follow akun tersebut.</p>
+<p>Jadi:</p>
+<p>Kalau follower anda banyak berinteraksi dengan anda, maka teman-teman mereka akan mendapatkan rekomendasi untuk mem-follow akun anda.</p>
+<p>Maka dari itu, buatlah sesi tanya jawab.</p>
+<p>Dengan demikian para follower akan me-mention anda.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Etika" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Jangan gunakan tool otomatisasi, terutama bagi akun baru</h3>
+<p>Ada tool-tool yang secara otomatis akan menerbitkan post di social media setiap kali ada artikel baru di sebuah website.</p>
+<p>Jangan lakukan ini.</p>
+<p>Sekilas sepertinya menarik. Follower kita jadi punya bahan bacaan.</p>
+<p>Tapi akibatnya akun anda akan jadi seperti spam. Terlalu sering membuat post berupa link, dari website yang itu-itu saja.</p>
+<p>Kalau anda memang ingin membagikan artikel yang menarik, lakukan secara manual. Ubah kata-kata yang digunakan sebagai judul artikel tersebut menjadi buatan anda sendiri.</p>
+<p>Tidak ada orang yang suka mem-follow akun spam.<br />
+</div><br />
+<div class="mix Twitter Facebook Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Jadi sumber bacaan bagi para follower</h3>
+<p>Kita sudah tahu bahwa di Twitter dan Facebook yang mendapatkan engagement tertinggi adalah post berupa link. Orang-orang di social media suka membaca artikel yang menarik.</p>
+<p>Lihat saja akun seperti @terselubung, punya banyak follower:</p>
+<p><img class="aligncenter size-full wp-image-2113 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Followernya-terselubung.png?resize=595%2C305&#038;quality=100&#038;strip=all" alt="Followernya terselubung" width="595" height="305" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Followernya-terselubung.png?w=595&amp;quality=100&amp;strip=all 595w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Followernya-terselubung.png?resize=300%2C154&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 595px) 100vw, 595px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Followernya-terselubung.png?resize=595%2C305&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2113" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Followernya-terselubung.png?resize=595%2C305&#038;quality=100&#038;strip=all" alt="Followernya terselubung" width="595" height="305" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Followernya-terselubung.png?w=595&amp;quality=100&amp;strip=all 595w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Followernya-terselubung.png?resize=300%2C154&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 595px) 100vw, 595px" data-recalc-dims="1" /></noscript></p>
+<p>Begitu pula dengan akun lain dari situs berita seperti Detik misalnya.</p>
+<p>Artinya, salah satu alasan terbesar untuk mem-follow adalah karena orang-orang ingin mendapatkan bacaan yang menarik.</p>
+<p>Maka dari itu, sediakanlah bacaan yang menarik.</p>
+<p>Lakukan ini:</p>
+<ol>
+<li>Cari 5 blog terpopuler dalam bidang yang anda sukai</li>
+<li>Daftar ke <a href="https://feedly.com/" target="_blank">Feedly.com</a></li>
+<li>Masukkan kelima blog tersebut di sana</li>
+<li>Periksa tiap hari untuk mendapatkan konten terbaru</li>
+<li>Post yang paling menarik ke FB atau Twitter</li>
+</ol>
+<p>Lebih bagus lagi kalau anda juga punya website sendiri.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Buat kontes berhadiah</h3>
+<p>Siapa sih yang tidak suka gratisan?</p>
+<p>Kalau anda punya sesuatu yang menarik untuk diberikan secara gratis kepada orang lain, inilah cara tercepat untuk mendapatkan banyak follower sekaligus.</p>
+<p>Ikuti langkah-langkah ini:</p>
+<ol>
+<li>Tentukan hadiah untuk diumumkan</li>
+<li>Tentukan apa yang harus mereka lakukan. Misalnya: mengirim foto dalam tema tertentu, menulis komentar</li>
+<li>Minta mereka untuk memfollow anda dan share atau retweet salah satu post. Buat gambar desain untuk hasil yang lebih bagus</li>
+<li>Pilih pemenangnya</li>
+<li>Berikan hadiahnya</li>
+</ol>
+<p>Hati-hati, jangan melakukan penipuan.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Tiru strategi dari mereka yang sudah populer</h3>
+<p>Apa yang sudah anda baca dari atas sampai poin ini adalah strategi-strategi yang sudah dilakukan oleh para praktisinya sendiri.</p>
+<p>Dengan mengamati apa yang mereka lakukan, kemudian meniru strategi mana yang efektif.</p>
+<p>Seperti itulah mestinya cara belajar yang baik.</p>
+<p>Selain itu, dalam social media marketing (dan strategi marketing lainnya) masing-masing bidang industri tidak sama.</p>
+<p>Dalam bidang A misalnya, strategi X lebih efektif. Tapi dalam bidang B, strategi X justru payah.</p>
+<p>Karena itu, lakukan ini:</p>
+<ol>
+<li>Cari 5-10 orang yang punya banyak follower di bidang yang sama dengan anda</li>
+<li>Follow mereka semua</li>
+<li>Lihat seperti apa post yang mendapatkan paling banyak interaksi</li>
+<li>Tiru dan tingkatkan</li>
+</ol>
+<p></div><br />
+<div class="mix Twitter Etika" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Jangan terlalu banyak ngobrol</h3>
+<p>Tidak ada yang perlu tahu percakapan antara anda dengan follower anda.</p>
+<p>Apabila dilakukan terlalu sering, maka justru konten-konten anda yang bagus akan terdorong ke bawah.</p>
+<p>Twitter punya fitur Direct Message, gunakan ini untuk berbicara langsung dengan seseorang.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Bayar iklan dari akun yang banyak followernya</h3>
+<p>Punya modal ekstra? Keluarkan beberapa untuk mendapatkan follower.</p>
+<p>Temukan akun-akun dalam bidang industri yang sama dengan anda, kemudian tanyakan apakah mereka menerima iklan.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Relasi Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Buat artikel daftar akun social media terpopuler dalam bidang tertentu</h3>
+<p>Sekitar tahun 2010 dulu saya punya sebuah blog dalam Bahasa Indonesia yang tidak terlalu saya perhatikan. Hanya ada beberapa artikel.</p>
+<p>Dari beberapa artikel itu, ada sekitar 5 artikel berisi kumpulan akun Twitter terpopuler.</p>
+<p>Ada yang dalam bidang teknologi, bisnis, dll.</p>
+<p>Meskipun blog tersebut tidak pernah saya perhatikan lagi, tapi artikel-artikel tersebut masih mendapatkan lumayan banyak pengunjung tiap harinya.</p>
+<p>Kalau anda punya blog, buatlah artikel seperti ini.</p>
+<p>Bisa akun Twitter, akun Instagram, atau Facebook Page. Buat jadi beberapa artikel dan pisahkan tiap bidang.</p>
+<p>Kemudian masukkan akun anda sendiri di dalamnya.</p>
+<p>Satu tips lagi, beritahukan mereka yang anda masukkan ke dalam artikel tersebut. Kemungkinan besar artikelnya akan mereka share.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Optimasi<em> call to action</em></h3>
+<p>Mengapa anda ingin mendapatkan banyak follower?</p>
+<p>Untuk meningkatkan penjualan?</p>
+<p>Meningkatkan pengunjung website?</p>
+<p>Kalau iya, maka anda harus mempelajari konsep call to action ini.</p>
+<p>Intinya, untuk setiap post yang mengajak follower untuk bertindak harus jelas apa tindakan yang anda inginkan&#8230;</p>
+<p>&#8230;dan apa manfaat yang mereka dapatkan.</p>
+<p>Misalnya anda ingin mereka membeli produk anda, maka ajak mereka untuk membeli dan beritahu mengapa mereka harus membeli.</p>
+<p>Lalu kalau anda ingin mereka share/retweet/like post anda, ajak mereka dan jelaskan mengapa mereka harus melakukan tindakan itu.</p>
+<p>Sebagai marketer yang baik, kita harus berasumsi bahwa mereka (target pasar kita) sama sekali tidak paham apapun. Jelaskan apa yang mereka dapatkan, jelaskan mengapa mereka harus melakukan itu.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Post yang berisi anjuran/larangan</h3>
+<p>Beberapa bulan yang lalu, di Facebook sempat ada semacam spam yang menyebar luas.</p>
+<p>Banyak orang yang akunnya secara otomatis mem-posting link dengan foto-foto porno. Kalau link ini di-klik, maka orang tersebut juga akan kena.</p>
+<p>Dari situ kemudian saya membuat tips anjuran/larangan supaya yang baca tidak ikut-ikutan kena.</p>
+<p>Ternyata post tersebut banyak di-share.</p>
+<p>Karena memang kenyataannya banyak yang butuh informasi tersebut.</p>
+<p>Inilah post anjuran/larangan.</p>
+<p>Ketika ada kabar/berita/isu hangat di kalangan anda, buatlah post seperti ini. Jumlah share-nya akan jadi lebih banyak daripada biasanya.<br />
+</div><br />
+<div class="mix Twitter Facebook Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Pelajari dan manfaatkan fitur analytics</h3>
+<p>Facebook Page dan Twitter punya fitur ini.</p>
+<p>Sayangnya karena banyak angka dan grafik, banyak orang yang memilih mengabaikan data mereka. Padahal kalau dimanfaatkan dengan benar bisa memperbanyak follower.</p>
+<p>Ini di Facebook, namanya Insights&#8230;</p>
+<p>Kita bisa melihat jam berapa dan hari apa yang optimal untuk menerbitkan post baru:</p>
+<p><img class="aligncenter size-full wp-image-2063 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-Facebook1.png?resize=700%2C363&#038;quality=100&#038;strip=all" alt="Waktu terbaik untuk post Facebook" width="700" height="363" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-Facebook1.png?w=700&amp;quality=100&amp;strip=all 700w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-Facebook1.png?resize=300%2C156&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 700px) 100vw, 700px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-Facebook1.png?resize=700%2C363&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2063" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-Facebook1.png?resize=700%2C363&#038;quality=100&#038;strip=all" alt="Waktu terbaik untuk post Facebook" width="700" height="363" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-Facebook1.png?w=700&amp;quality=100&amp;strip=all 700w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Waktu-terbaik-untuk-post-Facebook1.png?resize=300%2C156&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 700px) 100vw, 700px" data-recalc-dims="1" /></noscript></p>
+<p>Kita juga bisa mengetahui post mana yang mendapatkan paling banyak Reach dan Engagement:</p>
+<p><img class="aligncenter size-full wp-image-2114 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Post-dengan-jangkauan-terbesar-di-Facebook.png?resize=704%2C316&#038;quality=100&#038;strip=all" alt="Post dengan jangkauan terbesar di Facebook" width="704" height="316" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Post-dengan-jangkauan-terbesar-di-Facebook.png?w=704&amp;quality=100&amp;strip=all 704w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Post-dengan-jangkauan-terbesar-di-Facebook.png?resize=300%2C135&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 704px) 100vw, 704px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Post-dengan-jangkauan-terbesar-di-Facebook.png?resize=704%2C316&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2114" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Post-dengan-jangkauan-terbesar-di-Facebook.png?resize=704%2C316&#038;quality=100&#038;strip=all" alt="Post dengan jangkauan terbesar di Facebook" width="704" height="316" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Post-dengan-jangkauan-terbesar-di-Facebook.png?w=704&amp;quality=100&amp;strip=all 704w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Post-dengan-jangkauan-terbesar-di-Facebook.png?resize=300%2C135&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 704px) 100vw, 704px" data-recalc-dims="1" /></noscript></p>
+<p>Dengan mengetahui keduanya, kita bisa merencanakan post-post yang jauh lebih efektif kedepannya nanti.</p>
+<p>Di Twitter pun demikian, kita bisa melihat tweet mana yang paling populer:</p>
+<p><img class="aligncenter size-full wp-image-2115 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Engagement-di-Twitter.png?resize=885%2C585&#038;quality=100&#038;strip=all" alt="Engagement di Twitter" width="885" height="585" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Engagement-di-Twitter.png?w=885&amp;quality=100&amp;strip=all 885w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Engagement-di-Twitter.png?resize=300%2C198&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 885px) 100vw, 885px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Engagement-di-Twitter.png?resize=885%2C585&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2115" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Engagement-di-Twitter.png?resize=885%2C585&#038;quality=100&#038;strip=all" alt="Engagement di Twitter" width="885" height="585" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Engagement-di-Twitter.png?w=885&amp;quality=100&amp;strip=all 885w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Engagement-di-Twitter.png?resize=300%2C198&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 885px) 100vw, 885px" data-recalc-dims="1" /></noscript><br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Pahami tujuan setiap jenis post, optimasi untuk tujuan tersebut</h3>
+<p>Ada beberapa tujuan post di social media:</p>
+<ul>
+<li>Menghibur</li>
+<li>Mendidik</li>
+<li>Menginformasikan</li>
+<li>Menyelesaikan masalah</li>
+<li>Menjawab</li>
+<li>Menjual</li>
+<li>Mendapatkan klik</li>
+</ul>
+<p>1 hal yang perlu anda ingat: SATU post maksimal punya SATU tujuan.</p>
+<p>Jangan campur antara post yang menghibur dan post yang bertujuan untuk mendapatkan penjualan. Akan kacau.</p>
+<p>Jadi ketika anda akan menulis sesuatu, pastikan dulu tujuannya apa. Gunakan bahasa, gambar/video, dan waktu yang tepat untuk tujuan tersebut.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Etika" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Tanyakan pada diri sendiri, &#8220;Apakah saya sudah layak?&#8221;</h3>
+<p>Bayangkan kalau akun yang anda kelola bukan milik anda.</p>
+<p>Apakah akan anda follow?</p>
+<p>Beberapa waktu yang lalu ada seorang pembaca yang bertanya ke saya, kenapa Facebook Page nya masih sepi &#8211; jumlah like-nya sedikit.</p>
+<p>Lalu saya intip halamannya.</p>
+<p>Ternyata isinya&#8230;tidak menarik.</p>
+<p>Hampir semua hanya berisi tentang produk yang dia jual.</p>
+<p>Foto produk, harga produk, diskon, belinya dimana, nomor telepon untuk beli, dan lain-lain.</p>
+<p>Coba anda bertemu dengan page ini&#8230;</p>
+<p>&#8230;apakah anda akan tertarik untuk mem-follow page yang isinya seperti itu?</p>
+<p>Mustahil.</p>
+<p>Kita berkunjung ke Facebook, Twitter, atau Instagram bukan untuk mendapatkan informasi produk.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Relasi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>RT/Like/Share post dari follower yang sering berinteraksi dengan anda</h3>
+<p>Ketika anda sudah punya 200+ follower, akan ada beberapa orang yang secara rutin selalu berkomentar, membagikan, atau memberikan like untuk post anda.</p>
+<p>Jangan abaikan orang-orang ini.</p>
+<p>Merekalah kunci keberhasilan anda.</p>
+<p>Maka dari itu, berikan mereka apresiasi minimal berupa retweet, like, atau share dari anda.</p>
+<p>Dengan demikian mereka akan merasa sedikit lebih senang dan akhirnya lebih aktif merekomendasikan post anda.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Etika" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Jangan menjual apapun sampai target tertentu</h3>
+<p>Kebanyakan jualan itu hal terlarang untuk akun yang ingin jadi populer.</p>
+<p>Serius. Coba anda lihat akun bisnis yang followernya di bawah 1000, kemudian sebagian besar post mereka isinya terkait produk/jasa yang dijualnya.</p>
+<p>Tidak menarik.</p>
+<p>Tentukan target jumlah follower yang lumayan tinggi dulu, misalnya 3000 (tergantung bidang industrinya). Sampai di titik ini, jangan mempromosikan apapun selain hal yang bermanfaat.</p>
+<p>Setelah lewat, baru boleh jualan.</p>
+<p>Itupun tetap harus dibatasi. Minimal perbandingannya 10:1. Setiap 10 kali membuat post baru, hanya 1 di antaranya yang boleh mengandung penjualan.<br />
+</div><br />
+<div class="mix Twitter Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Gunakan click-to-tweet untuk meningkatkan share</h3>
+<p>Coba klik salah satu link ini:</p>
+<ul>
+<li><a href="http://ctt.ec/403Sa" target="_blank">Lagi baca artikel tentang cara meningkatkan follower di social media</a></li>
+<li><a href="http://ctt.ec/do9wM" target="_blank">Ada yang mau tau cara meningkatkan follower? Coba baca di sini</a></li>
+<li><a href="http://ctt.ec/1elEI" target="_blank">Ini nih artikel buat yang pengen jadi seleb Twitter</a></li>
+</ul>
+<p>Menarik kan?</p>
+<p>Yang seperti ini sering saya lakukan di blog PanduanIM, sebagian besar share ke Twitter berasal dari link seperti itu.</p>
+<p>Meskipun ada tombol share juga di blog ini, tapi click to tweet mendapatkan lebih banyak share.</p>
+<p>Cara membuatnya:</p>
+<ol>
+<li>Kunjungi ClicktoTweet</li>
+<li>Tulis pesan yang ingin anda munculkan</li>
+<li>Sertakan URL atau/dan username anda</li>
+<li>Copy link yang diberikan</li>
+<li>Paste ke artikel atau tweet anda</li>
+</ol>
+<p></div><br />
+<div class="mix Twitter Facebook Instagram Etika" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Jangan follow terlalu banyak akun sekaligus</h3>
+<p>Rata-rata setiap kita mem-follow 5 orang, 1 orang akan mem-follow balik. Kemungkinan berhasilnya 20% untuk mendatangkan follower. Sangat tinggi.</p>
+<p>Tapi ini berbahaya kalau dilakukan terlalu sering.</p>
+<p>Apalagi menggunakan tool otomatisasi.</p>
+<p>Tidak jarang ada akun baru di Twitter dan Instagram yang langsung ditutup karena mereka terlalu sering melakukan follow-unfollow.</p>
+<p>Lakukan secara manual, dalam batas wajar&#8230;</p>
+<p>&#8230;atau jangan lakukan sama sekali.<br />
+</div><br />
+<div class="mix Twitter Relasi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Buat list di Twitter, isinya akun-akun populer yang relevan</h3>
+<p>Pengguna Twitter biasanya tidak sadar, tapi ada fitur yang namanya &#8216;list&#8217;.</p>
+<p><img class="aligncenter size-full wp-image-2117 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Twitter-list.png?resize=729%2C290&#038;quality=100&#038;strip=all" alt="Twitter list" width="729" height="290" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Twitter-list.png?w=729&amp;quality=100&amp;strip=all 729w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Twitter-list.png?resize=300%2C119&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 729px) 100vw, 729px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Twitter-list.png?resize=729%2C290&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2117" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Twitter-list.png?resize=729%2C290&#038;quality=100&#038;strip=all" alt="Twitter list" width="729" height="290" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Twitter-list.png?w=729&amp;quality=100&amp;strip=all 729w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Twitter-list.png?resize=300%2C119&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 729px) 100vw, 729px" data-recalc-dims="1" /></noscript></p>
+<p>Di dalam list ini kita bisa memasukkan akun-akun orang lain, kemudian semua tweet-nya akan muncul di halaman ini.</p>
+<p>Semacam pengelompokkan tersendiri buat orang-orang tertentu.</p>
+<p>Tapi bukan itu yang penting.</p>
+<p>Ketika dimasukkan ke list, orang-orang akan mendapatkan notifikasi dari anda. Maka dari itu, kemungkinan besar mereka akan menyadari keberadaan anda.</p>
+<p>Cara ini lumayan berguna kalau anda ingin mendapatkan perhatian orang yang punya lebih banyak follower.<br />
+</div><br />
+<div class="mix Twitter Facebook Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Pastikan meta tag untuk social media sudah terpasang di website anda</h3>
+<p>Ini untuk anda yang punya website.</p>
+<p>Pastikan di website anda sudah terpasang semua meta tag yang tepat untuk masing-masing social media.</p>
+<p>Ini yang saya gunakan di PanduanIM:</p>
+<p><img class="aligncenter size-full wp-image-2118 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Meta-tag-social.png?resize=878%2C228&#038;quality=100&#038;strip=all" alt="Meta tag social" width="878" height="228" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Meta-tag-social.png?w=878&amp;quality=100&amp;strip=all 878w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Meta-tag-social.png?resize=300%2C78&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 878px) 100vw, 878px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Meta-tag-social.png?resize=878%2C228&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2118" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Meta-tag-social.png?resize=878%2C228&#038;quality=100&#038;strip=all" alt="Meta tag social" width="878" height="228" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Meta-tag-social.png?w=878&amp;quality=100&amp;strip=all 878w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Meta-tag-social.png?resize=300%2C78&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 878px) 100vw, 878px" data-recalc-dims="1" /></noscript></p>
+<p>Fungsinya adalah supaya ketika website anda di-share ke social media, data yang muncul seperti judul, gambar, dan deskripsinya benar.</p>
+<p>Selain itu, supaya nama akun anda muncul ketika di-share. Seperti ini:</p>
+<p><img class="aligncenter size-full wp-image-2119 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/nama-akun-social-saat-konten-dishare.png?resize=485%2C380&#038;quality=100&#038;strip=all" alt="nama akun social saat konten dishare" width="485" height="380" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/nama-akun-social-saat-konten-dishare.png?w=485&amp;quality=100&amp;strip=all 485w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/nama-akun-social-saat-konten-dishare.png?resize=300%2C235&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 485px) 100vw, 485px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/nama-akun-social-saat-konten-dishare.png?resize=485%2C380&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2119" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/nama-akun-social-saat-konten-dishare.png?resize=485%2C380&#038;quality=100&#038;strip=all" alt="nama akun social saat konten dishare" width="485" height="380" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/nama-akun-social-saat-konten-dishare.png?w=485&amp;quality=100&amp;strip=all 485w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/nama-akun-social-saat-konten-dishare.png?resize=300%2C235&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 485px) 100vw, 485px" data-recalc-dims="1" /></noscript></p>
+<p>Yang diberi tanda panah adalah link menuju Facebook Page.</p>
+<p>Dengan begitu, setiap kali konten anda di-share maka mereka bisa tahu page anda sehingga anda akan mendapatkan follower.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Buat gambar dengan mudah menggunakan tool ini</h3>
+<p>Gambar adalah jenis post yang paling banyak mendapatkan engagement dari follower.</p>
+<p>Dengan menggunakan gambar, maka jumlah share/like/retweet akan semakin besar dan semakin banyak follower yang akan anda dapatkan.</p>
+<p>Masalahnya, tidak semua orang jago desain gambar.</p>
+<p>Maka dari itu kita gunakan 2 tool gratis ini untuk bisa membuat gambar dalam hitungan detik.</p>
+<p>Pertama, <a href="https://bufferapp.com/pablo" target="_blank">Pablo</a>.</p>
+<p>Tool ini fungsinya sederhana, hanya untuk membuat tulisan di atas gambar. Tapi penggunaannya sangat mudah.</p>
+<p>Ini contoh gambar yang dibuat dengan Pablo:</p>
+<p><img class="aligncenter size-full wp-image-2120 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Membuat-gambar-di-pablo.png?resize=765%2C355&#038;quality=100&#038;strip=all" alt="Membuat gambar di pablo" width="765" height="355" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Membuat-gambar-di-pablo.png?w=765&amp;quality=100&amp;strip=all 765w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Membuat-gambar-di-pablo.png?resize=300%2C139&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 765px) 100vw, 765px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Membuat-gambar-di-pablo.png?resize=765%2C355&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2120" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Membuat-gambar-di-pablo.png?resize=765%2C355&#038;quality=100&#038;strip=all" alt="Membuat gambar di pablo" width="765" height="355" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Membuat-gambar-di-pablo.png?w=765&amp;quality=100&amp;strip=all 765w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Membuat-gambar-di-pablo.png?resize=300%2C139&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 765px) 100vw, 765px" data-recalc-dims="1" /></noscript></p>
+<p>Satu lagi, yang lebih lengkap, <a href="https://www.canva.com/" target="_blank">Canva</a>.</p>
+<p>Dibandingkan dengan Pablo, tool ini lebih lengkap fungsinya karena anda bisa menggunakan icon, mengatur dimensi gambarnya, dan fitur lain.</p>
+<p>Jadi Canva lebih pas untuk membuat gambar yang lebih kompleks.</p>
+<p>Ini contoh hasilnya:</p>
+<p><img class="aligncenter size-full wp-image-2121 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Gambar-di-Canva.png?resize=537%2C551&#038;quality=100&#038;strip=all" alt="Gambar di Canva" width="537" height="551" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Gambar-di-Canva.png?w=537&amp;quality=100&amp;strip=all 537w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Gambar-di-Canva.png?resize=292%2C300&amp;quality=100&amp;strip=all 292w" data-lazy-sizes="(max-width: 537px) 100vw, 537px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Gambar-di-Canva.png?resize=537%2C551&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2121" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Gambar-di-Canva.png?resize=537%2C551&#038;quality=100&#038;strip=all" alt="Gambar di Canva" width="537" height="551" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Gambar-di-Canva.png?w=537&amp;quality=100&amp;strip=all 537w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Gambar-di-Canva.png?resize=292%2C300&amp;quality=100&amp;strip=all 292w" sizes="(max-width: 537px) 100vw, 537px" data-recalc-dims="1" /></noscript></p>
+<p>Keren kan?</p>
+<p>Karena sudah ada template yang siap digunakan, tanpa mengerti desain grafis pun dalam 1 menit bisa membuat seperti ini.</p>
+<p>Oh ya, kalau anda ingin gratis, jangan pilih gambar berbayar di Canva.<br />
+</div><br />
+<div class="mix Twitter Facebook Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Analisa hashtag populer di Twitter, dan Facebook dengan tool ini</h3>
+<p>Kalau kita main-main di Twitter, kadang orang pikir hashtag itu buat hiasan atau lucu-lucuan.</p>
+<p>Padahal tidak.</p>
+<p>Hashtag adalah fitur yang bisa membuat post anda menjangkau jauh lebih banyak orang daripada yang tanpa hashtag.</p>
+<p>Salah satu tool favorit saya untuk tujuan ini adalah <a href="https://ritetag.com/" target="_blank">RiteTag</a>.</p>
+<p>Setelah meng-install extension-nya (untuk Chrome dan Firefox) anda bisa mengetahui seberapa populer hashtag yang akan anda gunakan dalam post di Facebook atau Tweet di Twitter.</p>
+<p>Ada juga fungsi lainnya:</p>
+<ol>
+<li>Menambahkan emoji</li>
+<li>Menambahkan gambar GIF</li>
+<li>Mencari gambar yang cocok</li>
+<li>Mencari akun populer yang relevan</li>
+</ol>
+<p></div><br />
+<div class="mix Twitter Facebook Instagram Etika" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Jadilah manusia, jangan terlalu kaku</h3>
+<p>Ini yang sering membuat saya merasa aneh dengan online marketer Indonesia.</p>
+<p>Coba deh dipikir:</p>
+<p>Enak mana, bicara dengan orang yang gayanya seperti manusia (punya kepribadian) atau orang yang bicaranya kaku seperti robot?</p>
+<p>Pasti yang pertama.</p>
+<p>Tapi yang selalu dilakukan justru yang nomor 2.</p>
+<p>Meskipun mungkin bisnis anda itu butuh formalitas tinggi, atau supaya terkesan profesional, tapi sebetulnya cara bicaranya tidak perlu terlalu kaku.</p>
+<p>Satu lagi penyebabnya mungkin karena waktu jaman sekolah kita diajari menggunakan Bahasa Indonesia yang terlalu kaku. Kalau tidak, nilainya nol.</p>
+<p>Okelah itu kan pelajaran yang dinilai oleh guru, sedangkan ini dunia nyata. Kita berbicara di dunia nyata bukan dengan bahasa yang kaku.</p>
+<p>(Kaku dan baku itu beda, baku belum tentu kaku)<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Etika" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Jangan pernah gunakan tool yang bisa menambah followers/like secara otomatis</h3>
+<p>Kalau sekarang, detik ini anda search di Google dengan kata kunci &#8220;cara menambah followers twitter&#8221; maka akan ada beberapa tool yang mengaku bisa menambah ratusan hingga ribuan follower.</p>
+<p>Jangan digunakan.</p>
+<p>Begini&#8230;</p>
+<p>Tujuan kita melakukan social media marketing bukan untuk sekedar mengejar jumlah follower.</p>
+<p>Kita mencari follower berupa manusia yang benar-benar tertarik.</p>
+<p>Percuma kalau kita punya banyak follower tapi semuanya tidak aktif atau tidak ada yang tertarik dengan konten yang kita buat.</p>
+<p>Selain itu, berbahaya.</p>
+<p>Tool seperti itu pada akhirnya akan membuat akun social media anda mem-follow secara otomatis orang-orang yang tidak dikenal.</p>
+<p>Atau membuat post secara otomatis tanpa sepengetahuan anda.</p>
+<p>Maka dari itu, jangan sentuh tool seperti itu.</p>
+<p>Lakukanlah dengan cara yang benar seperti yang dijelaskan dalam panduan ini.<br />
+</div><br />
+<div class="mix Twitter Facebook Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Gunakan plugin Social Locker</h3>
+<p>Begini cara kerjanya.</p>
+<p>Misalkan anda punya konten di website, konten ini anda kunci supaya tidak bisa dilihat.</p>
+<p>Kemudian, untuk membuka kunci tersebut pengunjung harus melakukan like/share.</p>
+<p><img class="aligncenter size-full wp-image-2124 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/social-locker.png?resize=616%2C620&#038;quality=100&#038;strip=all" alt="social locker" width="616" height="620" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/social-locker.png?w=616&amp;quality=100&amp;strip=all 616w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/social-locker.png?resize=298%2C300&amp;quality=100&amp;strip=all 298w" data-lazy-sizes="(max-width: 616px) 100vw, 616px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/social-locker.png?resize=616%2C620&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2124" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/social-locker.png?resize=616%2C620&#038;quality=100&#038;strip=all" alt="social locker" width="616" height="620" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/social-locker.png?w=616&amp;quality=100&amp;strip=all 616w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/social-locker.png?resize=298%2C300&amp;quality=100&amp;strip=all 298w" sizes="(max-width: 616px) 100vw, 616px" data-recalc-dims="1" /></noscript></p>
+<p>Kalau konten anda memang menarik, maka jumlah share, like, dan follower di Facebook dan Twitter akan meningkat drastis dibandingkan sebelumnya.</p>
+<p>Ini plugin yang bisa anda gunakan:</p>
+<ul>
+<li>WordPress: <a href="https://wordpress.org/plugins/social-locker/" target="_blank">One Press Social Locker</a> (Gratis)</li>
+<li>Lainnya: <a href="http://codecanyon.net/item/social-locker-for-jquery/3408941" target="_blank">Social Locker for jQuery</a> ($18)</li>
+</ul>
+<p></div><br />
+<div class="mix Twitter Facebook Instagram Relasi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Buat post yang menanyakan pendapat mereka</h3>
+<p>Post yang mengajak para follower untuk berkomentar akan mendapatkan 100% lebih banyak komentar.</p>
+<p><img class="aligncenter size-full wp-image-2125 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/bertanya-pendapat-di-social-media.png?resize=652%2C327&#038;quality=100&#038;strip=all" alt="bertanya pendapat di social media" width="652" height="327" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/bertanya-pendapat-di-social-media.png?w=652&amp;quality=100&amp;strip=all 652w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/bertanya-pendapat-di-social-media.png?resize=300%2C150&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 652px) 100vw, 652px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/bertanya-pendapat-di-social-media.png?resize=652%2C327&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2125" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/bertanya-pendapat-di-social-media.png?resize=652%2C327&#038;quality=100&#038;strip=all" alt="bertanya pendapat di social media" width="652" height="327" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/bertanya-pendapat-di-social-media.png?w=652&amp;quality=100&amp;strip=all 652w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/bertanya-pendapat-di-social-media.png?resize=300%2C150&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 652px) 100vw, 652px" data-recalc-dims="1" /></noscript></p>
+<p>Banyak komentar = banyak yang melihat,</p>
+<p>&#8230;sehingga follower akan bertambah.<br />
+</div><br />
+<div class="mix Instagram Strategi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Gunakan tag lokasi untuk post di Instagram</h3>
+<p>Ketika kita mengupload foto di Instagram, maka kita bisa menambahkan lokasi tempat diuploadnya foto tersebut.</p>
+<p>Kalau anda menggunakan tag lokasi ini, maka foto anda akan muncul di daftar foto-foto yang diupload dari lokasi tersebut.</p>
+<p>Dengan begitu, post anda akan lebih mudah ditemukan oleh orang lain.</p>
+<p><img class="aligncenter size-full wp-image-2126 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/lokasi-foto-instagram.png?resize=300%2C533&#038;quality=100&#038;strip=all" alt="lokasi foto instagram" width="300" height="533" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/lokasi-foto-instagram.png?w=300&amp;quality=100&amp;strip=all 300w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/lokasi-foto-instagram.png?resize=169%2C300&amp;quality=100&amp;strip=all 169w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/lokasi-foto-instagram.png?resize=300%2C533&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2126" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/lokasi-foto-instagram.png?resize=300%2C533&#038;quality=100&#038;strip=all" alt="lokasi foto instagram" width="300" height="533" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/lokasi-foto-instagram.png?w=300&amp;quality=100&amp;strip=all 300w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/lokasi-foto-instagram.png?resize=169%2C300&amp;quality=100&amp;strip=all 169w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></noscript><br />
+</div><br />
+<div class="mix Instagram Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Dapatkan endorsement dari seleb Instagram</h3>
+<p>Ini cukup populer di Indonesia. Terutama bagi mereka yang jualan produk.</p>
+<p>Cara kerjanya begini:</p>
+<ol>
+<li>Cari satu (atau lebih) pengguna Instagram yang followernya banyak (bisa artis betulan, bisa juga tidak)</li>
+<li>Lihat apakah mereka menerima endorsement, biasanya ada emailnya</li>
+<li>Hubungi email tersebut</li>
+<li>Kirimkan produk anda, kalau diterima</li>
+<li>Dalam beberapa hari mereka akan mengupload foto produk anda beserta komentar</li>
+</ol>
+<p>Ini salah satu contoh sederhana yang saya temukan:</p>
+<p><img class="aligncenter size-full wp-image-1666 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/06/Endorse-Instagram.jpg?resize=300%2C383&#038;quality=100&#038;strip=all" alt="Endorse Instagram" width="300" height="383" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/06/Endorse-Instagram.jpg?w=300&amp;quality=100&amp;strip=all 300w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/06/Endorse-Instagram.jpg?resize=235%2C300&amp;quality=100&amp;strip=all 235w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/06/Endorse-Instagram.jpg?resize=300%2C383&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-1666" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/06/Endorse-Instagram.jpg?resize=300%2C383&#038;quality=100&#038;strip=all" alt="Endorse Instagram" width="300" height="383" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/06/Endorse-Instagram.jpg?w=300&amp;quality=100&amp;strip=all 300w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/06/Endorse-Instagram.jpg?resize=235%2C300&amp;quality=100&amp;strip=all 235w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></noscript></p>
+<p>Setelah itu, maka anda akan mendapatkan follower atau bahkan pembeli langsung.</p>
+<p>Kalau anda ingin belajar lebih lanjut mengenai endorsement, silahkan <a href="http://www.kaskus.co.id/thread/52f5c693c0cb17925e8b46e7/info-all-about-endorse-artis-untuk-onlineshop-agan-dan-sista/" target="_blank">ikuti thread ini di Kaskus</a>.<br />
+</div><br />
+<div class="mix Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Gunakan foto yang terang, bukan gelap di Instagram</h3>
+<p>Foto yang terang mendapatkan lebih banyak like dan komentar dibandingkan foto yang gelap:</p>
+<p><img class="aligncenter size-full wp-image-2127 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-terang-instagram.png?resize=583%2C381&#038;quality=100&#038;strip=all" alt="Foto terang instagram" width="583" height="381" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-terang-instagram.png?w=583&amp;quality=100&amp;strip=all 583w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-terang-instagram.png?resize=300%2C196&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 583px) 100vw, 583px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-terang-instagram.png?resize=583%2C381&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2127" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-terang-instagram.png?resize=583%2C381&#038;quality=100&#038;strip=all" alt="Foto terang instagram" width="583" height="381" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-terang-instagram.png?w=583&amp;quality=100&amp;strip=all 583w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-terang-instagram.png?resize=300%2C196&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 583px) 100vw, 583px" data-recalc-dims="1" /></noscript><br />
+</div><br />
+<div class="mix Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Gunakan foto dengan 1 warna dominan di Instagram</h3>
+<p>Foto yang menggunakan 1 warna dominan mendapatkan 17% like lebih banyak daripada foto yang berwarna-warni:</p>
+<p><img class="aligncenter size-full wp-image-2128 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/satu-warna-dominan-instagram.jpg?resize=750%2C469&#038;quality=100&#038;strip=all" alt="satu warna dominan instagram" width="750" height="469" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/satu-warna-dominan-instagram.jpg?w=750&amp;quality=100&amp;strip=all 750w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/satu-warna-dominan-instagram.jpg?resize=300%2C188&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 750px) 100vw, 750px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/satu-warna-dominan-instagram.jpg?resize=750%2C469&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2128" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/satu-warna-dominan-instagram.jpg?resize=750%2C469&#038;quality=100&#038;strip=all" alt="satu warna dominan instagram" width="750" height="469" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/satu-warna-dominan-instagram.jpg?w=750&amp;quality=100&amp;strip=all 750w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/satu-warna-dominan-instagram.jpg?resize=300%2C188&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /></noscript></p>
+<p>Masih tentang warna, ternyata warna biru lebih unggul daripada warna kemerahan, jumlah like-nya 24% lebih banyak:</p>
+<p><img class="aligncenter size-full wp-image-2129 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/dominan-warna-biru-instagram.jpg?resize=750%2C457&#038;quality=100&#038;strip=all" alt="dominan warna biru instagram" width="750" height="457" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/dominan-warna-biru-instagram.jpg?w=750&amp;quality=100&amp;strip=all 750w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/dominan-warna-biru-instagram.jpg?resize=300%2C183&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 750px) 100vw, 750px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/dominan-warna-biru-instagram.jpg?resize=750%2C457&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2129" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/dominan-warna-biru-instagram.jpg?resize=750%2C457&#038;quality=100&#038;strip=all" alt="dominan warna biru instagram" width="750" height="457" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/dominan-warna-biru-instagram.jpg?w=750&amp;quality=100&amp;strip=all 750w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/dominan-warna-biru-instagram.jpg?resize=300%2C183&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 750px) 100vw, 750px" data-recalc-dims="1" /></noscript></p>
+<p>Ini tidak selalu berlaku untuk semua jenis foto, karena tergantung apa yang ada di foto tersebut. Tapi cukup menarik juga untuk bahan pertimbangan.<br />
+</div><br />
+<div class="mix Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Pilih foto dengan warna yang tidak mencolok di Instagram</h3>
+<p><img class="aligncenter size-full wp-image-2130 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/saturasi-warna-instagram.png?resize=583%2C381&#038;quality=100&#038;strip=all" alt="saturasi warna instagram" width="583" height="381" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/saturasi-warna-instagram.png?w=583&amp;quality=100&amp;strip=all 583w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/saturasi-warna-instagram.png?resize=300%2C196&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 583px) 100vw, 583px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/saturasi-warna-instagram.png?resize=583%2C381&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2130" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/saturasi-warna-instagram.png?resize=583%2C381&#038;quality=100&#038;strip=all" alt="saturasi warna instagram" width="583" height="381" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/saturasi-warna-instagram.png?w=583&amp;quality=100&amp;strip=all 583w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/saturasi-warna-instagram.png?resize=300%2C196&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 583px) 100vw, 583px" data-recalc-dims="1" /></noscript></p>
+<p>Ternyata foto-foto yang menggunakan warna terlalu mencolok mendapatkan like dan komentar lebih sedikit daripada foto yang warnanya lembut.<br />
+</div><br />
+<div class="mix Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Hindari filter bawaan Instagram, jangan pula terlalu banyak mengedit foto</h3>
+<p><img class="aligncenter size-full wp-image-2131 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/foto-tanpa-filter-instagram.png?resize=586%2C475&#038;quality=100&#038;strip=all" alt="foto tanpa filter instagram" width="586" height="475" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/foto-tanpa-filter-instagram.png?w=586&amp;quality=100&amp;strip=all 586w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/foto-tanpa-filter-instagram.png?resize=300%2C243&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 586px) 100vw, 586px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/foto-tanpa-filter-instagram.png?resize=586%2C475&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2131" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/foto-tanpa-filter-instagram.png?resize=586%2C475&#038;quality=100&#038;strip=all" alt="foto tanpa filter instagram" width="586" height="475" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/foto-tanpa-filter-instagram.png?w=586&amp;quality=100&amp;strip=all 586w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/foto-tanpa-filter-instagram.png?resize=300%2C243&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 586px) 100vw, 586px" data-recalc-dims="1" /></noscript></p>
+<p>Bukan berarti foto anda tidak boleh di-edit, tapi lebih baik gunakan aplikasi yang terpisah dari filter bawaan Instagram.<br />
+</div><br />
+<div class="mix Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Gunakan foto yang kesannya &#8216;ramai&#8217; di Instagram</h3>
+<p><img class="aligncenter size-full wp-image-2132 jetpack-lazy-image" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-yang-ramai-di-instagram.png?resize=562%2C364&#038;quality=100&#038;strip=all" alt="Foto yang ramai di instagram" width="562" height="364" data-recalc-dims="1" data-lazy-srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-yang-ramai-di-instagram.png?w=562&amp;quality=100&amp;strip=all 562w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-yang-ramai-di-instagram.png?resize=300%2C194&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 562px) 100vw, 562px" data-lazy-src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-yang-ramai-di-instagram.png?resize=562%2C364&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2132" src="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-yang-ramai-di-instagram.png?resize=562%2C364&#038;quality=100&#038;strip=all" alt="Foto yang ramai di instagram" width="562" height="364" srcset="https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-yang-ramai-di-instagram.png?w=562&amp;quality=100&amp;strip=all 562w, https://i1.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-yang-ramai-di-instagram.png?resize=300%2C194&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 562px) 100vw, 562px" data-recalc-dims="1" /></noscript></p>
+<p>Foto yang kesannya ramai itu maksud saya bukan ramai karena banyak orang.</p>
+<p>Contohnya seperti ini. Yang kiri kesannya ramai, sedangkan yang kanan sepi:</p>
+<p><img class="aligncenter size-full wp-image-2133 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Ramai-vs-Sepi-instagram.jpg?resize=640%2C451&#038;quality=100&#038;strip=all" alt="Ramai vs Sepi instagram" width="640" height="451" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Ramai-vs-Sepi-instagram.jpg?w=640&amp;quality=100&amp;strip=all 640w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Ramai-vs-Sepi-instagram.jpg?resize=300%2C211&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 640px) 100vw, 640px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Ramai-vs-Sepi-instagram.jpg?resize=640%2C451&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2133" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Ramai-vs-Sepi-instagram.jpg?resize=640%2C451&#038;quality=100&#038;strip=all" alt="Ramai vs Sepi instagram" width="640" height="451" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Ramai-vs-Sepi-instagram.jpg?w=640&amp;quality=100&amp;strip=all 640w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/Ramai-vs-Sepi-instagram.jpg?resize=300%2C211&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></noscript><br />
+</div><br />
+<div class="mix Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Gunakan foto yang menampilkan wajah manusia di Instagram</h3>
+<p>Foto dengan wajah manusia rata-rata mendapatkan 35% lebih banyak like dan komentar:</p>
+<p><img class="aligncenter size-full wp-image-2134 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-dengan-wajah-manusia-di-instagram.png?resize=558%2C297&#038;quality=100&#038;strip=all" alt="Foto dengan wajah manusia di instagram" width="558" height="297" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-dengan-wajah-manusia-di-instagram.png?w=558&amp;quality=100&amp;strip=all 558w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-dengan-wajah-manusia-di-instagram.png?resize=300%2C160&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 558px) 100vw, 558px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-dengan-wajah-manusia-di-instagram.png?resize=558%2C297&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2134" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-dengan-wajah-manusia-di-instagram.png?resize=558%2C297&#038;quality=100&#038;strip=all" alt="Foto dengan wajah manusia di instagram" width="558" height="297" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-dengan-wajah-manusia-di-instagram.png?w=558&amp;quality=100&amp;strip=all 558w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Foto-dengan-wajah-manusia-di-instagram.png?resize=300%2C160&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 558px) 100vw, 558px" data-recalc-dims="1" /></noscript><br />
+</div><br />
+<div class="mix Instagram Konten" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Gunakan aplikasi-aplikasi ini untuk memperindah foto dari smartphone</h3>
+<p>Seperti yang sudah disebutkan sebelumnya, filter bawaan Instagram tidak terlalu efektif untuk meningkatkan jumlah like.</p>
+<p>Karena itu, gunakan aplikasi-aplikasi ini:</p>
+<ul>
+<li>VSCO: app terbaik untuk mengedit foto (<a href="https://itunes.apple.com/en/app/vsco-cam/id588013838?mt=8" target="_blank">iOS</a>/<a href="https://play.google.com/store/apps/details?id=com.vsco.cam&amp;hl=en" target="_blank">Android</a>)</li>
+<li>Over: Menambahkan teks ke gambar (<a href="https://itunes.apple.com/en/app/over/id535811906?mt=8" target="_blank">iOS</a>/<a href="https://play.google.com/store/apps/details?id=com.overllc.over&amp;hl=en" target="_blank">Android</a>)</li>
+<li>Layout: menggabungkan lebih dari 1 gambar (<a href="https://itunes.apple.com/EN/app/layout-from-instagram/id967351793?mt=8" target="_blank">iOS</a>/<a href="https://play.google.com/store/apps/details?id=com.instagram.layout&amp;hl=en" target="_blank">Android</a>)</li>
+</ul>
+<p>Masih ada banyak aplikasi yang berhubungan dengan editing foto, tapi kalau anda tidak ingin pusing silahkan gunakan 3 di atas.<br />
+</div><br />
+<div class="mix Instagram Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Gunakan hashtag di Instagram, tapi hati-hati</h3>
+<p>Hashtag di Instagram terbukti akan meningkatkan jumlah like dan komentar. Bahkan, semakin banyak hashtag semakin tinggi jumlah like dan komentarnya:</p>
+<p><img class="aligncenter size-full wp-image-2136 jetpack-lazy-image" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Hashtag-di-instagram.png?resize=569%2C292&#038;quality=100&#038;strip=all" alt="Hashtag di instagram" width="569" height="292" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Hashtag-di-instagram.png?w=569&amp;quality=100&amp;strip=all 569w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Hashtag-di-instagram.png?resize=300%2C154&amp;quality=100&amp;strip=all 300w" data-lazy-sizes="(max-width: 569px) 100vw, 569px" data-lazy-src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Hashtag-di-instagram.png?resize=569%2C292&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2136" src="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Hashtag-di-instagram.png?resize=569%2C292&#038;quality=100&#038;strip=all" alt="Hashtag di instagram" width="569" height="292" srcset="https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Hashtag-di-instagram.png?w=569&amp;quality=100&amp;strip=all 569w, https://i0.wp.com/panduanim.com/wp-content/uploads/2015/10/Hashtag-di-instagram.png?resize=300%2C154&amp;quality=100&amp;strip=all 300w" sizes="(max-width: 569px) 100vw, 569px" data-recalc-dims="1" /></noscript></p>
+<p>Tapi anda harus berhati-hati, jangan pernah gunakan hashtag yang tidak ada hubungannya.</p>
+<p>Apalagi yang seperti #like4like dan sejenisnya.</p>
+<p>Justru akan merusak reputasi anda sendiri.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Relasi Visibilitas" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Perkenalkan hashtag buatan anda sendiri</h3>
+<p>Coba lihat studi kasus yang satu ini.</p>
+<p>Birchbox, sebuah perusahaan yang menjual produk-produk kecantikan dalam satu paket yang dikirimkan secara bersamaan pada tanggal tertentu tiap bulannya.</p>
+<p>Nah, jadi tiap bulannya setiap kali produk dari Birchbox diterima oleh konsumen, mereka akan mengupload foto di social media dengan hashtag #birchbox.</p>
+<p>Lihat grafiknya:</p>
+<p><img class="aligncenter size-full wp-image-2135 jetpack-lazy-image" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/hashtag-birchbox.png?resize=1500%2C417&#038;quality=100&#038;strip=all" alt="hashtag birchbox" width="1500" height="417" data-recalc-dims="1" data-lazy-srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/hashtag-birchbox.png?w=1500&amp;quality=100&amp;strip=all 1500w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/hashtag-birchbox.png?resize=300%2C83&amp;quality=100&amp;strip=all 300w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/hashtag-birchbox.png?resize=1200%2C334&amp;quality=100&amp;strip=all 1200w" data-lazy-sizes="(max-width: 1000px) 100vw, 1000px" data-lazy-src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/hashtag-birchbox.png?resize=1500%2C417&amp;is-pending-load=1#038;quality=100&#038;strip=all" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="aligncenter size-full wp-image-2135" src="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/hashtag-birchbox.png?resize=1500%2C417&#038;quality=100&#038;strip=all" alt="hashtag birchbox" width="1500" height="417" srcset="https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/hashtag-birchbox.png?w=1500&amp;quality=100&amp;strip=all 1500w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/hashtag-birchbox.png?resize=300%2C83&amp;quality=100&amp;strip=all 300w, https://i2.wp.com/panduanim.com/wp-content/uploads/2015/10/hashtag-birchbox.png?resize=1200%2C334&amp;quality=100&amp;strip=all 1200w" sizes="(max-width: 1000px) 100vw, 1000px" data-recalc-dims="1" /></noscript></p>
+<p>Setiap tanggal tertentu ada lonjakan mention untuk hashtag tersebut.</p>
+<p>Inilah mengapa anda sebaiknya memperkenalkan hashtag buatan anda sendiri kepada para follower.<br />
+</div><br />
+<div class="mix Twitter Facebook Instagram Relasi" ></p>
+<div class="straight-dashed-line"></div>
+<h3>Post ulang foto-foto yang di-post oleh follower anda</h3>
+<p>Ini berlaku di semua social media, termasuk Facebook, Twitter, dan Instagram.</p>
+<p>65% dari orang yang aktif di social media menyatakan bahwa mereka merasa bangga apabila brand yang mereka follow me-mention nama mereka.</p>
+<p>Karena itu, buatlah mereka bangga.</p>
+<p>Setiap kali ada yang menerbitkan post berisi foto tentang anda atau bisnis anda, post ulang di akun anda sendiri dan sertakan tag/mention ke akun mereka.</p>
+<p>Dengan demikian, akan muncul orang-orang lain yang juga akan ikut mengupload foto-foto yang berisi produk anda.<br />
+</div><br />
+</div>
+<p><a class="comment-reply-link" href="#filter-buttons">↑ Kembali ke filter</a></p>
+<div class="one-half first"><a class="kotak-daftar-isi" href="http://panduanim.com/social-media-marketing/">1. Menyusun Strategi</a><a class="kotak-daftar-isi" href="http://panduanim.com/kesalahan-social-media-marketing/">2. Kesalahan Umum</a></div>
+<div class="one-half"><a class="kotak-daftar-isi" href="http://panduanim.com/menambah-followers/">3. Meningkatkan Follower</a><a class="kotak-daftar-isi" href="http://panduanim.com/facebook-marketing/">4. Facebook Marketing</a></div>
+<div class="clear-line"></div>
+<span id="tve_leads_end_content" style="display: block; visibility: hidden; border: 1px solid transparent;"></span></div><footer class="entry-footer"></footer></article><div class="entry-comments" id="comments"><h3>Komentar Pembaca</h3> <a class="tanya-komentar" href="#reply-title">Ingin berkomentar?</a><ol class="comment-list">
+	<li class="comment even thread-even depth-1" id="comment-5802">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+
 		
-	<i class="icon_search icon-search-fine"></i>
-	<a href="#" class="icon_close"><i class="icon-cancel-fine"></i></a>
-	
-	<input type="text" class="field" name="s" id="s" placeholder="Enter your search" />			
-	<input type="submit" class="submit" value="" style="display:none;" />
-	
-</form>					
-				</div>				
-				
-			</div>
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://2.gravatar.com/avatar/e6ba2e98ed25e0954364557022e3051a?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://2.gravatar.com/avatar/e6ba2e98ed25e0954364557022e3051a?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://2.gravatar.com/avatar/e6ba2e98ed25e0954364557022e3051a?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://2.gravatar.com/avatar/e6ba2e98ed25e0954364557022e3051a?s=48&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/e6ba2e98ed25e0954364557022e3051a?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://danuadji.com" class="comment-author-link" rel="external nofollow" itemprop="url">danu adji</a></span> 			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2015-10-22T19:46:20+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-5802" class="comment-time-link" itemprop="url">22 Oktober 2015 at 7:46 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
 			
-						
+			<p>Walaupun artikelnya belum sepenuhnya jadi, tapi saya sudah mendapatkan poin poin yang saya inginkan, Apalagi saya dapet tambahan tool hastag dan pengedit foto gratis. makasih mas. Di tunggu kelengkapannya mas. mau ku share ke tim hehehe</p>
 		</div>
-	</div>
-</div>	
-							</header>
-				
-			<div id="Subheader" style="padding:170px 0;"><div class="container"><div class="column one"><h1 class="title">Strategi Meningkatkan Penjualan Melalui Media Sosial</h1><ul class="breadcrumbs no-link"><li><a href="http://www.digitalmarketer.co.id">Home</a> <span><i class="icon-right-open"></i></span></li><li><a href="http://www.digitalmarketer.co.id/blog/">Blog</a> <span><i class="icon-right-open"></i></span></li><li><a href="http://www.digitalmarketer.co.id/category/semua/">Semua</a> <span><i class="icon-right-open"></i></span></li><li><a href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/">Strategi Meningkatkan Penjualan Melalui Media Sosial</a></li></ul></div></div></div>		
-		</div>
-		
-				
-		<!-- mfn_hook_content_before --><!-- mfn_hook_content_before -->
-<!-- #Content -->
-<div id="Content">
-	<div class="content_wrapper clearfix">
 
-		<!-- .sections_group -->
-		<div class="sections_group">
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-5802' onclick='return addComment.moveForm( "comment-5802", "5802", "respond", "2097" )' aria-label='Balasan untuk danu adji'>Balas</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment odd alt depth-2" id="comment-21031">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://0.gravatar.com/avatar/9d2864d34567a2fe0173934ae8c3f79a?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://0.gravatar.com/avatar/9d2864d34567a2fe0173934ae8c3f79a?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://0.gravatar.com/avatar/9d2864d34567a2fe0173934ae8c3f79a?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://0.gravatar.com/avatar/9d2864d34567a2fe0173934ae8c3f79a?s=48&#038;d=identicon&#038;r=g' srcset='http://0.gravatar.com/avatar/9d2864d34567a2fe0173934ae8c3f79a?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name">opunk</span> 			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2016-02-28T02:00:05+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-21031" class="comment-time-link" itemprop="url">28 Februari 2016 at 2:00 am</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
 			
-<div id="post-2103" class="no-title post-2103 post type-post status-publish format-standard has-post-thumbnail hentry category-semua category-sosial-media tag-bisnis-online tag-sosial-media">
-
-	<a class="fixed-nav fixed-nav-prev format- style-default" href="http://www.digitalmarketer.co.id/sukses-menjalankan-bisnis-melalui-online/"><span class="arrow"><i class="icon-left-open-big"></i></span><div class="photo"><img width="80" height="80" src="http://www.digitalmarketer.co.id/wp-content/uploads/2017/06/bisnis-online-digitalmarketer-80x80.jpg" class="attachment-blog-navi size-blog-navi wp-post-image" alt="Training Digital marketing" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2017/06/bisnis-online-digitalmarketer-80x80.jpg 80w, http://www.digitalmarketer.co.id/wp-content/uploads/2017/06/bisnis-online-digitalmarketer-150x150.jpg 150w, http://www.digitalmarketer.co.id/wp-content/uploads/2017/06/bisnis-online-digitalmarketer-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /></div><div class="desc"><h6>Sukses Menjalankan Bisnis Melalui Online</h6><span class="date"><i class="icon-clock"></i>January 3, 2018</span></div></a><a class="fixed-nav fixed-nav-next format- style-default" href="http://www.digitalmarketer.co.id/cara-jualan-online-di-facebook-yang-pasti-laris/"><span class="arrow"><i class="icon-right-open-big"></i></span><div class="photo"><img width="80" height="80" src="http://www.digitalmarketer.co.id/wp-content/uploads/2018/04/Cara-Jualan-Online-di-Facebook-yang-Pasti-Laris-80x80.jpg" class="attachment-blog-navi size-blog-navi wp-post-image" alt="Cara Jualan Online di Facebook yang Pasti Laris" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2018/04/Cara-Jualan-Online-di-Facebook-yang-Pasti-Laris-80x80.jpg 80w, http://www.digitalmarketer.co.id/wp-content/uploads/2018/04/Cara-Jualan-Online-di-Facebook-yang-Pasti-Laris-150x150.jpg 150w, http://www.digitalmarketer.co.id/wp-content/uploads/2018/04/Cara-Jualan-Online-di-Facebook-yang-Pasti-Laris-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /></div><div class="desc"><h6>Cara Jualan Online di Facebook yang Pasti Laris</h6><span class="date"><i class="icon-clock"></i>April 13, 2018</span></div></a>
-	
-		<div class="section section-post-header">
-			<div class="section_wrapper clearfix">
-								
-				<div class="column one post-nav "><ul class="next-prev-nav"><li class="prev"><a class="button button_js" href="http://www.digitalmarketer.co.id/sukses-menjalankan-bisnis-melalui-online/"><span class="button_icon"><i class="icon-left-open"></i></span></a></li><li class="next"><a class="button button_js" href="http://www.digitalmarketer.co.id/cara-jualan-online-di-facebook-yang-pasti-laris/"><span class="button_icon"><i class="icon-right-open"></i></span></a></li></ul><a class="list-nav" href="http://www.digitalmarketer.co.id/blog/"><i class="icon-layout"></i>Show all</a></div>
-				<div class="column one post-header">
-				
-					<div class="button-love"><a href="#" class="mfn-love " data-id="2103"><span class="icons-wrapper"><i class="icon-heart-empty-fa"></i><i class="icon-heart-fa"></i></span><span class="label">6</span></a></div>
-					
-					<div class="title_wrapper">
-					
-												
-												
-													<div class="post-meta clearfix">
-							
-								<div class="author-date">
-								
-									<span class="vcard author post-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
-										<span class="label">Published by</span>
-										<i class="icon-user"></i>
-										<span class="fn" itemprop="name"><a href="http://www.digitalmarketer.co.id/author/admindm/">Admin Digital Marketer</a></span>
-									</span> 
-									
-									<span class="date">
-										<span class="label">at</span>
-										<i class="icon-clock"></i>
-										<time class="entry-date updated" datetime="2018-02-05T11:51:18+00:00" itemprop="datePublished" >February 5, 2018</time>
-										<meta itemprop="dateModified" content="2018-02-05T11:51:18+00:00"/>
-									</span>	
-									
-																		
-										<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage"/>
-										
-										<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization" style="display:none;">
-				    						<meta itemprop="name" content="Digital Marketer"/>
-				    						
-											<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-												<img src="http://www.digitalmarketer.co.id/wp-content/uploads/2017/05/logo-putih.png" itemprop="url" content="http://www.digitalmarketer.co.id/wp-content/uploads/2017/05/logo-putih.png"/>
-											</div>
-											
-				  						</div>
-				  						
-				  														
-								</div>
-								
-								<div class="category meta-categories">
-									<span class="cat-btn">Categories <i class="icon-down-dir"></i></span>
-									<div class="cat-wrapper"><ul class="post-categories">
-	<li><a href="http://www.digitalmarketer.co.id/category/semua/" rel="category tag">Semua</a></li>
-	<li><a href="http://www.digitalmarketer.co.id/category/semua/sosial-media/" rel="category tag">Sosial Media</a></li></ul></div>
-								</div>
-								
-								<div class="category mata-tags">
-									<span class="cat-btn">Tags <i class="icon-down-dir"></i></span>
-									<div class="cat-wrapper">
-										<ul>
-											<li><a href="http://www.digitalmarketer.co.id/tag/bisnis-online/">Bisnis Online</a></li><li><a href="http://www.digitalmarketer.co.id/tag/sosial-media/">sosial media</a></li>										</ul>
-									</div>
-								</div>
-	
-							</div>
-												
-					</div>
-					
-				</div>
-				
-				<div class="column one single-photo-wrapper image">
-					
-											<div class="share_wrapper">
-							<span class='st_facebook_vcount' displayText='Facebook'></span>
-							<span class='st_twitter_vcount' displayText='Tweet'></span>
-							<span class='st_pinterest_vcount' displayText='Pinterest'></span>						
-							
-							<script src="http://w.sharethis.com/button/buttons.js"></script>
-							<script>stLight.options({publisher: "1390eb48-c3c3-409a-903a-ca202d50de91", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
-						</div>
-										
-											<div class="image_frame scale-with-grid disabled">
-						
-							<div class="image_wrapper">
-								<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject"><img width="797" height="480" src="http://www.digitalmarketer.co.id/wp-content/uploads/2018/02/Strategi-Meningkatkan-Penjualan-Melalui-Media-Sosial-797x480.jpg" class="scale-with-grid wp-post-image" alt="Strategi Meningkatkan Penjualan Melalui Media Sosial" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2018/02/Strategi-Meningkatkan-Penjualan-Melalui-Media-Sosial.jpg 797w, http://www.digitalmarketer.co.id/wp-content/uploads/2018/02/Strategi-Meningkatkan-Penjualan-Melalui-Media-Sosial-300x181.jpg 300w, http://www.digitalmarketer.co.id/wp-content/uploads/2018/02/Strategi-Meningkatkan-Penjualan-Melalui-Media-Sosial-768x463.jpg 768w, http://www.digitalmarketer.co.id/wp-content/uploads/2018/02/Strategi-Meningkatkan-Penjualan-Melalui-Media-Sosial-242x146.jpg 242w, http://www.digitalmarketer.co.id/wp-content/uploads/2018/02/Strategi-Meningkatkan-Penjualan-Melalui-Media-Sosial-50x30.jpg 50w, http://www.digitalmarketer.co.id/wp-content/uploads/2018/02/Strategi-Meningkatkan-Penjualan-Melalui-Media-Sosial-125x75.jpg 125w" sizes="(max-width: 797px) 100vw, 797px" /><meta itemprop="url" content="http://www.digitalmarketer.co.id/wp-content/uploads/2018/02/Strategi-Meningkatkan-Penjualan-Melalui-Media-Sosial.jpg"/><meta itemprop="width" content="797"/><meta itemprop="height" content="480"/></div>							</div>
-							
-							
-						</div>
-										
-				</div>
-				
-			</div>
+			<p>tulisan yg keren dan bermanfaat sekali. sebagai yg awam medsos sy belajar banyak&#8230;smoga tetap mau berbagi. mksh</p>
 		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-21031' onclick='return addComment.moveForm( "comment-21031", "21031", "respond", "2097" )' aria-label='Balasan untuk opunk'>Balas</a></div>
 		
-	
-	<div class="post-wrapper-content">
-
-		<div class="section the_content has_content"><div class="section_wrapper"><div class="the_content_wrapper"><p>Social Media sudah menjadi media untuk promosi atau memperkenalkan produk bisnis. Perannya dalam bisnis makin menunjukkan performa mengagumkan, banyak perusahaan sudah mengalihkan biaya promosi khusus untuk meningkatkan produktifitas dan efektifitas di media sosial.</p>
-<p>Namun, meningkatkan penjualan di media sosial sulit, butuh strategi yang tepat dan sedikit kesabaran dalam membangun pasar.</p>
-<p>Berikut beberapa strategi yang dapat meningkatkan penjualan di media sosial :</p>
-<p>&nbsp;</p>
-<h4>1. Target pasar dan jenis media sosial</h4>
-<p>Tidak semua brand memiliki target pasar yang sama. Ada yang bersifat B2C (business to consumer) yang berarti produk tersebut digunakan oleh orang banyak yang menjadi konsumen akhir, ada juga yang B2B (Business to Business) yang berarti konsumen produk tersebut adalah perusahaan lain.</p>
-<p>&nbsp;</p>
-<p><strong>Jenis social media pun perlu diperhatikan, tiap social media punya karakternya masing-masing. </strong></p>
-<p><strong>Twitter</strong> memiliki karakter young karena memang sebagian besar penggunanya adalah usia muda, dan digunakan untuk informasi saja. Sedangkan facebook di Indonesia memiliki karakter pengguna yang lebih tua usianya dan bervariatif dari pada twitter. Banyak orang tua yang baru memiliki dan aktif menggunakan facebook.</p>
-<p><strong>linkedIn</strong> memiliki karaker pengguna yang professional, pekerja, dan berbasis profesi.</p>
-<p><strong>Instagram</strong> memiliki karakter mirip twitter.</p>
-<p>Sedangkan <strong>youtube</strong> memiliki pengguna yang lebih luas dan umum, namun harus memiliki kemampuan dalam pembuatan video. Bila tampilan video biasa saja, bahkan tidak menarik, maka jangkauan target pasar tidak akan terpenuhi</p>
-<p>Secara umum, analisis target pasar menjadi kunci awal keberhasilan di media sosial. Jadi, harus diperhatikan juga manakah yang lebih cocok dengan target pasar produk yang akan dipasarkan.</p>
-<p>Berapa usia rata-rata target pasar? Apa profesinya? Bagaimana Perilakunya? Nanti bisa menilai jenis media sosial apa yang pas.</p>
-<p>&nbsp;</p>
-<h4>2. Focus pada target</h4>
-<p>Milikilah target yang baik. Target yang dimaksud tidak hanya target penjualan, tapi juga target promosi. Apa saja yang ingin dicapai? Followers kah? Likers kah? Interaksi kah? atau penjualan?.</p>
-<p>Bila target langsung ke penjualan, maka seluruh parameter tadi harus tercapai semua dengan baik, sehingga, effort pun lebih tinggi dibandingkan target dan tidak hanya followers atau likers yang banyak terlebih dahulu</p>
-<p>&nbsp;</p>
-<h4>3. Creative, Different, Give an Advantage!</h4>
-<p>Semakin tinggi persaingan di dunia offline mempengaruhi meningkatkan tensi persaingan di social media juga. Maka dari itu, buatlah program promo yang kreatif, beda, dan memberi value bagi konsumen. Quiz, contest, dan gerakan-gerakan campaign marketing bisa menjadi pilihan yang pas untuk dijadikan variasi.</p>
-<p>&nbsp;</p>
-<h4>4. Bangun Komunitas</h4>
-<p>Bila sudah bisa membangun interaksi aktif dengan berbagai strategi promo, maka tujuan selanjutnya adalah mengikat seluruh konsumen kita lewat komunitas. Komunitas ini tidak harus 100% membawa nama brand, tetapi bisa digeser sedikit menjadi lebih umum namun tetap memiliki afiliasi kuat terhadap brand kita.</p>
-<p>&nbsp;</p>
-<h4>5. Evaluasi Strategi</h4>
-<p>Evaluasi mutlak harus dilakukan. Evaluasi apakah seluruh strategi kita di media sosial bisa mendatangkan konsumen, apakah bisa memancing interaksi aktif, apakah bisa mendatangkan penjualan?<br />
-Evaluasi lagi seluruh kekurangan-kekurangan untuk diperbaiki di waktu lain.</p>
-<p>Media sosial menjadi tantangan tersendiri bagi sebuah brand untuk membangun konsumennya, mudah-mudahan beberapa strategi di atas bisa menjadi masukan berarti bagi kita semua.</p>
-</div></div></div>
-		<div class="section section-post-footer">
-			<div class="section_wrapper clearfix">
-			
-				<div class="column one post-pager">
-									</div>
-				
-			</div>
-		</div>
-		
-				
-		<div class="section section-post-about">
-			<div class="section_wrapper clearfix">
-			
-								<div class="column one author-box">
-					<div class="author-box-wrapper">
-						<div class="avatar-wrapper">
-							<img alt='Admin Digital Marketer' src='http://0.gravatar.com/avatar/f2b01a6006e049c39b540a8bbeec8ad5?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f2b01a6006e049c39b540a8bbeec8ad5?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' />						</div>
-						<div class="desc-wrapper">
-							<h5><a href="http://www.digitalmarketer.co.id/author/admindm/">Admin Digital Marketer</a></h5>
-							<div class="desc">Digital Marketer merupakan perusahaan digital marketing agency yang mengerti kebutuhan bisnis anda di bidang internet marketing. Tim kami didukung oleh para praktisi digital marketing berpengelaman dan telah bersertifikasi google.</div>
-						</div>
-					</div>
-				</div>
-							</div>	
-		</div>
-		
-	</div>
-			
-	<div class="section section-post-related">
-		<div class="section_wrapper clearfix">
-
-			<div class="section-related-adjustment simple"><h4>Related posts</h4><div class="section-related-ul col-3"><div class="column post-related post-38484 post type-post status-publish format-standard has-post-thumbnail hentry category-semua"><div class="single-photo-wrapper image"><div class="image_frame scale-with-grid"><div class="image_wrapper"><a href="http://www.digitalmarketer.co.id/mengenal-cryptocurrency-yang-diprediksi-jadi-alat-pembayaran-di-masa-depan/"><div class="mask"></div><img width="612" height="408" src="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency.jpg" class="scale-with-grid wp-post-image" alt="Mengenal Cryptocurrency yang Diprediksi Jadi Alat Pembayaran di Masa Depan" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency.jpg 612w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-300x200.jpg 300w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-219x146.jpg 219w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-50x33.jpg 50w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-113x75.jpg 113w" sizes="(max-width: 612px) 100vw, 612px" /></a><div class="image_links double"><a href="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency.jpg" class="zoom" rel="prettyphoto"><i class="icon-search"></i></a><a href="http://www.digitalmarketer.co.id/mengenal-cryptocurrency-yang-diprediksi-jadi-alat-pembayaran-di-masa-depan/" class="link"><i class="icon-link"></i></a></div></div></div></div><div class="date_label">May 5, 2021</div><div class="desc"><h4><a href="http://www.digitalmarketer.co.id/mengenal-cryptocurrency-yang-diprediksi-jadi-alat-pembayaran-di-masa-depan/">Mengenal  Cryptocurrency yang Diprediksi Jadi Alat Pembayaran di Masa Depan</a></h4><hr class="hr_color" /><a href="http://www.digitalmarketer.co.id/mengenal-cryptocurrency-yang-diprediksi-jadi-alat-pembayaran-di-masa-depan/" class="button button_left button_js"><span class="button_icon"><i class="icon-layout"></i></span><span class="button_label">Read more</span></a></div></div><div class="column post-related post-38480 post type-post status-publish format-standard has-post-thumbnail hentry category-semua"><div class="single-photo-wrapper image"><div class="image_frame scale-with-grid"><div class="image_wrapper"><a href="http://www.digitalmarketer.co.id/affiliate-marketing-dan-manfaatnya/"><div class="mask"></div><img width="512" height="280" src="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya.jpg" class="scale-with-grid wp-post-image" alt="Mengenal Apa itu Affiliate Marketing dan Manfaatnya" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya.jpg 512w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-300x164.jpg 300w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-260x142.jpg 260w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-50x27.jpg 50w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-137x75.jpg 137w" sizes="(max-width: 512px) 100vw, 512px" /></a><div class="image_links double"><a href="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya.jpg" class="zoom" rel="prettyphoto"><i class="icon-search"></i></a><a href="http://www.digitalmarketer.co.id/affiliate-marketing-dan-manfaatnya/" class="link"><i class="icon-link"></i></a></div></div></div></div><div class="date_label">May 5, 2021</div><div class="desc"><h4><a href="http://www.digitalmarketer.co.id/affiliate-marketing-dan-manfaatnya/">Mengenal Apa itu Affiliate Marketing dan Manfaatnya</a></h4><hr class="hr_color" /><a href="http://www.digitalmarketer.co.id/affiliate-marketing-dan-manfaatnya/" class="button button_left button_js"><span class="button_icon"><i class="icon-layout"></i></span><span class="button_label">Read more</span></a></div></div><div class="column post-related post-38456 post type-post status-publish format-standard has-post-thumbnail hentry category-semua"><div class="single-photo-wrapper image"><div class="image_frame scale-with-grid"><div class="image_wrapper"><a href="http://www.digitalmarketer.co.id/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang/"><div class="mask"></div><img width="960" height="750" src="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang-960x750.jpg" class="scale-with-grid wp-post-image" alt="7 Kesalahan Bisnis Affiliate Marketing yang Bikin Cuan Melayang" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang-960x750.jpg 960w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang-1280x1000.jpg 1280w" sizes="(max-width: 960px) 100vw, 960px" /></a><div class="image_links double"><a href="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang-1024x683.jpg" class="zoom" rel="prettyphoto"><i class="icon-search"></i></a><a href="http://www.digitalmarketer.co.id/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang/" class="link"><i class="icon-link"></i></a></div></div></div></div><div class="date_label">May 3, 2021</div><div class="desc"><h4><a href="http://www.digitalmarketer.co.id/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang/">7 Kesalahan Bisnis Affiliate Marketing yang Bikin Cuan Melayang</a></h4><hr class="hr_color" /><a href="http://www.digitalmarketer.co.id/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang/" class="button button_left button_js"><span class="button_icon"><i class="icon-layout"></i></span><span class="button_label">Read more</span></a></div></div></div></div>			
-		</div>
-	</div>
-	
-			<div class="section section-post-comments">
-			<div class="section_wrapper clearfix">
-			
-				<div class="column one comments">
-							
-<div id="comments">
-	
-			<h4 id="comments-title">
-			9 Comments		</h4>
-
-		<ol class="commentlist">
-					<li class="comment even thread-even depth-1 parent" id="comment-51">
-				<div id="div-comment-51" class="comment-body">
-				<div class="comment-author vcard">
-			<img alt='' src='http://1.gravatar.com/avatar/4f0db2ddf7f5169092aefe782fe8f255?s=64&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/4f0db2ddf7f5169092aefe782fe8f255?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' />			<cite class="fn">Shivan</cite> <span class="says">says:</span>		</div>
-		
-		<div class="comment-meta commentmetadata"><a href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/#comment-51">
-			December 18, 2018 at 5:21 am</a>		</div>
-
-		<p>Halo,</p>
-<p>Saya sedang berencana untuk membuat Digital marketing campaign untuk produk kemasan plastik F&amp;B yang ramah lingkungan.  Kami adalah Startup yang baru tetapi sudah memiliki client List yang ternama. Dan saat ini ingin promosikan produk kami ke semua resto, catering, cafe, hotel di Jabodetabek, Bandung, Surabaya dan Bali.</p>
-<p>Kami ingin tau lebih lagi megenai pengalaman anda mempromosikan produk yang sifatnya B2B khususnya untuk startup kecil seperti kami. Mungkin bisa di share ke kami 3 client paling dibanggakan yang  dilayani oleh Digitalmarketer yang capai target penjualan. Agar kami juga bisa lihat hasil postingannya dll.</p>
-<p>Cheers,<br />
-Shivan</p>
-
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/?replytocom=51#respond' onclick='return addComment.moveForm( "div-comment-51", "51", "respond", "2103" )' aria-label='Reply to Shivan'>Reply</a></div>
-				</div>
-		<ul class="children">
-		<li class="comment byuser comment-author-admindm bypostauthor odd alt depth-2" id="comment-52">
-				<div id="div-comment-52" class="comment-body">
-				<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/f2b01a6006e049c39b540a8bbeec8ad5?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f2b01a6006e049c39b540a8bbeec8ad5?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' />			<cite class="fn">admin digital marketer</cite> <span class="says">says:</span>		</div>
-		
-		<div class="comment-meta commentmetadata"><a href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/#comment-52">
-			December 19, 2018 at 11:18 pm</a>		</div>
-
-		<p>Halo shivan, akan segera kami kirim lewat email kamu ya.</p>
-
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/?replytocom=52#respond' onclick='return addComment.moveForm( "div-comment-52", "52", "respond", "2103" )' aria-label='Reply to admin digital marketer'>Reply</a></div>
-				</div>
-		</li><!-- #comment-## -->
+	</article>
+	</li><!-- #comment-## -->
 </ul><!-- .children -->
 </li><!-- #comment-## -->
-		<li class="comment even thread-odd thread-alt depth-1" id="comment-60">
-				<div id="div-comment-60" class="comment-body">
-				<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/25ca5ccb69b72d04b07f91ac106d0d3c?s=64&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/25ca5ccb69b72d04b07f91ac106d0d3c?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' />			<cite class="fn">Ananda</cite> <span class="says">says:</span>		</div>
+
+	<li class="comment even thread-odd thread-alt depth-1" id="comment-6663">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+
 		
-		<div class="comment-meta commentmetadata"><a href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/#comment-60">
-			February 9, 2019 at 6:12 pm</a>		</div>
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://2.gravatar.com/avatar/8a4655751886e8169b7cd1854d4d821e?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://2.gravatar.com/avatar/8a4655751886e8169b7cd1854d4d821e?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://2.gravatar.com/avatar/8a4655751886e8169b7cd1854d4d821e?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://2.gravatar.com/avatar/8a4655751886e8169b7cd1854d4d821e?s=48&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/8a4655751886e8169b7cd1854d4d821e?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://videoproperti.com" class="comment-author-link" rel="external nofollow" itemprop="url">andri firmansyah</a></span> 			</p>
 
-		<p>Hay, kami baru saja memulai membangun bisnis parfum. Dan sosial media pun baru mau di buat. Bisa kasih solusi agat penjualan tercapai banyak</p>
+			<p class="comment-meta"><time class="comment-time" datetime="2015-10-31T01:22:00+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-6663" class="comment-time-link" itemprop="url">31 Oktober 2015 at 1:22 am</a></time></p>		</header>
 
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/?replytocom=60#respond' onclick='return addComment.moveForm( "div-comment-60", "60", "respond", "2103" )' aria-label='Reply to Ananda'>Reply</a></div>
-				</div>
-		</li><!-- #comment-## -->
-		<li class="comment odd alt thread-even depth-1 parent" id="comment-89">
-				<div id="div-comment-89" class="comment-body">
-				<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/c3a1e762b2f4ac81340321358ce67362?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/c3a1e762b2f4ac81340321358ce67362?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' />			<cite class="fn">Arif Pramono</cite> <span class="says">says:</span>		</div>
+		<div class="comment-content" itemprop="text">
+			
+			<p>Slam Dunk!!<br />
+Ini artikel super power..<br />
+Di tempat lain, ilmu seperti ini harus bayar. Disini dibagi gratis sama pak Darmawan.<br />
+Tinggal kita mau praktek nggak. Soalnya ilmu nya udah di jelaskan detail di artikel ini.<br />
+Thq Master!</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-6663' onclick='return addComment.moveForm( "comment-6663", "6663", "respond", "2097" )' aria-label='Balasan untuk andri firmansyah'>Balas</a></div>
 		
-		<div class="comment-meta commentmetadata"><a href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/#comment-89">
-			August 31, 2019 at 11:17 pm</a>		</div>
+	</article>
+	</li><!-- #comment-## -->
 
-		<p>Kami membuka kedai bakso di perumahan&#8230;.dgn konsep seperti cafe&#8230;menonjolkan suasan teras yg luas dan indah. Bagaimana cara yg pas menarik konsumen yg tepat baik dgn offline maupun online. Secara rasa menurut pengnjung sudah ok.</p>
+	<li class="comment odd alt thread-even depth-1" id="comment-6677">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
 
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/?replytocom=89#respond' onclick='return addComment.moveForm( "div-comment-89", "89", "respond", "2103" )' aria-label='Reply to Arif Pramono'>Reply</a></div>
-				</div>
-		<ul class="children">
-		<li class="comment byuser comment-author-admindm bypostauthor even depth-2" id="comment-90">
-				<div id="div-comment-90" class="comment-body">
-				<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/f2b01a6006e049c39b540a8bbeec8ad5?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f2b01a6006e049c39b540a8bbeec8ad5?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' />			<cite class="fn">admin digital marketer</cite> <span class="says">says:</span>		</div>
 		
-		<div class="comment-meta commentmetadata"><a href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/#comment-90">
-			September 8, 2019 at 9:48 pm</a>		</div>
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://1.gravatar.com/avatar/45d3968868b13ad689176cefc32045b3?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://1.gravatar.com/avatar/45d3968868b13ad689176cefc32045b3?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://1.gravatar.com/avatar/45d3968868b13ad689176cefc32045b3?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://1.gravatar.com/avatar/45d3968868b13ad689176cefc32045b3?s=48&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/45d3968868b13ad689176cefc32045b3?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://www.ehpedia.com/" class="comment-author-link" rel="external nofollow" itemprop="url">Belajar bisnis online</a></span> 			</p>
 
-		<p>Hay arif pramono, untuk kuliner terdapat 2 faktor yang sangat menentukan, pertama adalah lokasi, dan yang kedua adalah rasa.<br />
-Jika kamu yakin rasa sudah oke maka akan mudah melakukan promosi baik offline maupun online.</p>
-<p>Contoh yang bisa kamu lakukan untuk offline adalah memberikan kupon makanan, untuk pembelian ke 5 gratis 1 porsi.<br />
-untuk online, bisa kamu gunakan sosial media instagram berupa diskon potongan harga jika update foto makanan kamu disertai tag 3 orang temannya dan pastinya juga tag ke akun kamu. Cara ini masih sangat ampuh untuk menaikan jumlah real follower yang  pastinya akan berpengaruh terhadap brand kamu di internet.</p>
-<p>Jangan lupa untuk daftarkan juga ke google maps untuk memudahkan orang yang tidak mengetahui lokasi cafe kamu untuk datang.</p>
-<p>Selamat mencoba! untuk belajar digital marketing lebih jauh bisa cek <a href="http://www.digitalmarketer.co.id/yuk-belajar-digital-marketing-dari-dasar-untuk-semua-bisnis/" rel="noopener" target="_blank">Belajar Digital Marketing</a></p>
+			<p class="comment-meta"><time class="comment-time" datetime="2015-10-31T03:22:12+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-6677" class="comment-time-link" itemprop="url">31 Oktober 2015 at 3:22 am</a></time></p>		</header>
 
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/?replytocom=90#respond' onclick='return addComment.moveForm( "div-comment-90", "90", "respond", "2103" )' aria-label='Reply to admin digital marketer'>Reply</a></div>
-				</div>
-		</li><!-- #comment-## -->
+		<div class="comment-content" itemprop="text">
+			
+			<p>Tips nya keren, meski setengah dari semua tips diatas memang sudah saya ketahui, namun pada prakteknya memang belum saya lakukan karena rasa malas dan permasalahan waktu.<br />
+Btw trims lumayan ada canva, tool edit gambar gratisnya.</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-6677' onclick='return addComment.moveForm( "comment-6677", "6677", "respond", "2097" )' aria-label='Balasan untuk Belajar bisnis online'>Balas</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+
+	<li class="comment even thread-odd thread-alt depth-1" id="comment-7002">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://2.gravatar.com/avatar/24ae4520569a5badc3b5d3c86a0d4e7f?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://2.gravatar.com/avatar/24ae4520569a5badc3b5d3c86a0d4e7f?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://2.gravatar.com/avatar/24ae4520569a5badc3b5d3c86a0d4e7f?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://2.gravatar.com/avatar/24ae4520569a5badc3b5d3c86a0d4e7f?s=48&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/24ae4520569a5badc3b5d3c86a0d4e7f?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://bacaanku.com" class="comment-author-link" rel="external nofollow" itemprop="url">jalaluddinalhaq</a></span> 			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2015-11-02T16:00:43+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-7002" class="comment-time-link" itemprop="url">2 November 2015 at 4:00 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>saya baru 1 bulan mencoba bermain website. cuma 2 website SEO yang saya jadikan acuan. salah satunya adalah panduan IM dari mas darmawan ini karena cara penyampaiannya asik buat di ikuti.</p>
+<p>masih banyak kebingungan untuk optimasi SEO, khususnya tentang social network ini. khususnya dalam hal meta tag social network.</p>
+<p>entah kenapa setiap saya coba share artikel dari website saya, source fanspage saya tidak terkoneksi, hanya namesite blog saya saja. mungkin mas darmawan mau sedikit membantu saya untuk koreksi relasi SN website saya :D.</p>
+<p>link meta tag web saya &#8220;http://goo.gl/6fEUQU&#8221;<br />
+misal komennya kurang bagus, sangant membantu kalau bisadijawab melalui email 😀</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-7002' onclick='return addComment.moveForm( "comment-7002", "7002", "respond", "2097" )' aria-label='Balasan untuk jalaluddinalhaq'>Balas</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-darmawan bypostauthor odd alt depth-2" id="comment-7328">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://panduanim.com" class="comment-author-link" rel="external nofollow" itemprop="url">Darmawan</a></span> 			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2015-11-02T21:02:43+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-7328" class="comment-time-link" itemprop="url">2 November 2015 at 9:02 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>Meta tag untuk article:author belum ada, coba ditambahkan lalu diarahkan ke Facebook Page</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-7328' onclick='return addComment.moveForm( "comment-7328", "7328", "respond", "2097" )' aria-label='Balasan untuk Darmawan'>Balas</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
 </ul><!-- .children -->
 </li><!-- #comment-## -->
-		<li class="comment odd alt thread-odd thread-alt depth-1 parent" id="comment-99">
-				<div id="div-comment-99" class="comment-body">
-				<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/b6f1b34326b5105489739fb67f6e651b?s=64&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b6f1b34326b5105489739fb67f6e651b?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' />			<cite class="fn">Dwi indah ratnasari</cite> <span class="says">says:</span>		</div>
+
+	<li class="comment even thread-even depth-1" id="comment-7245">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+
 		
-		<div class="comment-meta commentmetadata"><a href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/#comment-99">
-			September 20, 2019 at 10:55 pm</a>		</div>
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://2.gravatar.com/avatar/bd00eae957cfe9e65da170474f7cd519?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://2.gravatar.com/avatar/bd00eae957cfe9e65da170474f7cd519?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://2.gravatar.com/avatar/bd00eae957cfe9e65da170474f7cd519?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://2.gravatar.com/avatar/bd00eae957cfe9e65da170474f7cd519?s=48&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/bd00eae957cfe9e65da170474f7cd519?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://ositmen.com/" class="comment-author-link" rel="external nofollow" itemprop="url">Sam</a></span> 			</p>
 
-		<p>Kenapa ya low promosi jarang ada yg tertarik&#8230;gimana cara biar orang tertarik pda produk yg kita jual&#8230;.</p>
+			<p class="comment-meta"><time class="comment-time" datetime="2015-11-02T19:54:08+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-7245" class="comment-time-link" itemprop="url">2 November 2015 at 7:54 pm</a></time></p>		</header>
 
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/?replytocom=99#respond' onclick='return addComment.moveForm( "div-comment-99", "99", "respond", "2103" )' aria-label='Reply to Dwi indah ratnasari'>Reply</a></div>
-				</div>
-		<ul class="children">
-		<li class="comment byuser comment-author-admindm bypostauthor even depth-2" id="comment-103">
-				<div id="div-comment-103" class="comment-body">
-				<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/f2b01a6006e049c39b540a8bbeec8ad5?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f2b01a6006e049c39b540a8bbeec8ad5?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' />			<cite class="fn">admin digital marketer</cite> <span class="says">says:</span>		</div>
+		<div class="comment-content" itemprop="text">
+			
+			<p>Luar biasa ini website beserta kontennya, sepakat saya! Kalo di seminarkan, hal ginian harganya jutaan bahkan puluhan juta. </p>
+<p>Kalo dipraktekin, sabar, gak ngeluh, dan konsisten untuk improve, pasti ngefek!</p>
+<p>Makasih Mas Darmawan.</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-7245' onclick='return addComment.moveForm( "comment-7245", "7245", "respond", "2097" )' aria-label='Balasan untuk Sam'>Balas</a></div>
 		
-		<div class="comment-meta commentmetadata"><a href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/#comment-103">
-			September 22, 2019 at 7:14 pm</a>		</div>
+	</article>
+	</li><!-- #comment-## -->
 
-		<p>Halo Dwi, jika kamu promosi tapi banyak orang yang tidak tertarik kemungkinan besar dikarenakan salah target konsumen. Sehingga jelas orang tidak akan tertarik atau merespon dengan promosi kamu.<br />
-Cara termudah untuk menjangkau target konsumen yang spesifik dengan produk ataupun jasa kamu adalah menggunakan iklan online yang bisa disetting sedemikian rupa hingga dapat menjangkau potential buyer.<br />
-Jika kamu ingin tahu lebih lanjut tentang digital marketing bisa melihat postingan di <a href="http://www.digitalmarketer.co.id/yuk-belajar-digital-marketing-dari-dasar-untuk-semua-bisnis/" rel="nofollow">http://www.digitalmarketer.co.id/yuk-belajar-digital-marketing-dari-dasar-untuk-semua-bisnis/</a></p>
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-11199">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
 
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/?replytocom=103#respond' onclick='return addComment.moveForm( "div-comment-103", "103", "respond", "2103" )' aria-label='Reply to admin digital marketer'>Reply</a></div>
-				</div>
-		</li><!-- #comment-## -->
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://1.gravatar.com/avatar/782d838e9a9ef7a265c28d00967945b8?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://1.gravatar.com/avatar/782d838e9a9ef7a265c28d00967945b8?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://1.gravatar.com/avatar/782d838e9a9ef7a265c28d00967945b8?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://1.gravatar.com/avatar/782d838e9a9ef7a265c28d00967945b8?s=48&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/782d838e9a9ef7a265c28d00967945b8?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://www.jasawebmedan.web.id" class="comment-author-link" rel="external nofollow" itemprop="url">jasa web medan</a></span> 			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2015-11-25T12:40:34+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-11199" class="comment-time-link" itemprop="url">25 November 2015 at 12:40 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>Dari oktober 2014 hingga sekarang nov 2015 saya sering cari panduan buat web hingga seo , sosmed dan pemasaran internet ..</p>
+<p>yg saya herankan kq di artikel panduan im ini ilmu nya lengkap puanjaaaanggg serta bermanfaat gratis lagi tinggal mau atau tidak mempraktekkan nya </p>
+<p>dr awal saya tau internet bisa menghasilkan uang lalu saya sering beli ebook berbayar</p>
+<p> namun jika dibanding dengan panduan im malah ilmu nya melebihi ebook berbayar.. mantap dah pokoke maknyosssss</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-11199' onclick='return addComment.moveForm( "comment-11199", "11199", "respond", "2097" )' aria-label='Balasan untuk jasa web medan'>Balas</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+
+	<li class="comment even thread-even depth-1" id="comment-11340">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://0.gravatar.com/avatar/9b99037219d9eacb259b34425b7ddb8d?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://0.gravatar.com/avatar/9b99037219d9eacb259b34425b7ddb8d?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://0.gravatar.com/avatar/9b99037219d9eacb259b34425b7ddb8d?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://0.gravatar.com/avatar/9b99037219d9eacb259b34425b7ddb8d?s=48&#038;d=identicon&#038;r=g' srcset='http://0.gravatar.com/avatar/9b99037219d9eacb259b34425b7ddb8d?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://alifandofla.com" class="comment-author-link" rel="external nofollow" itemprop="url">Alifan</a></span> 			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2015-11-27T16:28:08+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-11340" class="comment-time-link" itemprop="url">27 November 2015 at 4:28 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>kereennn kebetulan lagi belajar buat ngembangin sosmed<br />
+Ane masih punya cara untuk Facebook yg belum di share &gt; untuk awal &gt;</p>
+<p>membuat akun fb personal yang &#8220;baik&#8221; lalu nge add temen orang-orang yang punya minat di situ, misal nih Internet marketing &gt; add friend temen2 Internet marketing dari grup atau fp lain, akun fb personal ini harus hidup, nah setelah dapat 3k teman bisa buat pelan2 nge up fans page</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-11340' onclick='return addComment.moveForm( "comment-11340", "11340", "respond", "2097" )' aria-label='Balasan untuk Alifan'>Balas</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-11693">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://1.gravatar.com/avatar/1b0c64dc230076800d105b77a1a850d2?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://1.gravatar.com/avatar/1b0c64dc230076800d105b77a1a850d2?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://1.gravatar.com/avatar/1b0c64dc230076800d105b77a1a850d2?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://1.gravatar.com/avatar/1b0c64dc230076800d105b77a1a850d2?s=48&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/1b0c64dc230076800d105b77a1a850d2?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="https://yaumilakbar.com" class="comment-author-link" rel="external nofollow" itemprop="url">Yaumil Akbar</a></span> 			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2015-12-04T16:45:51+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-11693" class="comment-time-link" itemprop="url">4 Desember 2015 at 4:45 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>Belum lengkap aja udah awesome gini hihi.</p>
+<p>Oia ma saya kan pake Ghost ni, beda sama WordPress ada pluginnya buat bikin meta tag twitter.</p>
+<p>Nah kalo di Ghost gimana caranya ya, emang ada sih otomatis tapi gak ada meta tag buat akunnya mas, kalo wordpress kan lengkap bisa masukkin akun pengguna.</p>
+<p>Mohon maaf kalo pertanyaan ini salah tempat 😀</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-11693' onclick='return addComment.moveForm( "comment-11693", "11693", "respond", "2097" )' aria-label='Balasan untuk Yaumil Akbar'>Balas</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-darmawan bypostauthor even depth-2" id="comment-11708">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://panduanim.com" class="comment-author-link" rel="external nofollow" itemprop="url">Darmawan</a></span> 			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2015-12-05T06:39:45+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-11708" class="comment-time-link" itemprop="url">5 Desember 2015 at 6:39 am</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>Ghost itu kan open source, kalau masnya ngerti koding, bikin aja sendiri.</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-11708' onclick='return addComment.moveForm( "comment-11708", "11708", "respond", "2097" )' aria-label='Balasan untuk Darmawan'>Balas</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
 </ul><!-- .children -->
 </li><!-- #comment-## -->
-		<li class="comment odd alt thread-even depth-1 parent" id="comment-175">
-				<div id="div-comment-175" class="comment-body">
-				<div class="comment-author vcard">
-			<img alt='' src='http://2.gravatar.com/avatar/85667530d4bbe0a6ae9603b8ad1eaf41?s=64&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/85667530d4bbe0a6ae9603b8ad1eaf41?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' />			<cite class="fn">sabrina</cite> <span class="says">says:</span>		</div>
+
+	<li class="comment odd alt thread-even depth-1" id="comment-13886">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+
 		
-		<div class="comment-meta commentmetadata"><a href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/#comment-175">
-			January 5, 2021 at 9:05 am</a>		</div>
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://1.gravatar.com/avatar/aa9394924317a1584916fd47bab8da14?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://1.gravatar.com/avatar/aa9394924317a1584916fd47bab8da14?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://1.gravatar.com/avatar/aa9394924317a1584916fd47bab8da14?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://1.gravatar.com/avatar/aa9394924317a1584916fd47bab8da14?s=48&#038;d=identicon&#038;r=g' srcset='http://1.gravatar.com/avatar/aa9394924317a1584916fd47bab8da14?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://www.jftkaroseri.com" class="comment-author-link" rel="external nofollow" itemprop="url">Daniel</a></span> 			</p>
 
-		<p>Halo,<br />
-kami begerak di B2C dan baru merintis stratup transportasi online seperti transportasi online ternama saat ini akan tetapi kami melakukan di kota kecil. disini saya masih bingung untuk melakukan promosi menggunakan digital marketing, kami sudah berjalan 3 bulan akan tetapi pengguna dari aplikasi kami sangat sedikit. </p>
-<p>mohon diberi saran apa yang perlu di perkuat lagi agar mereka tertarik menjadi pengguna dan sering menggunakan layanan kami.</p>
-<p>thanks!</p>
+			<p class="comment-meta"><time class="comment-time" datetime="2015-12-24T08:35:30+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-13886" class="comment-time-link" itemprop="url">24 Desember 2015 at 8:35 am</a></time></p>		</header>
 
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/?replytocom=175#respond' onclick='return addComment.moveForm( "div-comment-175", "175", "respond", "2103" )' aria-label='Reply to sabrina'>Reply</a></div>
-				</div>
-		<ul class="children">
-		<li class="comment byuser comment-author-admindm bypostauthor even depth-2" id="comment-177">
-				<div id="div-comment-177" class="comment-body">
-				<div class="comment-author vcard">
-			<img alt='' src='http://0.gravatar.com/avatar/f2b01a6006e049c39b540a8bbeec8ad5?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/f2b01a6006e049c39b540a8bbeec8ad5?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' />			<cite class="fn">Admin Digital Marketer</cite> <span class="says">says:</span>		</div>
+		<div class="comment-content" itemprop="text">
+			
+			<p>Mas Darmawan, artikelnya luar biasa sekali.</p>
+<p>Pasti banyak di bookmark dan di link artikel Mas Darmawan yang satu ini.</p>
+<p>Sangat panjang dan lengkap. Lihat artikel ini, jadi ingat salah satu artikel top dari Backlinko.</p>
+<p>Dan mas satu hal lagi&#8230;</p>
+<p>Saya suka sekali dengan fitur content filternya. Boleh tau mas pluginnya ini &#8220;custom&#8221; atau &#8220;dijual ke publik&#8221;?</p>
+<p>Kalau dijual ke publik boleh minta linknya mas?</p>
+<p>Terimakasih Banyak 🙂</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-13886' onclick='return addComment.moveForm( "comment-13886", "13886", "respond", "2097" )' aria-label='Balasan untuk Daniel'>Balas</a></div>
 		
-		<div class="comment-meta commentmetadata"><a href="http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/#comment-177">
-			January 14, 2021 at 11:49 am</a>		</div>
+	</article>
+	<ul class="children">
 
-		<p>Halo sabrina, untuk konsultasi digital marketing lebih lanjut dengan sasaran meningkatkan banyak pengguna aplikasi bisa menghubungi tim kami di nomor yang telah tersedia ya</p>
+	<li class="comment byuser comment-author-darmawan bypostauthor even depth-2" id="comment-14612">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
 
-		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://www.digitalmarketer.co.id/strategi-meningkatkan-penjualan-melalui-media-sosial/?replytocom=177#respond' onclick='return addComment.moveForm( "div-comment-177", "177", "respond", "2103" )' aria-label='Reply to Admin Digital Marketer'>Reply</a></div>
-				</div>
-		</li><!-- #comment-## -->
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://panduanim.com" class="comment-author-link" rel="external nofollow" itemprop="url">Darmawan</a></span> 			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2015-12-28T06:49:05+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-14612" class="comment-time-link" itemprop="url">28 Desember 2015 at 6:49 am</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>Custom, tapi nanti kalau banyak yang mau mungkin bisa saya jual ke publik</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-14612' onclick='return addComment.moveForm( "comment-14612", "14612", "respond", "2097" )' aria-label='Balasan untuk Darmawan'>Balas</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
 </ul><!-- .children -->
 </li><!-- #comment-## -->
-		</ol>
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-13995">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
 
 		
-	
-		<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/strategi-meningkatkan-penjualan-melalui-media-sosial/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="http://www.digitalmarketer.co.id/wp-comments-post.php" method="post" id="commentform" class="comment-form">
-				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
-<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
-<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
-<p class="aiowps-captcha"><label for="aiowps-captcha-answer">Please enter an answer in digits:</label><div class="aiowps-captcha-equation"><strong>eight &#43; 10 = <input type="hidden" name="aiowps-captcha-string-info" id="aiowps-captcha-string-info" value="f9eo4dtk4i" /><input type="hidden" name="aiowps-captcha-temp-string" id="aiowps-captcha-temp-string" value="1622250738" /><input type="text" size="2" id="aiowps-captcha-answer" name="aiowps-captcha-answer" value="" autocomplete="off" /></strong></div></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='2103' id='comment_post_ID' />
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://2.gravatar.com/avatar/85f617f93bfbc05efbfb3f9139d05e9f?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://2.gravatar.com/avatar/85f617f93bfbc05efbfb3f9139d05e9f?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://2.gravatar.com/avatar/85f617f93bfbc05efbfb3f9139d05e9f?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://2.gravatar.com/avatar/85f617f93bfbc05efbfb3f9139d05e9f?s=48&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/85f617f93bfbc05efbfb3f9139d05e9f?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name">Afif</span> 			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2015-12-24T23:26:20+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-13995" class="comment-time-link" itemprop="url">24 Desember 2015 at 11:26 pm</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>Mas Darmawan, </p>
+<p>Beberapa sudah saya praktekkan di FP, semisal memposting non-jualan, motivasi, link, konten bergambar, interaktif, fast respons, informasi, tips, CTA, kompetisi, pertanyaan, dan sekedar sapaan. </p>
+<p>Sudah praktek bikin &#8216;Note&#8217; juga yang isinya justru bukan untuk jualan (dilakukan setelah tahu kalau Note menurut tulisan mas Darmawan di topik FB marketing bisa dimanfaatkan untuk optimasi di FP). </p>
+<p>Hasilnya? Reach = 0, engagement = 0, like = 0. OMG 🙂</p>
+<p>Bahkan sampai sekarang belum bisa mengakses &#8216;Insight&#8217; (kebayang jumlah Like-nya masih berapa). </p>
+<p>Jadi, trial error apa (lagi) nih dengan kenyataan yang begitu? </p>
+<p>Oya lupa, baik mana antara ngepost di Note dengan di Wall? Makasih banyak.</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-13995' onclick='return addComment.moveForm( "comment-13995", "13995", "respond", "2097" )' aria-label='Balasan untuk Afif'>Balas</a></div>
+		
+	</article>
+	<ul class="children">
+
+	<li class="comment byuser comment-author-darmawan bypostauthor even depth-2" id="comment-14610">
+	<article itemprop="comment" itemscope itemtype="https://schema.org/Comment">
+
+		
+		<header class="comment-header">
+			<p class="comment-author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+				<img alt src="https://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&#038;d=identicon&#038;r=g" class="avatar avatar-48 photo jetpack-lazy-image" height="48" width="48" data-lazy-srcset="http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=96&#038;d=identicon&#038;r=g 2x" data-lazy-src="http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&amp;is-pending-load=1#038;d=identicon&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=48&#038;d=identicon&#038;r=g' srcset='http://2.gravatar.com/avatar/b6bb33c097b44ef3e8abf05e415dfe18?s=96&#038;d=identicon&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' /></noscript><span itemprop="name"><a href="http://panduanim.com" class="comment-author-link" rel="external nofollow" itemprop="url">Darmawan</a></span> 			</p>
+
+			<p class="comment-meta"><time class="comment-time" datetime="2015-12-28T06:46:25+00:00" itemprop="datePublished"><a href="http://panduanim.com/menambah-followers/#comment-14610" class="comment-time-link" itemprop="url">28 Desember 2015 at 6:46 am</a></time></p>		</header>
+
+		<div class="comment-content" itemprop="text">
+			
+			<p>Kalo followernya sekarang 0, mau posting 100x di page sendiri pun bakal tetep 0. Promosikan ke luar, jangan cuma di dalam.</p>
+		</div>
+
+		<div class="comment-reply"><a rel='nofollow' class='comment-reply-link' href='#comment-14610' onclick='return addComment.moveForm( "comment-14610", "14610", "respond", "2097" )' aria-label='Balasan untuk Darmawan'>Balas</a></div>
+		
+	</article>
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ol></div>	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Ada pertanyaan atau komentar? <small><a rel="nofollow" id="cancel-comment-reply-link" href="/menambah-followers/#respond" style="display:none;">Batalkan balasan</a></small></h3>			<form action="http://panduanim.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-form-comment"><label for="comment">Komentar</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><input name="wpml_language_code" type="hidden" value="id" /><p class="comment-form-author"><label for="author">Nama <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Kirim Komentar" /> <input type='hidden' name='comment_post_ID' value='2097' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
-</p>			</form>
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="54a90c9cf3" /></p><input type="hidden" id="ak_js" name="ak_js" value="157"/><textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100" style="display: none !important;"></textarea>			</form>
 			</div><!-- #respond -->
-	
-</div><!-- #comments -->
-				</div>
-				
-			</div>
-		</div>
-	
-</div>		</div>
-		
-		<!-- .four-columns - sidebar -->
-		<div class="sidebar sidebar-1 four columns"><div class="widget-area clearfix "><aside id="search-2" class="widget widget_search"><h3>Pencarian</h3>
-<form method="get" id="searchform" action="http://www.digitalmarketer.co.id/">
-						
-		
-	<i class="icon_search icon-search-fine"></i>
-	<a href="#" class="icon_close"><i class="icon-cancel-fine"></i></a>
-	
-	<input type="text" class="field" name="s" id="s" placeholder="Enter your search" />			
-	<input type="submit" class="submit" value="" style="display:none;" />
-	
-</form></aside><aside id="text-8" class="widget widget_text"><h3>Subscribe</h3>			<div class="textwidget"><script>(function() {
-	if (!window.mc4wp) {
-		window.mc4wp = {
-			listeners: [],
-			forms    : {
-				on: function (event, callback) {
-					window.mc4wp.listeners.push({
-						event   : event,
-						callback: callback
-					});
-				}
-			}
-		}
-	}
-})();
-</script><!-- MailChimp for WordPress v4.3.3 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-14023" method="post" data-id="14023" data-name="Subscribe Form" ><div class="mc4wp-form-fields"><p>
-	<label>Email address: </label>
-	<input type="email" name="EMAIL" placeholder="Your email address" required />
-</p>
-<hr class="no_line"/>
-<p>
-	<input type="submit" value="Sign up" />
-</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1622250738" /><input type="hidden" name="_mc4wp_form_id" value="14023" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div>
-		</aside><aside id="categories-2" class="widget widget_categories"><h3>Kategori</h3>		<ul>
-	<li class="cat-item cat-item-19"><a href="http://www.digitalmarketer.co.id/category/semua/bisnis-online/" >Bisnis Online</a>
-</li>
-	<li class="cat-item cat-item-14"><a href="http://www.digitalmarketer.co.id/category/semua/iklan-dan-promosi-online/" >Iklan dan Promosi Online</a>
-</li>
-	<li class="cat-item cat-item-1"><a href="http://www.digitalmarketer.co.id/category/semua/" >Semua</a>
-</li>
-	<li class="cat-item cat-item-15"><a href="http://www.digitalmarketer.co.id/category/semua/sosial-media/" >Sosial Media</a>
-</li>
-	<li class="cat-item cat-item-12"><a href="http://www.digitalmarketer.co.id/category/semua/website/" >Website</a>
-</li>
-		</ul>
-</aside><aside id="widget_mfn_recent_posts-3" class="widget widget_mfn_recent_posts"><h3>Terbaru</h3><div class="Recent_posts"><ul><li class="post format-"><a href="http://www.digitalmarketer.co.id/mengenal-cryptocurrency-yang-diprediksi-jadi-alat-pembayaran-di-masa-depan/"><div class="photo"><img width="80" height="80" src="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-80x80.jpg" class="scale-with-grid wp-post-image" alt="Mengenal Cryptocurrency yang Diprediksi Jadi Alat Pembayaran di Masa Depan" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-80x80.jpg 80w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-150x150.jpg 150w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /><span class="c">0</span></div><div class="desc"><h6>Mengenal  Cryptocurrency yang Diprediksi Jadi Alat Pembayaran di Masa Depan</h6><span class="date"><i class="icon-clock"></i>May 5, 2021</span></div></a></li><li class="post format-"><a href="http://www.digitalmarketer.co.id/affiliate-marketing-dan-manfaatnya/"><div class="photo"><img width="80" height="80" src="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-80x80.jpg" class="scale-with-grid wp-post-image" alt="Mengenal Apa itu Affiliate Marketing dan Manfaatnya" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-80x80.jpg 80w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-150x150.jpg 150w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /><span class="c">0</span></div><div class="desc"><h6>Mengenal Apa itu Affiliate Marketing dan Manfaatnya</h6><span class="date"><i class="icon-clock"></i>May 5, 2021</span></div></a></li><li class="post format-"><a href="http://www.digitalmarketer.co.id/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang/"><div class="photo"><img width="80" height="80" src="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang-80x80.jpg" class="scale-with-grid wp-post-image" alt="7 Kesalahan Bisnis Affiliate Marketing yang Bikin Cuan Melayang" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang-80x80.jpg 80w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang-150x150.jpg 150w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/7-kesalahan-bisnis-affiliate-marketing-yang-bikin-cuan-melayang-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /><span class="c">0</span></div><div class="desc"><h6>7 Kesalahan Bisnis Affiliate Marketing yang Bikin Cuan Melayang</h6><span class="date"><i class="icon-clock"></i>May 3, 2021</span></div></a></li><li class="post format-"><a href="http://www.digitalmarketer.co.id/mengenal-apa-itu-cloud-hosting-dan-kelebihannya-untuk-bisnis-online/"><div class="photo"><img width="80" height="80" src="http://www.digitalmarketer.co.id/wp-content/uploads/2020/10/Mengenal-Apa-itu-Cloud-Hosting-dan-Kelebihannya-Untuk-Bisnis-Online-80x80.jpg" class="scale-with-grid wp-post-image" alt="" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2020/10/Mengenal-Apa-itu-Cloud-Hosting-dan-Kelebihannya-Untuk-Bisnis-Online-80x80.jpg 80w, http://www.digitalmarketer.co.id/wp-content/uploads/2020/10/Mengenal-Apa-itu-Cloud-Hosting-dan-Kelebihannya-Untuk-Bisnis-Online-150x150.jpg 150w, http://www.digitalmarketer.co.id/wp-content/uploads/2020/10/Mengenal-Apa-itu-Cloud-Hosting-dan-Kelebihannya-Untuk-Bisnis-Online-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /><span class="c">0</span></div><div class="desc"><h6>Mengenal Cloud Hosting dan Kelebihannya Untuk Bisnis Online</h6><span class="date"><i class="icon-clock"></i>October 23, 2020</span></div></a></li><li class="post format-"><a href="http://www.digitalmarketer.co.id/3-cara-mudah-merancang-masa-depan-karir-anda-selama-pandemi/"><div class="photo"><img width="80" height="80" src="http://www.digitalmarketer.co.id/wp-content/uploads/2020/09/3-cara-mudah-merancang-masa-depan-karir-anda-selama-pandemi-2-80x80.jpg" class="scale-with-grid wp-post-image" alt="" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2020/09/3-cara-mudah-merancang-masa-depan-karir-anda-selama-pandemi-2-80x80.jpg 80w, http://www.digitalmarketer.co.id/wp-content/uploads/2020/09/3-cara-mudah-merancang-masa-depan-karir-anda-selama-pandemi-2-150x150.jpg 150w, http://www.digitalmarketer.co.id/wp-content/uploads/2020/09/3-cara-mudah-merancang-masa-depan-karir-anda-selama-pandemi-2-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /><span class="c">0</span></div><div class="desc"><h6>3 Cara Mudah Merancang Masa Depan Karir Anda Selama Pandemi</h6><span class="date"><i class="icon-clock"></i>September 16, 2020</span></div></a></li></ul></div>
-</aside><aside id="widget_mfn_tag_cloud-3" class="widget widget_mfn_tag_cloud"><h3>Tag</h3><div class="Tags"><ul class="wp-tag-cloud"><li><a href="http://www.digitalmarketer.co.id/tag/bisnis-online/"><span>Bisnis Online</span></a></li><li><a href="http://www.digitalmarketer.co.id/tag/digital-marketing/"><span>Digital Marketing</span></a></li><li><a href="http://www.digitalmarketer.co.id/tag/sosial-media/"><span>sosial media</span></a></li><li><a href="http://www.digitalmarketer.co.id/tag/website/"><span>website</span></a></li></ul></div></aside></div></div>			
-	</div>
-</div>
+	</main></div></div><footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap"><p>Dibuat dengan <span class="dashicons dashicons-heart"></span> Panduan IM &#x000A9;&nbsp;2021. <a href="http://panduanim.com/kontak/">Hubungi saya</a></p></div></footer></div>		<script type="text/javascript">
+			jQuery(document).ready(function () {
+				jQuery(".widget_pim_modul_index").theiaStickySidebar({"containerSelector":".content","additionalMarginTop":"","additionalMarginBottom":"-1","updateSidebarHeight":false,"minWidth":"960","sidebarBehavior":"modern"});
+			});
+		</script>
+	<script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='e0ffb1bbc63baaa5076649f167bd4f585bdeb676fcc8a78634664477c5dbe133';j.dataset.sumoPlatform='wordpress';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>    <script type="application/javascript">
+      var ajaxurl = "http://panduanim.com/wp-admin/admin-ajax.php";
 
+      function sumo_add_woocommerce_coupon(code) {
+        jQuery.post(ajaxurl, {
+          action: 'sumo_add_woocommerce_coupon',
+          code: code,
+        });
+      }
 
-<!-- mfn_hook_content_after --><!-- mfn_hook_content_after -->
-<!-- #Footer -->		
-<footer id="Footer" class="clearfix">
-	
-		
-	<div class="widgets_wrapper" style=""><div class="container"><div class="column one-fourth"><aside id="text-4" class="widget widget_text"><h4>Tentang Kami</h4>			<div class="textwidget"><p align="justify">Digital Marketer merupakan perusahaan digital marketing agency yang mengerti kebutuhan bisnis anda di bidang internet marketing.</p></div>
-		</aside><aside id="text-5" class="widget widget_text">			<div class="textwidget"><div class="image_frame image_item no_link scale-with-grid aligncenter no_border inline-block" ><div class="image_wrapper"><img class="scale-with-grid" src="http://www.digitalmarketer.co.id/wp-content/uploads/2018/10/google-certified-light.png" alt="google certified light" width="350" height="18" /></div></div>
-</div>
-		</aside></div><div class="column one-fourth"><aside id="text-3" class="widget widget_text"><h4>Kontak Kami</h4>			<div class="textwidget"><p align="justify">
-<a href="https://wa.me/6281252510927" target="blank"><i class="icon-mobile"></i>+6281252510927 - Novian</a>
-<br>
-<a href="https://wa.me/6281280333410" target="blank"><i class="icon-mobile"></i>+6281280333410 - Putri</a>
-<br>
-<a href="https://api.whatsapp.com/send?phone=6287784491046" target="blank"><i class="icon-mobile"></i>+6287784491046 - Raissa</a>
-<br>
-<a href="https://wa.me/6282145354196" target="blank"><i class="icon-mobile"></i>+6282145354196 - Prili</a>
-<br>
-<a href="https://wa.me/6285779908812" target="blank"><i class="icon-mobile"></i>+6285779908812 - Vita</a>
-<br>
-<a href="mailto:admin@digitalmarketer.co.id"><i class="icon-mail"></i> admin@digitalmarketer.co.id</a>
-</p></div>
-		</aside></div><div class="column one-fourth"><aside id="text-6" class="widget widget_text"><h4>Alamat</h4>			<div class="textwidget"><p align="justify"><i class="icon-location"></i>Operational Office : <br/>Jl. H. Jebot No.56, RT.4/RW.03<br/>Jatiluhur, Kec. Jatiasih - Bekasi<br/> Indonesia</p>
-</div>
-		</aside><aside id="text-7" class="widget widget_text"><h4>Subscribe</h4>			<div class="textwidget"><script>(function() {
-	if (!window.mc4wp) {
-		window.mc4wp = {
-			listeners: [],
-			forms    : {
-				on: function (event, callback) {
-					window.mc4wp.listeners.push({
-						event   : event,
-						callback: callback
-					});
-				}
-			}
-		}
-	}
-})();
-</script><!-- MailChimp for WordPress v4.3.3 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-14023" method="post" data-id="14023" data-name="Subscribe Form" ><div class="mc4wp-form-fields"><p>
-	<label>Email address: </label>
-	<input type="email" name="EMAIL" placeholder="Your email address" required />
-</p>
-<hr class="no_line"/>
-<p>
-	<input type="submit" value="Sign up" />
-</p></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1622250738" /><input type="hidden" name="_mc4wp_form_id" value="14023" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div>
-		</aside></div><div class="column one-fourth"><aside id="widget_mfn_recent_posts-2" class="widget widget_mfn_recent_posts"><h4>Terbaru</h4><div class="Recent_posts"><ul><li class="post format-"><a href="http://www.digitalmarketer.co.id/mengenal-cryptocurrency-yang-diprediksi-jadi-alat-pembayaran-di-masa-depan/"><div class="photo"><img width="80" height="80" src="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-80x80.jpg" class="scale-with-grid wp-post-image" alt="Mengenal Cryptocurrency yang Diprediksi Jadi Alat Pembayaran di Masa Depan" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-80x80.jpg 80w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-150x150.jpg 150w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/mengenal-cryptocurrency-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /><span class="c">0</span></div><div class="desc"><h6>Mengenal  Cryptocurrency yang Diprediksi Jadi Alat Pembayaran di Masa Depan</h6><span class="date"><i class="icon-clock"></i>May 5, 2021</span></div></a></li><li class="post format-"><a href="http://www.digitalmarketer.co.id/affiliate-marketing-dan-manfaatnya/"><div class="photo"><img width="80" height="80" src="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-80x80.jpg" class="scale-with-grid wp-post-image" alt="Mengenal Apa itu Affiliate Marketing dan Manfaatnya" srcset="http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-80x80.jpg 80w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-150x150.jpg 150w, http://www.digitalmarketer.co.id/wp-content/uploads/2021/05/affiliate-marketing-dan-manfaatnya-85x85.jpg 85w" sizes="(max-width: 80px) 100vw, 80px" /><span class="c">0</span></div><div class="desc"><h6>Mengenal Apa itu Affiliate Marketing dan Manfaatnya</h6><span class="date"><i class="icon-clock"></i>May 5, 2021</span></div></a></li></ul></div>
-</aside></div></div></div>
+      function sumo_remove_woocommerce_coupon(code) {
+        jQuery.post(ajaxurl, {
+          action: 'sumo_remove_woocommerce_coupon',
+          code: code,
+        });
+      }
 
-		
-		<div class="footer_copy">
-			<div class="container">
-				<div class="column one">
-
-										
-					<!-- Copyrights -->
-					<div class="copyright">
-						© 2019 Digitalmarketer.co.id. All Rights Reserved.					</div>
-
-					<ul class="social"><li class="facebook"><a target="_blank" href="https://www.facebook.com/Digitalmarketer.co.id/" title="Facebook"><i class="icon-facebook"></i></a></li><li class="instagram"><a target="_blank" href="https://www.instagram.com/digitalmarketer.co.id/" title="Instagram"><i class="icon-instagram"></i></a></li><li class="rss"><a target="_blank" href="http://www.digitalmarketer.co.id/feed/" title="RSS"><i class="icon-rss"></i></a></li></ul>							
-				</div>
-			</div>
-		</div>
-	
-		
-	
-	
-	
-</footer>
-
-</div><!-- #Wrapper -->
-
-<div id="Side_slide" class="right dark"><div class="close-wrapper"><a href="#" class="close"><i class="icon-cancel-fine"></i></a></div><div class="extras"><div class="extras-wrapper"></div></div><div class="lang-wrapper"></div><div class="menu_wrapper"></div><ul class="social"><li class="facebook"><a target="_blank" href="https://www.facebook.com/Digitalmarketer.co.id/" title="Facebook"><i class="icon-facebook"></i></a></li><li class="instagram"><a target="_blank" href="https://www.instagram.com/digitalmarketer.co.id/" title="Instagram"><i class="icon-instagram"></i></a></li><li class="rss"><a target="_blank" href="http://www.digitalmarketer.co.id/feed/" title="RSS"><i class="icon-rss"></i></a></li></ul></div><div id="body_overlay"></div>
-<a id="back_to_top" class="button button_js sticky scroll" href=""><i class="icon-up-open-big"></i></a>
-
-<!-- mfn_hook_bottom --><!-- mfn_hook_bottom -->	
-<!-- wp_footer() -->
-<!-- .cs-uwac__popup -->
-<div class="cs-uwac__popup-wrapper cs-uwac__popup-theme--simple cs-uwac__popup--hide-label cs-uwac__position--bottomright cs-uwac__popup-id--bottom_right_1" style="--uwac-btn-icon-display:none;--cs-uwac-theme_button-bg:#2db742;--cs-uwac-theme_button-text:#ffffff;--cs-uwac-theme_label-bg:#f5f7f9;--cs-uwac-theme_label-text:#43475e;--cs-uwac-theme_header-bg:#2db742;--cs-uwac-theme_header-icon:rgba(255,255,255,0.95);--cs-uwac-theme_header-text-title:rgba(255,255,255,0.95);--cs-uwac-theme_header-text-desc:rgba(255,255,255,0.85);--cs-uwac-theme_content-bg:#ffffff;--cs-uwac-theme_content-text:#a5abb7;--cs-uwac-theme_item-bg:#f5f7f9;--cs-uwac-theme_item-text:#43475e;--cs-uwac-theme_item-hover-bg:#ffffff;--cs-uwac-theme_item-hover-text:#56565e;--cs-uwac-theme_position-top:initial;--cs-uwac-theme_position-right:30px;--cs-uwac-theme_position-bottom:20px;--cs-uwac-theme_position-left:initial;" data-widget-settings='{"cta":{"autoopen":false,"autoopen_type":"delay","autoopen_delay":"6","autoopen_scroll":"60","effect":"1","effect_style":{"effect":"shake","iteration":"once","iteration_delay":"6000"}},"gdpr":false}'>
-	<div class="cs-uwac__popup-btn">
-		<div class="cs-uwac__popup-btn_txt">Need Help? <strong>Chat with us!</strong>
-<div id="WRWHOISInstalled" style="display: none;"></div></div>
-		<div class="cs-uwac__popup-btn_icon">
-			<div class="cs-uwac__popup-btn_icon-icon">
-				<span class="cli cli-phone">
-					<div class="uwac-btn_icon-default"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-				</span>
-			</div>
-			<div class="cs-uwac__popup-btn_icon-close">
-				<span>
-					<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-						<path d="M8.65881 6.99817L13.6591 1.99791C14.1136 1.54334 14.1136 0.795496 13.6591 0.340927C13.2045 -0.113642 12.4567 -0.113642 12.0021 0.340927L7.00183 5.34119L2.00157 0.340927C1.547 -0.113642 0.799162 -0.113642 0.344593 0.340927C0.117308 0.568212 0 0.868814 0 1.16942C0 1.47002 0.117308 1.77062 0.344593 1.99791L5.34485 6.99817L0.344593 11.9984C0.117308 12.2257 0 12.5263 0 12.8269C0 13.1275 0.117308 13.4281 0.344593 13.6554C0.799162 14.11 1.547 14.11 2.00157 13.6554L7.00183 8.65515L12.0021 13.6554C12.4567 14.11 13.2045 14.11 13.6591 13.6554C14.1136 13.2008 14.1136 12.453 13.6591 11.9984L8.65881 6.99817Z"/>
-					</svg>						
-				</span>
-			</div>
-		</div>
-	</div>
-	<div class="cs-uwac__popup-chatbox">
-		<div class="cs-uwac__popup-chatbox_heading">
-			<div class="cs-uwac__popup-chatbox_wazap-icon"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-			<div class="cs-uwac__popup-chatbox_title">Start a Conversation</div>
-			<div class="cs-uwac__popup-chatbox_intro">Hi! Click one of our members below to chat on <strong>WhatsApp</strong>
-<div id="WRWHOISInstalled" style="display: none;"></div></div>
-		</div>
-		<!-- /.cs-uwac__popup-chatbox_heading -->
-
-		<div class="cs-uwac__popup-chatbox_content cs-uwac__popup-chatbox_content_left">
-			<div class="cs-uwac__popup-chatbox_notice">
-				<div class="cs-uwac__popup-chatbox_notice-inner">
-					We usually reply in a <strong>few minutes</strong>
-<div id="WRWHOISInstalled" style="display: none;"></div>
-				</div>
-			</div>
-			
-			
-			
-			<div class="cs-uwac__popup-chatbox_content-list">
-				<div class="cs-uwac__popup-chatbox_content-item" style="{account_styles}">
-	<a class="cs-uwac__popup-account cs-uwac__popup-account--user_novian_33 cs-uwac__popup-account--online" target="_blank" href="https://wa.me/6281252510927?text=Hello Novian I need some help here @ Strategi Meningkatkan Penjualan Melalui Media Sosial">
-		<div class="cs-uwac__popup-account_avatar cs-uwac__popup-account_avatar-no-avatar">
-			<div class="cs-uwac__popup-account_avatar-wazap-icon"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-			<div class="cs-uwac__popup-account_avatar-img" data-placeholder="N"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-		</div>
-		<div class="cs-uwac__popup-account_content">
-			<div class="cs-uwac__account_name">Novian</div>
-			<div class="cs-uwac__account_label"></div>
-			<div class="cs-uwac__account_status" style="">Can I help you?</div>
-		</div>
-		<div class="cs-uwac__popup-account_wazap-icon"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-	</a>
-</div><div class="cs-uwac__popup-chatbox_content-item" style="{account_styles}">
-	<a class="cs-uwac__popup-account cs-uwac__popup-account--user_putri-12_23 cs-uwac__popup-account--online" target="_blank" href="https://wa.me/6281280333410?text=Hello Putri I need some help here @ Strategi Meningkatkan Penjualan Melalui Media Sosial">
-		<div class="cs-uwac__popup-account_avatar cs-uwac__popup-account_avatar-no-avatar">
-			<div class="cs-uwac__popup-account_avatar-wazap-icon"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-			<div class="cs-uwac__popup-account_avatar-img" data-placeholder="P"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-		</div>
-		<div class="cs-uwac__popup-account_content">
-			<div class="cs-uwac__account_name">Putri</div>
-			<div class="cs-uwac__account_label"></div>
-			<div class="cs-uwac__account_status" style="">Can I help you?</div>
-		</div>
-		<div class="cs-uwac__popup-account_wazap-icon"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-	</a>
-</div><div class="cs-uwac__popup-chatbox_content-item" style="{account_styles}">
-	<a class="cs-uwac__popup-account cs-uwac__popup-account--user_raissa_31 cs-uwac__popup-account--online" target="_blank" href="https://wa.me/6287784491046?text=Hello Raissa I need some help here @ Strategi Meningkatkan Penjualan Melalui Media Sosial">
-		<div class="cs-uwac__popup-account_avatar cs-uwac__popup-account_avatar-no-avatar">
-			<div class="cs-uwac__popup-account_avatar-wazap-icon"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-			<div class="cs-uwac__popup-account_avatar-img" data-placeholder="R"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-		</div>
-		<div class="cs-uwac__popup-account_content">
-			<div class="cs-uwac__account_name">Raissa</div>
-			<div class="cs-uwac__account_label"></div>
-			<div class="cs-uwac__account_status" style="">Can I help you?</div>
-		</div>
-		<div class="cs-uwac__popup-account_wazap-icon"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-	</a>
-</div><div class="cs-uwac__popup-chatbox_content-item" style="{account_styles}">
-	<a class="cs-uwac__popup-account cs-uwac__popup-account--user_aisyah_5 cs-uwac__popup-account--online" target="_blank" href="https://wa.me/6282145354196?text=Hai Prili , saya tertarik dengan layanan digital marketing dari Andaf Corporation">
-		<div class="cs-uwac__popup-account_avatar cs-uwac__popup-account_avatar-no-avatar">
-			<div class="cs-uwac__popup-account_avatar-wazap-icon"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-			<div class="cs-uwac__popup-account_avatar-img" data-placeholder="P"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-		</div>
-		<div class="cs-uwac__popup-account_content">
-			<div class="cs-uwac__account_name">Prili</div>
-			<div class="cs-uwac__account_label"></div>
-			<div class="cs-uwac__account_status" style="">Can I help you?</div>
-		</div>
-		<div class="cs-uwac__popup-account_wazap-icon"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-	</a>
-</div><div class="cs-uwac__popup-chatbox_content-item" style="{account_styles}">
-	<a class="cs-uwac__popup-account cs-uwac__popup-account--user_vitta_35 cs-uwac__popup-account--online" target="_blank" href="https://wa.me/6285779908812?text=Hello Vitta I need some help here @ Strategi Meningkatkan Penjualan Melalui Media Sosial">
-		<div class="cs-uwac__popup-account_avatar cs-uwac__popup-account_avatar-no-avatar">
-			<div class="cs-uwac__popup-account_avatar-wazap-icon"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-			<div class="cs-uwac__popup-account_avatar-img" data-placeholder="V"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-		</div>
-		<div class="cs-uwac__popup-account_content">
-			<div class="cs-uwac__account_name">Vitta</div>
-			<div class="cs-uwac__account_label"></div>
-			<div class="cs-uwac__account_status" style="">Can I help you?</div>
-		</div>
-		<div class="cs-uwac__popup-account_wazap-icon"><span><?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="90px" height="90px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
-<g>
-	<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522
-		c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982
-		c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537
-		c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938
-		c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537
-		c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333
-		c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882
-		c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977
-		c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344
-		c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223
-		C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"/>
-</g>
-</svg></span></div>
-	</a>
-</div>
-			</div>
-			<!-- /.cs-uwac__popup-chatbox_content_list -->
-		</div>
-		<!-- /.cs-uwac__popup-chatbox_content -->
-	</div>
-	<div class="cs-uwac__popup-overlay"></div>
-</div>
-<!-- /.cs-uwac__popup --><script>(function() {function addEventListener(element,event,handler) {
-	if(element.addEventListener) {
-		element.addEventListener(event,handler, false);
-	} else if(element.attachEvent){
-		element.attachEvent('on'+event,handler);
-	}
-}function maybePrefixUrlField() {
-	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
-		this.value = "http://" + this.value;
-	}
-}
-
-var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
-if( urlFields && urlFields.length > 0 ) {
-	for( var j=0; j < urlFields.length; j++ ) {
-		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
-	}
-}/* test if browser supports date fields */
-var testInput = document.createElement('input');
-testInput.setAttribute('type', 'date');
-if( testInput.type !== 'date') {
-
-	/* add placeholder & pattern to all date fields */
-	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
-	for(var i=0; i<dateFields.length; i++) {
-		if(!dateFields[i].placeholder) {
-			dateFields[i].placeholder = 'YYYY-MM-DD';
-		}
-		if(!dateFields[i].pattern) {
-			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
-		}
-	}
-}
-
-})();</script><noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=121570805154663&ev=PageView&noscript=1" alt="facebook_pixel"></noscript>
-<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=121570805154663&ev=GeneralEvent&noscript=1&cd[post_type]=post&cd[post_id]=2103&cd[content_name]=Strategi+Meningkatkan+Penjualan+Melalui+Media+Sosial&cd[categories]=Semua%2C+Sosial+Media&cd[tags]=Bisnis+Online%2C+sosial+media" alt="facebook_pixel"></noscript>
-<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=121570805154663&ev=ViewContent&noscript=1" alt="facebook_pixel"></noscript>
+      function sumo_get_woocommerce_cart_subtotal(callback) {
+        jQuery.ajax({
+          method: 'POST',
+          url: ajaxurl,
+          dataType: 'html',
+          data: {
+            action: 'sumo_get_woocommerce_cart_subtotal',
+          },
+          success: function(subtotal) {
+            return callback(null, subtotal);
+          },
+          error: function(err) {
+            return callback(err, 0);
+          }
+        });
+      }
+    </script>
+    <div id="tve_notification_box"></div><script type="text/javascript" async src="//platform.twitter.com/widgets.js"></script>
+<div class="tl-states-root tl-anim-zoom_in"><div  class="tl-style" id="tve_blank_set" data-state="15">
+        <div class="tve_blank_set tve_post_lightbox tve-leads-lightbox">
+        <div style="visibility: hidden; position: fixed; left: -9000px" class="tl-lb-target tve-leads-track-lightbox-15" data-s-state=""><div class="tve_p_lb_overlay" style=""></div><div data-anim="zoom_in" class="tve_p_lb_content tve-tl-anim tl-anim-zoom_in bSe cnt" style=""><div class="tve_p_lb_inner" id="tve-p-scroller" style=""><article><div class="tve-leads-conversion-object" data-tl-type="lightbox"><div class="tve_flt"><div id="tve_editor" class="tve_shortcode_editor"><div class="tve_p_lb_control tve_editable tve_editor_main_content tve_content_save tve_empty_dropzone"><div style="width: 175px; margin-top: 0px !important;" class="thrv_wrapper tve_image_caption aligncenter">
+<span class="tve_image_frame">
+<img class="tve_image" alt="" src="http://panduanim.com/wp-content/uploads/2016/01/papanajar.png" style="width: 175px;" width="175" height="133" scale="0">
+</span>
+</div><h2 class="tve_p_center pim-lightbox-title">Bingung mulai dari mana?</h2><p class="tve_p_center pim-lightbox-subtitle">daftarkan email anda untuk mendapatkan panduan marketing</p><div class="thrv_wrapper thrv_custom_html_shortcode"><div class="straight-dashed-line"></div></div><div class="thrv_wrapper thrv_lead_generation tve_clearfix tve_blue tve_12 thrv_lead_generation_vertical" data-inputs-count="12" data-tve-style="1" style="margin-top: 30px; margin-bottom: 0;" data-tve-version="1" data-connection="api">
+<div class="thrv_lead_generation_code" style="display: none;"></div>
+<input type="hidden" class="tve-lg-err-msg" value="{&quot;email&quot;:&quot;Please enter a valid email address&quot;,&quot;phone&quot;:&quot;Please enter a valid phone number&quot;,&quot;required&quot;:&quot;Name and Email fields are required&quot;}">
+<div class="thrv_lead_generation_container tve_clearfix"><form action="#" method="post"><input type="hidden" class="tve-f-a-hidden" value="#"><div class="tve_lead_generated_inputs_container tve_clearfix"><div class="tve_lead_fields_overlay"></div><div class="tve_lg_input_container tve_lg_input tve_lg_2"><input type="email" data-field="email" data-required="1" data-validation="email" name="email" placeholder="Masukkan alamat email..." data-placeholder="Masukkan alamat email..." style="padding-right: 10px;" class="pim-lightbox-input"></div><input id="__tcb_lg_fc" type="hidden" name="__tcb_lg_fc" value="YToxOntzOjk6Im1haWxjaGltcCI7czoxMDoiYTkxMWU0YzgxZCI7fQ=="><input id="_asset_group" type="hidden" name="_asset_group" value=""><input id="_asset_option" type="hidden" name="_asset_option" value=""><input id="_back_url" type="hidden" name="_back_url" value="http://panduanim.com/hampir/"><input id="_submit_option" type="hidden" name="_submit_option" value="redirect"><input id="_use_captcha" type="hidden" name="_use_captcha" value=""><input id="_captcha_theme" type="hidden" name="_captcha_theme" value="light"><input id="_captcha_type" type="hidden" name="_captcha_type" value="image"><input id="_captcha_size" type="hidden" name="_captcha_size" value="normal"><input id="mailchimp_optin" type="hidden" name="mailchimp_optin" class="tve-api-extra" value="d"><div style="display: none"></div><div class="tve_lg_input_container tve_submit_container tve tve_lg_submit tve_lg_2">
+<button type="Submit" class="pim-lightbox-submit">Dapatkan Panduannya</button>
+</div></div></form></div>
+</div></div></div></div></div></article></div><a href="javascript:void(0)" class="tve_p_lb_close" style="" title="Close">x</a></div></div></div></div></div><link rel='stylesheet' id='jquery-ui-selectable-css'  href='//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css?ver=4.9.18' type='text/css' media='all' />
+<link rel='stylesheet' id='dk-style-css'  href='http://panduanim.com/wp-content/plugins/dk-shortcode/css/dk-style.css?ver=4.9.18' type='text/css' media='all' />
+<script type='text/javascript' src='http://panduanim.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-content/plugins/codecanyon-5150066-theia-sticky-sidebar-for-wordpress/js/theia-sticky-sidebar.js?ver=1.3.4'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202121'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"http:\/\/www.digitalmarketer.co.id\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var tve_frontend_options = {"is_editor_page":"","page_events":[],"is_single":"1","ajaxurl":"http:\/\/panduanim.com\/wp-admin\/admin-ajax.php","social_fb_app_id":"","dash_url":"http:\/\/panduanim.com\/wp-content\/plugins\/thrive-leads\/thrive-dashboard","translations":{"Copy":"Copy"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9'></script>
-<script type='text/javascript'>
-var cf7FormIDs = {"ID_36273":"Contact From Instagram","ID_22612":"Landing Page Training","ID_18809":"Pendaftaran Bootcamp","ID_2862":"Pemesanan New","ID_76":"Contact form"}
-</script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/cf7-google-analytics/js/cf7-google-analytics.min.js?ver=1.7.5'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/themes/betheme/js/plugins.js?ver=17.7.1'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/themes/betheme/js/menu.js?ver=17.7.1'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/themes/betheme/assets/animations/animations.min.js?ver=17.7.1'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/themes/betheme/assets/jplayer/jplayer.min.js?ver=17.7.1'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/themes/betheme/js/parallax/translate3d.js?ver=17.7.1'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/themes/betheme/js/scripts.js?ver=17.7.1'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-includes/js/comment-reply.min.js?ver=4.7.21'></script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-includes/js/wp-embed.min.js?ver=4.7.21'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-content/plugins/thrive-leads/tcb/editor/js/thrive_content_builder_frontend.min.js?ver=1.500.18'></script>
+<script type='text/javascript' src='//panduanim.com/wp-content/plugins/thrive-leads/js/frontend.min.js?ver=1.95.19'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-includes/js/comment-reply.min.js?ver=4.9.18'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-content/themes/genesis-sample/lib/js/responsive-menu.js?ver=1.0.0'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var mc4wp_forms_config = [];
+var tve_dash_front = {"ajaxurl":"http:\/\/panduanim.com\/wp-admin\/admin-ajax.php","is_crawler":"1"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.3.3'></script>
-<!--[if lte IE 9]>
-<script type='text/javascript' src='http://www.digitalmarketer.co.id/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.3.3'></script>
-<![endif]-->
-<!-- script | custom js -->
-<script id="mfn-dnmc-custom-js">
-//<![CDATA[
-jQuery(function($){
-document.addEventListener( 'wpcf7mailsent', function( event ) {
-    if ( '410' == event.detail.contactFormId ) {
-        location = 'http://www.digitalmarketer.co.id/';
-    }
-}, false );
-});
-//]]>
+<script type='text/javascript' src='http://panduanim.com/wp-content/plugins/thrive-leads/thrive-dashboard/js/dist/frontend.min.js?ver=1.0.45'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=7.1.2'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-includes/js/wp-embed.min.js?ver=4.9.18'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://panduanim.com/wp-includes/js/jquery/ui/selectable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src="https://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js?ver=4.9.18"></script>
+<script type='text/javascript' src='http://panduanim.com/wp-content/plugins/dk-shortcode/js/dk_mixitup_script.js?ver=1.0.0'></script>
+<script async="async" type='text/javascript' src='http://panduanim.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.9'></script>
+<script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) var TL_Const={"security":"68fed6bfd7","ajax_url":"\/\/panduanim.com\/wp-admin\/admin-ajax.php","forms":{"lightbox":{"_key":"15","trigger":"time","trigger_config":{"s":"60","exi":"1"},"form_type_id":2524,"main_group_id":2523,"active_test_id":""}},"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"main_group_id":2523,"display_options":{"allowed_post_types":[],"flag_url_match":false},"custom_post_data":[],"current_screen":{"screen_type":4,"screen_id":2097},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]}/*]]> */</script><script type="text/javascript">var TL_Front = TL_Front || {}; TL_Front.impressions_data = TL_Front.impressions_data || {};TL_Front.impressions_data.lightbox = {"group_id":2523,"form_type_id":2524,"variation_key":"15","active_test_id":0,"output_js":true};</script><script type="text/javascript">
+	(function ($) {
+	$(function () {
+		var event_data = {"form_id":"tve-leads-track-lightbox-15","form_type":"lightbox"},
+			_ms = parseInt(60000),
+			event_triggered = false;
+		event_data.source = 'time';
+		setTimeout(function () {
+			if (!event_triggered) {
+				ThriveGlobal.$j(TL_Front).trigger('showform.thriveleads', event_data);
+				event_triggered = true;
+				}
+			}, _ms);
+				/* Chrome has a stupid bug in which it triggers almost simultaneously "mouseenter" "mouseleave" "mouseenter" if the following applies:
+		 - at page load, the cursor is outside the html element
+		 - the user moves the cursor over the html element
+		 */
+		var chrome_fix_id = 0,
+			me = function (e) { /* mouse enter */
+				clearTimeout(chrome_fix_id);
+				},
+			ml = function (e) {
+				if (e.clientY <= config.s) {
+					chrome_fix_id = setTimeout(function () {
+						if (!event_triggered) {
+							ThriveGlobal.$j(TL_Front).trigger('showform.thriveleads', event_data);
+							}
+						event_triggered = true;
+						c();
+						}, 50);
+					}
+				},
+			c = function () { // cancel
+				$(document).off('mouseenter.exit_intent mouseleave.exit_intent');
+				},
+			config = { // we can adjust this and the code below to allow users to tweak settings
+				s: 20 // sensitivity
+				};
+		$(document).on('mouseleave.exit_intent', ml)
+			.on('mouseenter.exit_intent', me);
+				});
+	})
+(ThriveGlobal.$j);
+</script><script type='text/javascript' src='https://stats.wp.com/e-202121.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.1.2',blog:'82621479',post:'2097',tz:'8',srv:'panduanim.com'} ]);
+	_stq.push([ 'clickTrackerInit', '82621479', '2097' ]);
 </script>
+</body></html>
 
-</body>
-</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: panduanim.com @ 2021-05-29 11:05:09 by W3 Total Cache
+-->
